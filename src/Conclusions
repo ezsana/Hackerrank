@@ -1,0 +1,5 @@
+Day of the programmer:
+- it was difficult not to think as a developer but as a tester;
+- even with very simple unit tests you need to think properly through every possible test case and edge cases;
+- after all of my test cases passed, the code also passed the hackerrank test cases.
+
