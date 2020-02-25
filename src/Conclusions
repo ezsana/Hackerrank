@@ -16,6 +16,9 @@ Chocolate Feast:
 - all tests passing except performance - time limits! => refactoring needed;
 
 Cavity Map:
-- huge misunderstanding in requirements (paramaters of method cavityMap) =>
+- huge misunderstanding in requirements (parameters of method cavityMap) =>
   * method theoretically does the right thing but in reality not
 - changed all the tests => experience how bad it is if one misunderstands the requirements
+
+Circular Array Rotation:
+- only tests with time limit didn't pass

@@ -2,10 +2,10 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="ad273933-47d7-45fc-b820-3e267a35a029" name="Default Changelist" comment="">
-      <change afterPath="$PROJECT_DIR$/src/test/java/com/codecool/zsana/hackerrank/CavityMapTest.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/test/java/com/codecool/zsana/hackerrank/CircularArrayRotationTest.java" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/src/Conclusions" beforeDir="false" afterPath="$PROJECT_DIR$/src/Conclusions" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/main/java/com/codecool/zsana/hackerrank/CavityMap.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/com/codecool/zsana/hackerrank/CavityMap.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/java/com/codecool/zsana/hackerrank/CircularArrayRotation.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/com/codecool/zsana/hackerrank/CircularArrayRotation.java" afterDir="false" />
     </list>
     <ignored path="$PROJECT_DIR$/out/" />
     <ignored path="$PROJECT_DIR$/target/" />
@@ -21,32 +21,28 @@
   <component name="FileEditorManager">
     <leaf SIDE_TABS_SIZE_LIMIT_KEY="300">
       <file pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/src/main/java/com/codecool/zsana/hackerrank/CavityMap.java">
+        <entry file="file://$PROJECT_DIR$/src/main/java/com/codecool/zsana/hackerrank/CircularArrayRotation.java">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="255">
-              <caret line="15" column="28" selection-start-line="15" selection-start-column="28" selection-end-line="15" selection-end-column="28" />
-              <folding>
-                <element signature="imports" expanded="true" />
-                <element signature="e#1620#1634#0" expanded="true" />
-              </folding>
-            </state>
-          </provider>
-        </entry>
-      </file>
-      <file pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/src/Conclusions">
-          <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="340">
-              <caret line="20" column="90" selection-start-line="20" selection-start-column="90" selection-end-line="20" selection-end-column="90" />
+            <state relative-caret-position="247">
+              <caret line="24" column="50" lean-forward="true" selection-start-line="24" selection-start-column="50" selection-end-line="24" selection-end-column="50" />
             </state>
           </provider>
         </entry>
       </file>
       <file pinned="false" current-in-tab="true">
-        <entry file="file://$PROJECT_DIR$/src/test/java/com/codecool/zsana/hackerrank/CavityMapTest.java">
+        <entry file="file://$PROJECT_DIR$/src/Conclusions">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="357">
-              <caret line="35" column="8" selection-start-line="35" selection-start-column="8" selection-end-line="35" selection-end-column="8" />
+            <state relative-caret-position="317">
+              <caret line="23" column="40" selection-start-line="23" selection-start-column="40" selection-end-line="23" selection-end-column="40" />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/src/test/java/com/codecool/zsana/hackerrank/CircularArrayRotationTest.java">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="119">
+              <caret line="18" column="19" selection-start-line="18" selection-start-column="19" selection-end-line="18" selection-end-column="19" />
               <folding>
                 <element signature="imports" expanded="true" />
               </folding>
@@ -75,7 +71,6 @@
         <option value="$PROJECT_DIR$/src/main/java/com/codecool/zsana/hackerrank/PickingNumbers.java" />
         <option value="$PROJECT_DIR$/src/main/java/com/codecool/zsana/hackerrank/DesignerPDFViewer.java" />
         <option value="$PROJECT_DIR$/src/main/java/com/codecool/zsana/hackerrank/UtopianTree.java" />
-        <option value="$PROJECT_DIR$/src/main/java/com/codecool/zsana/hackerrank/CircularArrayRotation.java" />
         <option value="$PROJECT_DIR$/src/main/java/com/codecool/zsana/hackerrank/FindDigits.java" />
         <option value="$PROJECT_DIR$/src/main/java/com/codecool/zsana/hackerrank/CutTheSticks.java" />
         <option value="$PROJECT_DIR$/src/main/java/com/codecool/zsana/hackerrank/EqualizeTheArray.java" />
@@ -98,9 +93,11 @@
         <option value="$PROJECT_DIR$/src/test/java/com/codecool/zsana/hackerrank/ACMICPCTeamTest.java" />
         <option value="$PROJECT_DIR$/src/main/java/com/codecool/zsana/hackerrank/ChocolateFeast.java" />
         <option value="$PROJECT_DIR$/src/test/java/com/codecool/zsana/hackerrank/ChocolateFeastTest.java" />
-        <option value="$PROJECT_DIR$/src/Conclusions" />
         <option value="$PROJECT_DIR$/src/main/java/com/codecool/zsana/hackerrank/CavityMap.java" />
         <option value="$PROJECT_DIR$/src/test/java/com/codecool/zsana/hackerrank/CavityMapTest.java" />
+        <option value="$PROJECT_DIR$/src/test/java/com/codecool/zsana/hackerrank/CircularArrayRotationTest.java" />
+        <option value="$PROJECT_DIR$/src/main/java/com/codecool/zsana/hackerrank/CircularArrayRotation.java" />
+        <option value="$PROJECT_DIR$/src/Conclusions" />
       </list>
     </option>
   </component>
@@ -208,8 +205,8 @@
       </list>
     </option>
   </component>
-  <component name="RunManager" selected="JUnit.CavityMapTest.hackerTest2">
-    <configuration name="CavityMapTest.adjacentNumbersTheLargest" type="JUnit" factoryName="JUnit" temporary="true" nameIsGenerated="true">
+  <component name="RunManager" selected="JUnit.CircularArrayRotationTest.oneElementArray">
+    <configuration name="CircularArrayRotationTest" type="JUnit" factoryName="JUnit" temporary="true" nameIsGenerated="true">
       <module name="Hackerrank" />
       <extension name="coverage">
         <pattern>
@@ -218,14 +215,29 @@
         </pattern>
       </extension>
       <option name="PACKAGE_NAME" value="com.codecool.zsana.hackerrank" />
-      <option name="MAIN_CLASS_NAME" value="com.codecool.zsana.hackerrank.CavityMapTest" />
-      <option name="METHOD_NAME" value="adjacentNumbersTheLargest" />
+      <option name="MAIN_CLASS_NAME" value="com.codecool.zsana.hackerrank.CircularArrayRotationTest" />
+      <option name="TEST_OBJECT" value="class" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="CircularArrayRotationTest.emptyArray" type="JUnit" factoryName="JUnit" temporary="true" nameIsGenerated="true">
+      <module name="Hackerrank" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="com.codecool.zsana.hackerrank.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <option name="PACKAGE_NAME" value="com.codecool.zsana.hackerrank" />
+      <option name="MAIN_CLASS_NAME" value="com.codecool.zsana.hackerrank.CircularArrayRotationTest" />
+      <option name="METHOD_NAME" value="emptyArray" />
       <option name="TEST_OBJECT" value="method" />
       <method v="2">
         <option name="Make" enabled="true" />
       </method>
     </configuration>
-    <configuration name="CavityMapTest.borderNumberIsTheLargest" type="JUnit" factoryName="JUnit" temporary="true" nameIsGenerated="true">
+    <configuration name="CircularArrayRotationTest.oneElementArray" type="JUnit" factoryName="JUnit" temporary="true" nameIsGenerated="true">
       <module name="Hackerrank" />
       <extension name="coverage">
         <pattern>
@@ -234,14 +246,14 @@
         </pattern>
       </extension>
       <option name="PACKAGE_NAME" value="com.codecool.zsana.hackerrank" />
-      <option name="MAIN_CLASS_NAME" value="com.codecool.zsana.hackerrank.CavityMapTest" />
-      <option name="METHOD_NAME" value="borderNumberIsTheLargest" />
+      <option name="MAIN_CLASS_NAME" value="com.codecool.zsana.hackerrank.CircularArrayRotationTest" />
+      <option name="METHOD_NAME" value="oneElementArray" />
       <option name="TEST_OBJECT" value="method" />
       <method v="2">
         <option name="Make" enabled="true" />
       </method>
     </configuration>
-    <configuration name="CavityMapTest.hackerTest" type="JUnit" factoryName="JUnit" temporary="true" nameIsGenerated="true">
+    <configuration name="CircularArrayRotationTest.threeElementsArray" type="JUnit" factoryName="JUnit" temporary="true" nameIsGenerated="true">
       <module name="Hackerrank" />
       <extension name="coverage">
         <pattern>
@@ -250,14 +262,14 @@
         </pattern>
       </extension>
       <option name="PACKAGE_NAME" value="com.codecool.zsana.hackerrank" />
-      <option name="MAIN_CLASS_NAME" value="com.codecool.zsana.hackerrank.CavityMapTest" />
-      <option name="METHOD_NAME" value="hackerTest" />
+      <option name="MAIN_CLASS_NAME" value="com.codecool.zsana.hackerrank.CircularArrayRotationTest" />
+      <option name="METHOD_NAME" value="threeElementsArray" />
       <option name="TEST_OBJECT" value="method" />
       <method v="2">
         <option name="Make" enabled="true" />
       </method>
     </configuration>
-    <configuration name="CavityMapTest.hackerTest2" type="JUnit" factoryName="JUnit" temporary="true" nameIsGenerated="true">
+    <configuration name="CircularArrayRotationTest.twoElementsArray" type="JUnit" factoryName="JUnit" temporary="true" nameIsGenerated="true">
       <module name="Hackerrank" />
       <extension name="coverage">
         <pattern>
@@ -266,24 +278,8 @@
         </pattern>
       </extension>
       <option name="PACKAGE_NAME" value="com.codecool.zsana.hackerrank" />
-      <option name="MAIN_CLASS_NAME" value="com.codecool.zsana.hackerrank.CavityMapTest" />
-      <option name="METHOD_NAME" value="hackerTest2" />
-      <option name="TEST_OBJECT" value="method" />
-      <method v="2">
-        <option name="Make" enabled="true" />
-      </method>
-    </configuration>
-    <configuration name="CavityMapTest.onlyBorderNumbers" type="JUnit" factoryName="JUnit" temporary="true" nameIsGenerated="true">
-      <module name="Hackerrank" />
-      <extension name="coverage">
-        <pattern>
-          <option name="PATTERN" value="com.codecool.zsana.hackerrank.*" />
-          <option name="ENABLED" value="true" />
-        </pattern>
-      </extension>
-      <option name="PACKAGE_NAME" value="com.codecool.zsana.hackerrank" />
-      <option name="MAIN_CLASS_NAME" value="com.codecool.zsana.hackerrank.CavityMapTest" />
-      <option name="METHOD_NAME" value="onlyBorderNumbers" />
+      <option name="MAIN_CLASS_NAME" value="com.codecool.zsana.hackerrank.CircularArrayRotationTest" />
+      <option name="METHOD_NAME" value="twoElementsArray" />
       <option name="TEST_OBJECT" value="method" />
       <method v="2">
         <option name="Make" enabled="true" />
@@ -291,11 +287,11 @@
     </configuration>
     <recent_temporary>
       <list>
-        <item itemvalue="JUnit.CavityMapTest.hackerTest2" />
-        <item itemvalue="JUnit.CavityMapTest.hackerTest" />
-        <item itemvalue="JUnit.CavityMapTest.adjacentNumbersTheLargest" />
-        <item itemvalue="JUnit.CavityMapTest.borderNumberIsTheLargest" />
-        <item itemvalue="JUnit.CavityMapTest.onlyBorderNumbers" />
+        <item itemvalue="JUnit.CircularArrayRotationTest.oneElementArray" />
+        <item itemvalue="JUnit.CircularArrayRotationTest.threeElementsArray" />
+        <item itemvalue="JUnit.CircularArrayRotationTest.twoElementsArray" />
+        <item itemvalue="JUnit.CircularArrayRotationTest.emptyArray" />
+        <item itemvalue="JUnit.CircularArrayRotationTest" />
       </list>
     </recent_temporary>
   </component>
@@ -314,7 +310,7 @@
       <workItem from="1582394112547" duration="4648000" />
       <workItem from="1582401272812" duration="2725000" />
       <workItem from="1582616366128" duration="15017000" />
-      <workItem from="1582637147783" duration="8093000" />
+      <workItem from="1582637147783" duration="13130000" />
     </task>
     <task id="LOCAL-00001" summary="BigSorting &amp; tests">
       <created>1582406087016</created>
@@ -330,43 +326,50 @@
       <option name="project" value="LOCAL" />
       <updated>1582621131187</updated>
     </task>
-    <option name="localTasksCounter" value="3" />
+    <task id="LOCAL-00003" summary="Cavity Map @ Tests">
+      <created>1582645436427</created>
+      <option name="number" value="00003" />
+      <option name="presentableId" value="LOCAL-00003" />
+      <option name="project" value="LOCAL" />
+      <updated>1582645436427</updated>
+    </task>
+    <option name="localTasksCounter" value="4" />
     <servers />
   </component>
   <component name="TestHistory">
-    <history-entry file="CavityMapTest_hackerTest - 2020.02.25 at 15h 06m 29s.xml">
-      <configuration name="CavityMapTest.hackerTest" configurationId="JUnit" />
+    <history-entry file="CircularArrayRotationTest_threeElementsArray - 2020.02.25 at 18h 06m 20s.xml">
+      <configuration name="CircularArrayRotationTest.threeElementsArray" configurationId="JUnit" />
     </history-entry>
-    <history-entry file="CavityMapTest_hackerTest - 2020.02.25 at 15h 10m 38s.xml">
-      <configuration name="CavityMapTest.hackerTest" configurationId="JUnit" />
+    <history-entry file="CircularArrayRotationTest_threeElementsArray - 2020.02.25 at 18h 08m 06s.xml">
+      <configuration name="CircularArrayRotationTest.threeElementsArray" configurationId="JUnit" />
     </history-entry>
-    <history-entry file="CavityMapTest_rightTest - 2020.02.25 at 16h 12m 46s.xml">
-      <configuration name="CavityMapTest.rightTest" configurationId="JUnit" />
+    <history-entry file="CircularArrayRotationTest_threeElementsArray - 2020.02.25 at 18h 08m 52s.xml">
+      <configuration name="CircularArrayRotationTest.threeElementsArray" configurationId="JUnit" />
     </history-entry>
-    <history-entry file="CavityMapTest_rightTest - 2020.02.25 at 16h 14m 13s.xml">
-      <configuration name="CavityMapTest.rightTest" configurationId="JUnit" />
+    <history-entry file="CircularArrayRotationTest_threeElementsArray - 2020.02.25 at 18h 09m 39s.xml">
+      <configuration name="CircularArrayRotationTest.threeElementsArray" configurationId="JUnit" />
     </history-entry>
-    <history-entry file="CavityMapTest_rightTest2 - 2020.02.25 at 16h 20m 21s.xml">
-      <configuration name="CavityMapTest.rightTest2" configurationId="JUnit" />
+    <history-entry file="CircularArrayRotationTest_threeElementsArray - 2020.02.25 at 18h 11m 06s.xml">
+      <configuration name="CircularArrayRotationTest.threeElementsArray" configurationId="JUnit" />
     </history-entry>
-    <history-entry file="CavityMapTest_matrixIsNotSquare - 2020.02.25 at 16h 26m 59s.xml">
-      <configuration name="CavityMapTest.matrixIsNotSquare" configurationId="JUnit" />
+    <history-entry file="CircularArrayRotationTest_threeElementsArray - 2020.02.25 at 18h 12m 43s.xml">
+      <configuration name="CircularArrayRotationTest.threeElementsArray" configurationId="JUnit" />
     </history-entry>
-    <history-entry file="CavityMapTest_matrixIsNotSquare - 2020.02.25 at 16h 35m 21s.xml">
-      <configuration name="CavityMapTest.matrixIsNotSquare" configurationId="JUnit" />
+    <history-entry file="CircularArrayRotationTest_threeElementsArray - 2020.02.25 at 18h 14m 12s.xml">
+      <configuration name="CircularArrayRotationTest.threeElementsArray" configurationId="JUnit" />
     </history-entry>
-    <history-entry file="CavityMapTest_matrixConsistsFromOneCell - 2020.02.25 at 16h 35m 28s.xml">
-      <configuration name="CavityMapTest.matrixConsistsFromOneCell" configurationId="JUnit" />
+    <history-entry file="CircularArrayRotationTest_threeElementsArray - 2020.02.25 at 18h 14m 23s.xml">
+      <configuration name="CircularArrayRotationTest.threeElementsArray" configurationId="JUnit" />
     </history-entry>
-    <history-entry file="CavityMapTest_onlyBorderNumbers - 2020.02.25 at 16h 36m 49s.xml">
-      <configuration name="CavityMapTest.onlyBorderNumbers" configurationId="JUnit" />
+    <history-entry file="CircularArrayRotationTest_threeElementsArray - 2020.02.25 at 18h 15m 52s.xml">
+      <configuration name="CircularArrayRotationTest.threeElementsArray" configurationId="JUnit" />
     </history-entry>
-    <history-entry file="CavityMapTest_borderNumberIsTheLargest - 2020.02.25 at 16h 37m 37s.xml">
-      <configuration name="CavityMapTest.borderNumberIsTheLargest" configurationId="JUnit" />
+    <history-entry file="CircularArrayRotationTest_oneElementArray - 2020.02.25 at 18h 16m 35s.xml">
+      <configuration name="CircularArrayRotationTest.oneElementArray" configurationId="JUnit" />
     </history-entry>
   </component>
   <component name="TimeTrackingManager">
-    <option name="totallyTimeSpent" value="45521000" />
+    <option name="totallyTimeSpent" value="50558000" />
   </component>
   <component name="TodoView">
     <todo-panel id="selected-file">
@@ -381,7 +384,7 @@
     <frame x="67" y="27" width="1299" height="741" extended-state="7" />
     <editor active="true" />
     <layout>
-      <window_info content_ui="combo" id="Project" order="0" weight="0.19233839" />
+      <window_info active="true" content_ui="combo" id="Project" order="0" visible="true" weight="0.23782921" />
       <window_info id="Structure" order="1" side_tool="true" weight="0.25" />
       <window_info id="Image Layers" order="2" />
       <window_info id="Designer" order="3" />
@@ -390,7 +393,7 @@
       <window_info id="Favorites" order="6" side_tool="true" />
       <window_info anchor="bottom" id="Message" order="0" />
       <window_info anchor="bottom" id="Find" order="1" />
-      <window_info active="true" anchor="bottom" id="Run" order="2" visible="true" weight="0.16859505" />
+      <window_info anchor="bottom" id="Run" order="2" visible="true" weight="0.32396695" />
       <window_info anchor="bottom" id="Debug" order="3" weight="0.3966942" />
       <window_info anchor="bottom" id="Cvs" order="4" weight="0.25" />
       <window_info anchor="bottom" id="Inspection" order="5" weight="0.4" />
@@ -418,18 +421,12 @@
   <component name="VcsManagerConfiguration">
     <MESSAGE value="BigSorting &amp; tests" />
     <MESSAGE value="Chocolate Feast &amp; Tests" />
-    <option name="LAST_COMMIT_MESSAGE" value="Chocolate Feast &amp; Tests" />
+    <MESSAGE value="Cavity Map @ Tests" />
+    <option name="LAST_COMMIT_MESSAGE" value="Cavity Map @ Tests" />
   </component>
   <component name="editorHistoryManager">
     <entry file="file://$PROJECT_DIR$/pom.xml">
       <provider selected="true" editor-type-id="text-editor" />
-    </entry>
-    <entry file="file://$PROJECT_DIR$/src/main/java/com/codecool/zsana/hackerrank/DesignerPDFViewer.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="85">
-          <caret line="5" column="83" selection-start-line="5" selection-start-column="83" selection-end-line="5" selection-end-column="83" />
-        </state>
-      </provider>
     </entry>
     <entry file="file://$PROJECT_DIR$/src/main/java/com/codecool/zsana/hackerrank/ElectronicShop.java">
       <provider selected="true" editor-type-id="text-editor">
@@ -543,20 +540,6 @@
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/src/main/java/com/codecool/zsana/hackerrank/CircularArrayRotation.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="85">
-          <caret line="5" column="87" selection-start-line="5" selection-start-column="87" selection-end-line="5" selection-end-column="87" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/src/main/java/com/codecool/zsana/hackerrank/CutTheSticks.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="51">
-          <caret line="3" column="13" selection-start-line="3" selection-start-column="13" selection-end-line="3" selection-end-column="13" />
-        </state>
-      </provider>
-    </entry>
     <entry file="file://$PROJECT_DIR$/.gitignore">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="170">
@@ -643,13 +626,6 @@
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/src/Conclusions">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="340">
-          <caret line="20" column="90" selection-start-line="20" selection-start-column="90" selection-end-line="20" selection-end-column="90" />
-        </state>
-      </provider>
-    </entry>
     <entry file="file://$PROJECT_DIR$/src/main/java/com/codecool/zsana/hackerrank/CavityMap.java">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="255">
@@ -663,11 +639,49 @@
     </entry>
     <entry file="file://$PROJECT_DIR$/src/test/java/com/codecool/zsana/hackerrank/CavityMapTest.java">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="357">
-          <caret line="35" column="8" selection-start-line="35" selection-start-column="8" selection-end-line="35" selection-end-column="8" />
+        <state relative-caret-position="349">
+          <caret line="53" column="1" lean-forward="true" selection-start-line="53" selection-start-column="1" selection-end-line="53" selection-end-column="1" />
           <folding>
             <element signature="imports" expanded="true" />
           </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/main/java/com/codecool/zsana/hackerrank/CutTheSticks.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="51">
+          <caret line="3" column="13" selection-start-line="3" selection-start-column="13" selection-end-line="3" selection-end-column="13" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/main/java/com/codecool/zsana/hackerrank/DesignerPDFViewer.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="85">
+          <caret line="5" column="83" selection-start-line="5" selection-start-column="83" selection-end-line="5" selection-end-column="83" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/test/java/com/codecool/zsana/hackerrank/CircularArrayRotationTest.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="119">
+          <caret line="18" column="19" selection-start-line="18" selection-start-column="19" selection-end-line="18" selection-end-column="19" />
+          <folding>
+            <element signature="imports" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/main/java/com/codecool/zsana/hackerrank/CircularArrayRotation.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="247">
+          <caret line="24" column="50" lean-forward="true" selection-start-line="24" selection-start-column="50" selection-end-line="24" selection-end-column="50" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/Conclusions">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="317">
+          <caret line="23" column="40" selection-start-line="23" selection-start-column="40" selection-end-line="23" selection-end-column="40" />
         </state>
       </provider>
     </entry>
