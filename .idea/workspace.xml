@@ -2,10 +2,10 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="ad273933-47d7-45fc-b820-3e267a35a029" name="Default Changelist" comment="">
-      <change afterPath="$PROJECT_DIR$/src/test/java/com/codecool/zsana/hackerrank/CircularArrayRotationTest.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/test/java/com/codecool/zsana/hackerrank/DesignerPDFViewerTest.java" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/src/Conclusions" beforeDir="false" afterPath="$PROJECT_DIR$/src/Conclusions" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/main/java/com/codecool/zsana/hackerrank/CircularArrayRotation.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/com/codecool/zsana/hackerrank/CircularArrayRotation.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/java/com/codecool/zsana/hackerrank/DesignerPDFViewer.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/com/codecool/zsana/hackerrank/DesignerPDFViewer.java" afterDir="false" />
     </list>
     <ignored path="$PROJECT_DIR$/out/" />
     <ignored path="$PROJECT_DIR$/target/" />
@@ -21,30 +21,32 @@
   <component name="FileEditorManager">
     <leaf SIDE_TABS_SIZE_LIMIT_KEY="300">
       <file pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/src/main/java/com/codecool/zsana/hackerrank/CircularArrayRotation.java">
-          <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="247">
-              <caret line="24" column="50" lean-forward="true" selection-start-line="24" selection-start-column="50" selection-end-line="24" selection-end-column="50" />
-            </state>
-          </provider>
-        </entry>
-      </file>
-      <file pinned="false" current-in-tab="true">
         <entry file="file://$PROJECT_DIR$/src/Conclusions">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="317">
-              <caret line="23" column="40" selection-start-line="23" selection-start-column="40" selection-end-line="23" selection-end-column="40" />
+            <state relative-caret-position="442">
+              <caret line="26" column="49" selection-start-line="26" selection-start-column="49" selection-end-line="26" selection-end-column="49" />
             </state>
           </provider>
         </entry>
       </file>
       <file pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/src/test/java/com/codecool/zsana/hackerrank/CircularArrayRotationTest.java">
+        <entry file="file://$PROJECT_DIR$/src/main/java/com/codecool/zsana/hackerrank/DesignerPDFViewer.java">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="119">
-              <caret line="18" column="19" selection-start-line="18" selection-start-column="19" selection-end-line="18" selection-end-column="19" />
+            <state relative-caret-position="315">
+              <caret line="19" column="35" lean-forward="true" selection-start-line="19" selection-start-column="35" selection-end-line="19" selection-end-column="35" />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file pinned="false" current-in-tab="true">
+        <entry file="file://$PROJECT_DIR$/src/test/java/com/codecool/zsana/hackerrank/DesignerPDFViewerTest.java">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="272">
+              <caret line="16" column="19" selection-start-line="16" selection-start-column="19" selection-end-line="16" selection-end-column="19" />
               <folding>
                 <element signature="imports" expanded="true" />
+                <element signature="e#299#300#0" expanded="true" />
+                <element signature="e#324#325#0" expanded="true" />
               </folding>
             </state>
           </provider>
@@ -69,7 +71,6 @@
         <option value="$PROJECT_DIR$/src/main/java/com/codecool/zsana/hackerrank/TimeConversion.java" />
         <option value="$PROJECT_DIR$/src/main/java/com/codecool/zsana/hackerrank/ElectronicShop.java" />
         <option value="$PROJECT_DIR$/src/main/java/com/codecool/zsana/hackerrank/PickingNumbers.java" />
-        <option value="$PROJECT_DIR$/src/main/java/com/codecool/zsana/hackerrank/DesignerPDFViewer.java" />
         <option value="$PROJECT_DIR$/src/main/java/com/codecool/zsana/hackerrank/UtopianTree.java" />
         <option value="$PROJECT_DIR$/src/main/java/com/codecool/zsana/hackerrank/FindDigits.java" />
         <option value="$PROJECT_DIR$/src/main/java/com/codecool/zsana/hackerrank/CutTheSticks.java" />
@@ -97,6 +98,8 @@
         <option value="$PROJECT_DIR$/src/test/java/com/codecool/zsana/hackerrank/CavityMapTest.java" />
         <option value="$PROJECT_DIR$/src/test/java/com/codecool/zsana/hackerrank/CircularArrayRotationTest.java" />
         <option value="$PROJECT_DIR$/src/main/java/com/codecool/zsana/hackerrank/CircularArrayRotation.java" />
+        <option value="$PROJECT_DIR$/src/test/java/com/codecool/zsana/hackerrank/DesignerPDFViewerTest.java" />
+        <option value="$PROJECT_DIR$/src/main/java/com/codecool/zsana/hackerrank/DesignerPDFViewer.java" />
         <option value="$PROJECT_DIR$/src/Conclusions" />
       </list>
     </option>
@@ -205,38 +208,7 @@
       </list>
     </option>
   </component>
-  <component name="RunManager" selected="JUnit.CircularArrayRotationTest.oneElementArray">
-    <configuration name="CircularArrayRotationTest" type="JUnit" factoryName="JUnit" temporary="true" nameIsGenerated="true">
-      <module name="Hackerrank" />
-      <extension name="coverage">
-        <pattern>
-          <option name="PATTERN" value="com.codecool.zsana.hackerrank.*" />
-          <option name="ENABLED" value="true" />
-        </pattern>
-      </extension>
-      <option name="PACKAGE_NAME" value="com.codecool.zsana.hackerrank" />
-      <option name="MAIN_CLASS_NAME" value="com.codecool.zsana.hackerrank.CircularArrayRotationTest" />
-      <option name="TEST_OBJECT" value="class" />
-      <method v="2">
-        <option name="Make" enabled="true" />
-      </method>
-    </configuration>
-    <configuration name="CircularArrayRotationTest.emptyArray" type="JUnit" factoryName="JUnit" temporary="true" nameIsGenerated="true">
-      <module name="Hackerrank" />
-      <extension name="coverage">
-        <pattern>
-          <option name="PATTERN" value="com.codecool.zsana.hackerrank.*" />
-          <option name="ENABLED" value="true" />
-        </pattern>
-      </extension>
-      <option name="PACKAGE_NAME" value="com.codecool.zsana.hackerrank" />
-      <option name="MAIN_CLASS_NAME" value="com.codecool.zsana.hackerrank.CircularArrayRotationTest" />
-      <option name="METHOD_NAME" value="emptyArray" />
-      <option name="TEST_OBJECT" value="method" />
-      <method v="2">
-        <option name="Make" enabled="true" />
-      </method>
-    </configuration>
+  <component name="RunManager" selected="JUnit.DesignerPDFViewerTest.getAreaWithMoreLetters">
     <configuration name="CircularArrayRotationTest.oneElementArray" type="JUnit" factoryName="JUnit" temporary="true" nameIsGenerated="true">
       <module name="Hackerrank" />
       <extension name="coverage">
@@ -253,7 +225,7 @@
         <option name="Make" enabled="true" />
       </method>
     </configuration>
-    <configuration name="CircularArrayRotationTest.threeElementsArray" type="JUnit" factoryName="JUnit" temporary="true" nameIsGenerated="true">
+    <configuration name="DesignerPDFViewerTest" type="JUnit" factoryName="JUnit" temporary="true" nameIsGenerated="true">
       <module name="Hackerrank" />
       <extension name="coverage">
         <pattern>
@@ -262,14 +234,29 @@
         </pattern>
       </extension>
       <option name="PACKAGE_NAME" value="com.codecool.zsana.hackerrank" />
-      <option name="MAIN_CLASS_NAME" value="com.codecool.zsana.hackerrank.CircularArrayRotationTest" />
-      <option name="METHOD_NAME" value="threeElementsArray" />
+      <option name="MAIN_CLASS_NAME" value="com.codecool.zsana.hackerrank.DesignerPDFViewerTest" />
+      <option name="TEST_OBJECT" value="class" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="DesignerPDFViewerTest.emptyString" type="JUnit" factoryName="JUnit" temporary="true" nameIsGenerated="true">
+      <module name="Hackerrank" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="com.codecool.zsana.hackerrank.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <option name="PACKAGE_NAME" value="com.codecool.zsana.hackerrank" />
+      <option name="MAIN_CLASS_NAME" value="com.codecool.zsana.hackerrank.DesignerPDFViewerTest" />
+      <option name="METHOD_NAME" value="emptyString" />
       <option name="TEST_OBJECT" value="method" />
       <method v="2">
         <option name="Make" enabled="true" />
       </method>
     </configuration>
-    <configuration name="CircularArrayRotationTest.twoElementsArray" type="JUnit" factoryName="JUnit" temporary="true" nameIsGenerated="true">
+    <configuration name="DesignerPDFViewerTest.getAreaWithMoreLetters" type="JUnit" factoryName="JUnit" temporary="true" nameIsGenerated="true">
       <module name="Hackerrank" />
       <extension name="coverage">
         <pattern>
@@ -278,8 +265,24 @@
         </pattern>
       </extension>
       <option name="PACKAGE_NAME" value="com.codecool.zsana.hackerrank" />
-      <option name="MAIN_CLASS_NAME" value="com.codecool.zsana.hackerrank.CircularArrayRotationTest" />
-      <option name="METHOD_NAME" value="twoElementsArray" />
+      <option name="MAIN_CLASS_NAME" value="com.codecool.zsana.hackerrank.DesignerPDFViewerTest" />
+      <option name="METHOD_NAME" value="getAreaWithMoreLetters" />
+      <option name="TEST_OBJECT" value="method" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="DesignerPDFViewerTest.uppercaseLetters" type="JUnit" factoryName="JUnit" temporary="true" nameIsGenerated="true">
+      <module name="Hackerrank" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="com.codecool.zsana.hackerrank.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <option name="PACKAGE_NAME" value="com.codecool.zsana.hackerrank" />
+      <option name="MAIN_CLASS_NAME" value="com.codecool.zsana.hackerrank.DesignerPDFViewerTest" />
+      <option name="METHOD_NAME" value="uppercaseLetters" />
       <option name="TEST_OBJECT" value="method" />
       <method v="2">
         <option name="Make" enabled="true" />
@@ -287,11 +290,11 @@
     </configuration>
     <recent_temporary>
       <list>
+        <item itemvalue="JUnit.DesignerPDFViewerTest.getAreaWithMoreLetters" />
+        <item itemvalue="JUnit.DesignerPDFViewerTest.uppercaseLetters" />
+        <item itemvalue="JUnit.DesignerPDFViewerTest.emptyString" />
+        <item itemvalue="JUnit.DesignerPDFViewerTest" />
         <item itemvalue="JUnit.CircularArrayRotationTest.oneElementArray" />
-        <item itemvalue="JUnit.CircularArrayRotationTest.threeElementsArray" />
-        <item itemvalue="JUnit.CircularArrayRotationTest.twoElementsArray" />
-        <item itemvalue="JUnit.CircularArrayRotationTest.emptyArray" />
-        <item itemvalue="JUnit.CircularArrayRotationTest" />
       </list>
     </recent_temporary>
   </component>
@@ -310,7 +313,7 @@
       <workItem from="1582394112547" duration="4648000" />
       <workItem from="1582401272812" duration="2725000" />
       <workItem from="1582616366128" duration="15017000" />
-      <workItem from="1582637147783" duration="13130000" />
+      <workItem from="1582637147783" duration="16565000" />
     </task>
     <task id="LOCAL-00001" summary="BigSorting &amp; tests">
       <created>1582406087016</created>
@@ -333,43 +336,50 @@
       <option name="project" value="LOCAL" />
       <updated>1582645436427</updated>
     </task>
-    <option name="localTasksCounter" value="4" />
+    <task id="LOCAL-00004" summary="Circular Array Rotation @ Tests">
+      <created>1582651335393</created>
+      <option name="number" value="00004" />
+      <option name="presentableId" value="LOCAL-00004" />
+      <option name="project" value="LOCAL" />
+      <updated>1582651335393</updated>
+    </task>
+    <option name="localTasksCounter" value="5" />
     <servers />
   </component>
   <component name="TestHistory">
-    <history-entry file="CircularArrayRotationTest_threeElementsArray - 2020.02.25 at 18h 06m 20s.xml">
-      <configuration name="CircularArrayRotationTest.threeElementsArray" configurationId="JUnit" />
-    </history-entry>
-    <history-entry file="CircularArrayRotationTest_threeElementsArray - 2020.02.25 at 18h 08m 06s.xml">
-      <configuration name="CircularArrayRotationTest.threeElementsArray" configurationId="JUnit" />
-    </history-entry>
-    <history-entry file="CircularArrayRotationTest_threeElementsArray - 2020.02.25 at 18h 08m 52s.xml">
-      <configuration name="CircularArrayRotationTest.threeElementsArray" configurationId="JUnit" />
-    </history-entry>
-    <history-entry file="CircularArrayRotationTest_threeElementsArray - 2020.02.25 at 18h 09m 39s.xml">
-      <configuration name="CircularArrayRotationTest.threeElementsArray" configurationId="JUnit" />
-    </history-entry>
-    <history-entry file="CircularArrayRotationTest_threeElementsArray - 2020.02.25 at 18h 11m 06s.xml">
-      <configuration name="CircularArrayRotationTest.threeElementsArray" configurationId="JUnit" />
-    </history-entry>
-    <history-entry file="CircularArrayRotationTest_threeElementsArray - 2020.02.25 at 18h 12m 43s.xml">
-      <configuration name="CircularArrayRotationTest.threeElementsArray" configurationId="JUnit" />
-    </history-entry>
-    <history-entry file="CircularArrayRotationTest_threeElementsArray - 2020.02.25 at 18h 14m 12s.xml">
-      <configuration name="CircularArrayRotationTest.threeElementsArray" configurationId="JUnit" />
-    </history-entry>
-    <history-entry file="CircularArrayRotationTest_threeElementsArray - 2020.02.25 at 18h 14m 23s.xml">
-      <configuration name="CircularArrayRotationTest.threeElementsArray" configurationId="JUnit" />
-    </history-entry>
-    <history-entry file="CircularArrayRotationTest_threeElementsArray - 2020.02.25 at 18h 15m 52s.xml">
-      <configuration name="CircularArrayRotationTest.threeElementsArray" configurationId="JUnit" />
-    </history-entry>
     <history-entry file="CircularArrayRotationTest_oneElementArray - 2020.02.25 at 18h 16m 35s.xml">
       <configuration name="CircularArrayRotationTest.oneElementArray" configurationId="JUnit" />
     </history-entry>
+    <history-entry file="CircularArrayRotationTest_oneElementArray - 2020.02.25 at 18h 21m 18s.xml">
+      <configuration name="CircularArrayRotationTest.oneElementArray" configurationId="JUnit" />
+    </history-entry>
+    <history-entry file="DesignerPDFViewerTest - 2020.02.25 at 19h 09m 16s.xml">
+      <configuration name="DesignerPDFViewerTest" configurationId="JUnit" />
+    </history-entry>
+    <history-entry file="DesignerPDFViewerTest_emptyString - 2020.02.25 at 19h 23m 37s.xml">
+      <configuration name="DesignerPDFViewerTest.emptyString" configurationId="JUnit" />
+    </history-entry>
+    <history-entry file="DesignerPDFViewerTest_uppercaseLetters - 2020.02.25 at 19h 23m 43s.xml">
+      <configuration name="DesignerPDFViewerTest.uppercaseLetters" configurationId="JUnit" />
+    </history-entry>
+    <history-entry file="DesignerPDFViewerTest_uppercaseLetters - 2020.02.25 at 19h 25m 16s.xml">
+      <configuration name="DesignerPDFViewerTest.uppercaseLetters" configurationId="JUnit" />
+    </history-entry>
+    <history-entry file="DesignerPDFViewerTest_uppercaseLetters - 2020.02.25 at 19h 25m 36s.xml">
+      <configuration name="DesignerPDFViewerTest.uppercaseLetters" configurationId="JUnit" />
+    </history-entry>
+    <history-entry file="DesignerPDFViewerTest_uppercaseLetters - 2020.02.25 at 19h 26m 14s.xml">
+      <configuration name="DesignerPDFViewerTest.uppercaseLetters" configurationId="JUnit" />
+    </history-entry>
+    <history-entry file="DesignerPDFViewerTest_uppercaseLetters - 2020.02.25 at 19h 27m 04s.xml">
+      <configuration name="DesignerPDFViewerTest.uppercaseLetters" configurationId="JUnit" />
+    </history-entry>
+    <history-entry file="DesignerPDFViewerTest_getAreaWithMoreLetters - 2020.02.25 at 19h 27m 18s.xml">
+      <configuration name="DesignerPDFViewerTest.getAreaWithMoreLetters" configurationId="JUnit" />
+    </history-entry>
   </component>
   <component name="TimeTrackingManager">
-    <option name="totallyTimeSpent" value="50558000" />
+    <option name="totallyTimeSpent" value="53993000" />
   </component>
   <component name="TodoView">
     <todo-panel id="selected-file">
@@ -381,10 +391,10 @@
     </todo-panel>
   </component>
   <component name="ToolWindowManager">
-    <frame x="67" y="27" width="1299" height="741" extended-state="7" />
+    <frame x="67" y="27" width="1299" height="741" extended-state="6" />
     <editor active="true" />
     <layout>
-      <window_info active="true" content_ui="combo" id="Project" order="0" visible="true" weight="0.23782921" />
+      <window_info content_ui="combo" id="Project" order="0" weight="0.23782921" />
       <window_info id="Structure" order="1" side_tool="true" weight="0.25" />
       <window_info id="Image Layers" order="2" />
       <window_info id="Designer" order="3" />
@@ -393,7 +403,7 @@
       <window_info id="Favorites" order="6" side_tool="true" />
       <window_info anchor="bottom" id="Message" order="0" />
       <window_info anchor="bottom" id="Find" order="1" />
-      <window_info anchor="bottom" id="Run" order="2" visible="true" weight="0.32396695" />
+      <window_info anchor="bottom" id="Run" order="2" weight="0.3966942" />
       <window_info anchor="bottom" id="Debug" order="3" weight="0.3966942" />
       <window_info anchor="bottom" id="Cvs" order="4" weight="0.25" />
       <window_info anchor="bottom" id="Inspection" order="5" weight="0.4" />
@@ -422,7 +432,8 @@
     <MESSAGE value="BigSorting &amp; tests" />
     <MESSAGE value="Chocolate Feast &amp; Tests" />
     <MESSAGE value="Cavity Map @ Tests" />
-    <option name="LAST_COMMIT_MESSAGE" value="Cavity Map @ Tests" />
+    <MESSAGE value="Circular Array Rotation @ Tests" />
+    <option name="LAST_COMMIT_MESSAGE" value="Circular Array Rotation @ Tests" />
   </component>
   <component name="editorHistoryManager">
     <entry file="file://$PROJECT_DIR$/pom.xml">
@@ -654,16 +665,16 @@
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/src/main/java/com/codecool/zsana/hackerrank/DesignerPDFViewer.java">
+    <entry file="file://$PROJECT_DIR$/src/main/java/com/codecool/zsana/hackerrank/CircularArrayRotation.java">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="85">
-          <caret line="5" column="83" selection-start-line="5" selection-start-column="83" selection-end-line="5" selection-end-column="83" />
+        <state relative-caret-position="153">
+          <caret line="23" column="45" lean-forward="true" selection-start-line="23" selection-start-column="45" selection-end-line="23" selection-end-column="45" />
         </state>
       </provider>
     </entry>
     <entry file="file://$PROJECT_DIR$/src/test/java/com/codecool/zsana/hackerrank/CircularArrayRotationTest.java">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="119">
+        <state relative-caret-position="204">
           <caret line="18" column="19" selection-start-line="18" selection-start-column="19" selection-end-line="18" selection-end-column="19" />
           <folding>
             <element signature="imports" expanded="true" />
@@ -671,17 +682,29 @@
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/src/main/java/com/codecool/zsana/hackerrank/CircularArrayRotation.java">
+    <entry file="file://$PROJECT_DIR$/src/Conclusions">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="247">
-          <caret line="24" column="50" lean-forward="true" selection-start-line="24" selection-start-column="50" selection-end-line="24" selection-end-column="50" />
+        <state relative-caret-position="442">
+          <caret line="26" column="49" selection-start-line="26" selection-start-column="49" selection-end-line="26" selection-end-column="49" />
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/src/Conclusions">
+    <entry file="file://$PROJECT_DIR$/src/main/java/com/codecool/zsana/hackerrank/DesignerPDFViewer.java">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="317">
-          <caret line="23" column="40" selection-start-line="23" selection-start-column="40" selection-end-line="23" selection-end-column="40" />
+        <state relative-caret-position="315">
+          <caret line="19" column="35" lean-forward="true" selection-start-line="19" selection-start-column="35" selection-end-line="19" selection-end-column="35" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/test/java/com/codecool/zsana/hackerrank/DesignerPDFViewerTest.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="272">
+          <caret line="16" column="19" selection-start-line="16" selection-start-column="19" selection-end-line="16" selection-end-column="19" />
+          <folding>
+            <element signature="imports" expanded="true" />
+            <element signature="e#299#300#0" expanded="true" />
+            <element signature="e#324#325#0" expanded="true" />
+          </folding>
         </state>
       </provider>
     </entry>
