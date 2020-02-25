@@ -9,3 +9,7 @@ Big sorting:
 - working with BigInt is more complicated
 - time limit is a problem (my tests didn't cover that), I need to refactor the code
 - output was just the String[], not needed to print is out
+
+Chocolate Feast:
+- concentrating on one test to pass at a time;
+- all tests passing except performance - time limits! => refactoring needed;
