@@ -12,4 +12,10 @@ Big sorting:
 
 Chocolate Feast:
 - concentrating on one test to pass at a time;
+- one test was wrong! Beware!!!
 - all tests passing except performance - time limits! => refactoring needed;
+
+Cavity Map:
+- huge misunderstanding in requirements (paramaters of method cavityMap) =>
+  * method theoretically does the right thing but in reality not
+- changed all the tests => experience how bad it is if one misunderstands the requirements
