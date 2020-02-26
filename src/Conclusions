@@ -28,3 +28,6 @@ Designer pdf:
 
 Electronic Shop:
 - nothing special, all tests (Hackerrank as well) passed;
+
+Cut The Sticks:
+- sometimes test cases coming up when solving the challenge (moreThanOneLastElement);
