@@ -1,3 +1,8 @@
+15 points: 3;
+20 points: 6;
+25 points: 9;
+30 points: 6;
+
 Day of the programmer:
 - it was difficult not to think as a developer but as a tester;
 - even with very simple unit tests you need to think properly through every possible test case and edge cases;
@@ -31,3 +36,9 @@ Electronic Shop:
 
 Cut The Sticks:
 - sometimes test cases coming up when solving the challenge (moreThanOneLastElement);
+
+Encryption:
+- no answer in the requirements if len(s) = 3 after removing spaces => it's 1,7, but
+    row is 1 and columns are two => impossible:
+    aaa or aa a - neither satisfies the constraints;
+    => last example: 8: same problem, got the solution
