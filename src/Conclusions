@@ -46,3 +46,13 @@ Encryption: 30 points - medium
 Equalize The Array: 20 points
 - again thinking about the solution, not the test cases BUT
 - when I start to solve the task, I realize that there are more test cases;
+
+Fair Rations: 25 points
+- even <=> even!
+- I don't know if there's a mathematical solution for this? What is the theory? => checking the discussions
+- how to print out a String if the return value must be az int??? => change the main method (from the discussions)
+  => because of this, requirements not clear. => I changed method signature from int to String return value and changed main method at Hackerrank.
+- if everybody has even number of breads at the beginning, should I give bread anyway??? => I had to check the test cases to find out that, no
+   don't have to.
+=====>>>> big conclusion: find the first odd number and make it even by adding 1 to it (and then changes all the others)
+- it was very hard for me to understand exactly what the task was but eventually all tests passed! :)

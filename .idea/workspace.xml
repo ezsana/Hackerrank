@@ -1,11 +1,12 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <project version="4">
   <component name="ChangeListManager">
-    <list default="true" id="ad273933-47d7-45fc-b820-3e267a35a029" name="Default Changelist" comment="Points written in Conclusions.">
-      <change afterPath="$PROJECT_DIR$/src/test/java/com/codecool/zsana/hackerrank/EqualizeTheArrayTest.java" afterDir="false" />
+    <list default="true" id="ad273933-47d7-45fc-b820-3e267a35a029" name="Default Changelist" comment="">
+      <change afterPath="$PROJECT_DIR$/src/test/java/com/codecool/zsana/hackerrank/FairRationsTest.java" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/pom.xml" beforeDir="false" afterPath="$PROJECT_DIR$/pom.xml" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/src/Conclusions" beforeDir="false" afterPath="$PROJECT_DIR$/src/Conclusions" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/main/java/com/codecool/zsana/hackerrank/EqualizeTheArray.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/com/codecool/zsana/hackerrank/EqualizeTheArray.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/java/com/codecool/zsana/hackerrank/FairRations.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/com/codecool/zsana/hackerrank/FairRations.java" afterDir="false" />
     </list>
     <ignored path="$PROJECT_DIR$/out/" />
     <ignored path="$PROJECT_DIR$/target/" />
@@ -21,35 +22,22 @@
   <component name="FileEditorManager">
     <leaf>
       <file pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/src/main/java/com/codecool/zsana/hackerrank/EqualizeTheArray.java">
-          <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="816">
-              <caret line="48" column="5" selection-start-line="48" selection-start-column="5" selection-end-line="48" selection-end-column="5" />
-              <folding>
-                <element signature="imports" expanded="true" />
-                <element signature="e#466#484#0" expanded="true" />
-              </folding>
-            </state>
-          </provider>
-        </entry>
-      </file>
-      <file pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/src/test/java/com/codecool/zsana/hackerrank/EqualizeTheArrayTest.java">
-          <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="417">
-              <caret line="40" column="70" selection-start-line="40" selection-start-column="70" selection-end-line="40" selection-end-column="70" />
-              <folding>
-                <element signature="imports" expanded="true" />
-              </folding>
-            </state>
-          </provider>
-        </entry>
-      </file>
-      <file pinned="false" current-in-tab="false">
         <entry file="file://$PROJECT_DIR$/src/main/java/com/codecool/zsana/hackerrank/FairRations.java">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="85">
-              <caret line="5" column="76" selection-start-line="5" selection-start-column="76" selection-end-line="5" selection-end-column="76" />
+            <state>
+              <caret column="38" selection-start-column="38" selection-end-column="38" />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/src/test/java/com/codecool/zsana/hackerrank/FairRationsTest.java">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="740">
+              <caret line="47" selection-start-line="47" selection-end-line="47" />
+              <folding>
+                <element signature="imports" expanded="true" />
+              </folding>
             </state>
           </provider>
         </entry>
@@ -66,8 +54,8 @@
       <file pinned="false" current-in-tab="true">
         <entry file="file://$PROJECT_DIR$/src/Conclusions">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="459">
-              <caret line="46" column="59" selection-start-line="46" selection-start-column="59" selection-end-line="46" selection-end-column="59" />
+            <state relative-caret-position="462">
+              <caret line="57" column="101" selection-start-line="57" selection-start-column="101" selection-end-line="57" selection-end-column="101" />
             </state>
           </provider>
         </entry>
@@ -97,7 +85,6 @@
         <option value="$PROJECT_DIR$/src/main/java/com/codecool/zsana/hackerrank/TheTimeInWords.java" />
         <option value="$PROJECT_DIR$/src/main/java/com/codecool/zsana/hackerrank/LisasWorkbook.java" />
         <option value="$PROJECT_DIR$/src/main/java/com/codecool/zsana/hackerrank/FlatlandSpaceStations.java" />
-        <option value="$PROJECT_DIR$/src/main/java/com/codecool/zsana/hackerrank/FairRations.java" />
         <option value="$PROJECT_DIR$/src/main/java/com/codecool/zsana/hackerrank/ManasaAndStones.java" />
         <option value="$PROJECT_DIR$/src/main/java/com/codecool/zsana/hackerrank/TheGridSearch.java" />
         <option value="$PROJECT_DIR$/src/main/java/com/codecool/zsana/hackerrank/HappyLadybugs.java" />
@@ -124,7 +111,10 @@
         <option value="$PROJECT_DIR$/src/main/java/com/codecool/zsana/hackerrank/Encryption.java" />
         <option value="$PROJECT_DIR$/src/test/java/com/codecool/zsana/hackerrank/EqualizeTheArrayTest.java" />
         <option value="$PROJECT_DIR$/src/main/java/com/codecool/zsana/hackerrank/EqualizeTheArray.java" />
+        <option value="$PROJECT_DIR$/pom.xml" />
+        <option value="$PROJECT_DIR$/src/test/java/com/codecool/zsana/hackerrank/FairRationsTest.java" />
         <option value="$PROJECT_DIR$/src/Conclusions" />
+        <option value="$PROJECT_DIR$/src/main/java/com/codecool/zsana/hackerrank/FairRations.java" />
       </list>
     </option>
   </component>
@@ -159,42 +149,6 @@
               <item name="src" type="462c0819:PsiDirectoryNode" />
               <item name="main" type="462c0819:PsiDirectoryNode" />
             </path>
-            <path>
-              <item name="hackerrank" type="b2602c69:ProjectViewProjectNode" />
-              <item name="Hackerrank" type="462c0819:PsiDirectoryNode" />
-              <item name="src" type="462c0819:PsiDirectoryNode" />
-              <item name="main" type="462c0819:PsiDirectoryNode" />
-              <item name="java" type="462c0819:PsiDirectoryNode" />
-            </path>
-            <path>
-              <item name="hackerrank" type="b2602c69:ProjectViewProjectNode" />
-              <item name="Hackerrank" type="462c0819:PsiDirectoryNode" />
-              <item name="src" type="462c0819:PsiDirectoryNode" />
-              <item name="main" type="462c0819:PsiDirectoryNode" />
-              <item name="java" type="462c0819:PsiDirectoryNode" />
-              <item name="hackerrank" type="462c0819:PsiDirectoryNode" />
-            </path>
-            <path>
-              <item name="hackerrank" type="b2602c69:ProjectViewProjectNode" />
-              <item name="Hackerrank" type="462c0819:PsiDirectoryNode" />
-              <item name="src" type="462c0819:PsiDirectoryNode" />
-              <item name="test" type="462c0819:PsiDirectoryNode" />
-            </path>
-            <path>
-              <item name="hackerrank" type="b2602c69:ProjectViewProjectNode" />
-              <item name="Hackerrank" type="462c0819:PsiDirectoryNode" />
-              <item name="src" type="462c0819:PsiDirectoryNode" />
-              <item name="test" type="462c0819:PsiDirectoryNode" />
-              <item name="java" type="462c0819:PsiDirectoryNode" />
-            </path>
-            <path>
-              <item name="hackerrank" type="b2602c69:ProjectViewProjectNode" />
-              <item name="Hackerrank" type="462c0819:PsiDirectoryNode" />
-              <item name="src" type="462c0819:PsiDirectoryNode" />
-              <item name="test" type="462c0819:PsiDirectoryNode" />
-              <item name="java" type="462c0819:PsiDirectoryNode" />
-              <item name="hackerrank" type="462c0819:PsiDirectoryNode" />
-            </path>
           </expand>
           <select />
         </subPane>
@@ -210,6 +164,9 @@
     <property name="com.intellij.testIntegration.createTest.CreateTestDialog.defaultLibrarySuperClass.JUnit5" value="" />
     <property name="nodejs_interpreter_path.stuck_in_default_project" value="undefined stuck path" />
     <property name="nodejs_npm_path_reset_for_default_project" value="true" />
+    <property name="project.structure.last.edited" value="Modules" />
+    <property name="project.structure.proportion" value="0.15" />
+    <property name="project.structure.side.proportion" value="0.5796964" />
     <property name="settings.editor.selected.configurable" value="reference.projectsettings.compiler.javacompiler" />
   </component>
   <component name="RecentsManager">
@@ -232,21 +189,8 @@
       </list>
     </option>
   </component>
-  <component name="RunManager" selected="JUnit.EqualizeTheArrayTest.moreEqualNumbersInArray">
-    <configuration name="EqualizeTheArray" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="com.codecool.zsana.hackerrank.EqualizeTheArray" />
-      <module name="Hackerrank" />
-      <extension name="coverage">
-        <pattern>
-          <option name="PATTERN" value="com.codecool.zsana.hackerrank.*" />
-          <option name="ENABLED" value="true" />
-        </pattern>
-      </extension>
-      <method v="2">
-        <option name="Make" enabled="true" />
-      </method>
-    </configuration>
-    <configuration name="EqualizeTheArrayTest.equalAndNotEqualNumbersInArray" type="JUnit" factoryName="JUnit" temporary="true" nameIsGenerated="true">
+  <component name="RunManager" selected="JUnit.FairRationsTest.hackerrankTest">
+    <configuration name="FairRationsTest.arrayWithOnlyEvenNumbers" type="JUnit" factoryName="JUnit" temporary="true" nameIsGenerated="true">
       <module name="Hackerrank" />
       <extension name="coverage">
         <pattern>
@@ -255,14 +199,14 @@
         </pattern>
       </extension>
       <option name="PACKAGE_NAME" value="com.codecool.zsana.hackerrank" />
-      <option name="MAIN_CLASS_NAME" value="com.codecool.zsana.hackerrank.EqualizeTheArrayTest" />
-      <option name="METHOD_NAME" value="equalAndNotEqualNumbersInArray" />
+      <option name="MAIN_CLASS_NAME" value="com.codecool.zsana.hackerrank.FairRationsTest" />
+      <option name="METHOD_NAME" value="arrayWithOnlyEvenNumbers" />
       <option name="TEST_OBJECT" value="method" />
       <method v="2">
         <option name="Make" enabled="true" />
       </method>
     </configuration>
-    <configuration name="EqualizeTheArrayTest.moreEqualNumbersInArray" type="JUnit" factoryName="JUnit" temporary="true" nameIsGenerated="true">
+    <configuration name="FairRationsTest.arrayWithOnlyOddNumbers" type="JUnit" factoryName="JUnit" temporary="true" nameIsGenerated="true">
       <module name="Hackerrank" />
       <extension name="coverage">
         <pattern>
@@ -271,14 +215,14 @@
         </pattern>
       </extension>
       <option name="PACKAGE_NAME" value="com.codecool.zsana.hackerrank" />
-      <option name="MAIN_CLASS_NAME" value="com.codecool.zsana.hackerrank.EqualizeTheArrayTest" />
-      <option name="METHOD_NAME" value="moreEqualNumbersInArray" />
+      <option name="MAIN_CLASS_NAME" value="com.codecool.zsana.hackerrank.FairRationsTest" />
+      <option name="METHOD_NAME" value="arrayWithOnlyOddNumbers" />
       <option name="TEST_OBJECT" value="method" />
       <method v="2">
         <option name="Make" enabled="true" />
       </method>
     </configuration>
-    <configuration name="EqualizeTheArrayTest.noEqualNumbersInArray" type="JUnit" factoryName="JUnit" temporary="true" nameIsGenerated="true">
+    <configuration name="FairRationsTest.hackerrankTest" type="JUnit" factoryName="JUnit" temporary="true" nameIsGenerated="true">
       <module name="Hackerrank" />
       <extension name="coverage">
         <pattern>
@@ -287,14 +231,14 @@
         </pattern>
       </extension>
       <option name="PACKAGE_NAME" value="com.codecool.zsana.hackerrank" />
-      <option name="MAIN_CLASS_NAME" value="com.codecool.zsana.hackerrank.EqualizeTheArrayTest" />
-      <option name="METHOD_NAME" value="noEqualNumbersInArray" />
+      <option name="MAIN_CLASS_NAME" value="com.codecool.zsana.hackerrank.FairRationsTest" />
+      <option name="METHOD_NAME" value="hackerrankTest" />
       <option name="TEST_OBJECT" value="method" />
       <method v="2">
         <option name="Make" enabled="true" />
       </method>
     </configuration>
-    <configuration name="EqualizeTheArrayTest.onlyEqualNumbersInArray" type="JUnit" factoryName="JUnit" temporary="true" nameIsGenerated="true">
+    <configuration name="FairRationsTest.sumOfNumbersIsEven" type="JUnit" factoryName="JUnit" temporary="true" nameIsGenerated="true">
       <module name="Hackerrank" />
       <extension name="coverage">
         <pattern>
@@ -303,8 +247,24 @@
         </pattern>
       </extension>
       <option name="PACKAGE_NAME" value="com.codecool.zsana.hackerrank" />
-      <option name="MAIN_CLASS_NAME" value="com.codecool.zsana.hackerrank.EqualizeTheArrayTest" />
-      <option name="METHOD_NAME" value="onlyEqualNumbersInArray" />
+      <option name="MAIN_CLASS_NAME" value="com.codecool.zsana.hackerrank.FairRationsTest" />
+      <option name="METHOD_NAME" value="sumOfNumbersIsEven" />
+      <option name="TEST_OBJECT" value="method" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="FairRationsTest.sumOfNumbersIsOdd" type="JUnit" factoryName="JUnit" temporary="true" nameIsGenerated="true">
+      <module name="Hackerrank" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="com.codecool.zsana.hackerrank.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <option name="PACKAGE_NAME" value="com.codecool.zsana.hackerrank" />
+      <option name="MAIN_CLASS_NAME" value="com.codecool.zsana.hackerrank.FairRationsTest" />
+      <option name="METHOD_NAME" value="sumOfNumbersIsOdd" />
       <option name="TEST_OBJECT" value="method" />
       <method v="2">
         <option name="Make" enabled="true" />
@@ -312,11 +272,11 @@
     </configuration>
     <recent_temporary>
       <list>
-        <item itemvalue="JUnit.EqualizeTheArrayTest.moreEqualNumbersInArray" />
-        <item itemvalue="JUnit.EqualizeTheArrayTest.equalAndNotEqualNumbersInArray" />
-        <item itemvalue="JUnit.EqualizeTheArrayTest.noEqualNumbersInArray" />
-        <item itemvalue="Application.EqualizeTheArray" />
-        <item itemvalue="JUnit.EqualizeTheArrayTest.onlyEqualNumbersInArray" />
+        <item itemvalue="JUnit.FairRationsTest.hackerrankTest" />
+        <item itemvalue="JUnit.FairRationsTest.sumOfNumbersIsEven" />
+        <item itemvalue="JUnit.FairRationsTest.sumOfNumbersIsOdd" />
+        <item itemvalue="JUnit.FairRationsTest.arrayWithOnlyOddNumbers" />
+        <item itemvalue="JUnit.FairRationsTest.arrayWithOnlyEvenNumbers" />
       </list>
     </recent_temporary>
   </component>
@@ -338,7 +298,7 @@
       <workItem from="1582637147783" duration="17259000" />
       <workItem from="1582700699399" duration="10415000" />
       <workItem from="1582733536664" duration="3776000" />
-      <workItem from="1582794722507" duration="3593000" />
+      <workItem from="1582794722507" duration="12709000" />
     </task>
     <task id="LOCAL-00001" summary="BigSorting &amp; tests">
       <created>1582406087016</created>
@@ -396,43 +356,50 @@
       <option name="project" value="LOCAL" />
       <updated>1582735489319</updated>
     </task>
-    <option name="localTasksCounter" value="9" />
+    <task id="LOCAL-00009" summary="Equalize the array @ Tests">
+      <created>1582798381831</created>
+      <option name="number" value="00009" />
+      <option name="presentableId" value="LOCAL-00009" />
+      <option name="project" value="LOCAL" />
+      <updated>1582798381831</updated>
+    </task>
+    <option name="localTasksCounter" value="10" />
     <servers />
   </component>
   <component name="TestHistory">
-    <history-entry file="EqualizeTheArrayTest_emptyArray - 2020.02.27 at 10h 45m 30s.xml">
-      <configuration name="EqualizeTheArrayTest.emptyArray" configurationId="JUnit" />
+    <history-entry file="FairRationsTest_arrayWithOnlyEvenNumbers - 2020.02.27 at 14h 45m 59s.xml">
+      <configuration name="FairRationsTest.arrayWithOnlyEvenNumbers" configurationId="JUnit" />
     </history-entry>
-    <history-entry file="EqualizeTheArrayTest_emptyArray - 2020.02.27 at 10h 45m 34s.xml">
-      <configuration name="EqualizeTheArrayTest.emptyArray" configurationId="JUnit" />
+    <history-entry file="FairRationsTest_arrayWithOnlyOddNumbers - 2020.02.27 at 14h 46m 04s.xml">
+      <configuration name="FairRationsTest.arrayWithOnlyOddNumbers" configurationId="JUnit" />
     </history-entry>
-    <history-entry file="EqualizeTheArrayTest_emptyArray - 2020.02.27 at 10h 46m 02s.xml">
-      <configuration name="EqualizeTheArrayTest.emptyArray" configurationId="JUnit" />
+    <history-entry file="FairRationsTest_sumOfNumbersIsOdd - 2020.02.27 at 14h 46m 12s.xml">
+      <configuration name="FairRationsTest.sumOfNumbersIsOdd" configurationId="JUnit" />
     </history-entry>
-    <history-entry file="EqualizeTheArrayTest_emptyArray - 2020.02.27 at 10h 46m 26s.xml">
-      <configuration name="EqualizeTheArrayTest.emptyArray" configurationId="JUnit" />
+    <history-entry file="FairRationsTest_sumOfNumbersIsEven - 2020.02.27 at 14h 56m 13s.xml">
+      <configuration name="FairRationsTest.sumOfNumbersIsEven" configurationId="JUnit" />
     </history-entry>
-    <history-entry file="EqualizeTheArrayTest_oneElementArray - 2020.02.27 at 10h 46m 34s.xml">
-      <configuration name="EqualizeTheArrayTest.oneElementArray" configurationId="JUnit" />
+    <history-entry file="FairRationsTest_sumOfNumbersIsEven - 2020.02.27 at 14h 56m 43s.xml">
+      <configuration name="FairRationsTest.sumOfNumbersIsEven" configurationId="JUnit" />
     </history-entry>
-    <history-entry file="EqualizeTheArrayTest_onlyEqualNumbersInArray - 2020.02.27 at 10h 46m 39s.xml">
-      <configuration name="EqualizeTheArrayTest.onlyEqualNumbersInArray" configurationId="JUnit" />
+    <history-entry file="FairRationsTest_sumOfNumbersIsEven - 2020.02.27 at 14h 57m 16s.xml">
+      <configuration name="FairRationsTest.sumOfNumbersIsEven" configurationId="JUnit" />
     </history-entry>
-    <history-entry file="EqualizeTheArrayTest_noEqualNumbersInArray - 2020.02.27 at 11h 07m 29s.xml">
-      <configuration name="EqualizeTheArrayTest.noEqualNumbersInArray" configurationId="JUnit" />
+    <history-entry file="FairRationsTest_sumOfNumbersIsEven - 2020.02.27 at 14h 58m 32s.xml">
+      <configuration name="FairRationsTest.sumOfNumbersIsEven" configurationId="JUnit" />
     </history-entry>
-    <history-entry file="EqualizeTheArrayTest_noEqualNumbersInArray - 2020.02.27 at 11h 07m 50s.xml">
-      <configuration name="EqualizeTheArrayTest.noEqualNumbersInArray" configurationId="JUnit" />
+    <history-entry file="FairRationsTest_sumOfNumbersIsEven - 2020.02.27 at 15h 00m 50s.xml">
+      <configuration name="FairRationsTest.sumOfNumbersIsEven" configurationId="JUnit" />
     </history-entry>
-    <history-entry file="EqualizeTheArrayTest_equalAndNotEqualNumbersInArray - 2020.02.27 at 11h 07m 57s.xml">
-      <configuration name="EqualizeTheArrayTest.equalAndNotEqualNumbersInArray" configurationId="JUnit" />
+    <history-entry file="FairRationsTest_sumOfNumbersIsEven - 2020.02.27 at 15h 00m 54s.xml">
+      <configuration name="FairRationsTest.sumOfNumbersIsEven" configurationId="JUnit" />
     </history-entry>
-    <history-entry file="EqualizeTheArrayTest_moreEqualNumbersInArray - 2020.02.27 at 11h 08m 01s.xml">
-      <configuration name="EqualizeTheArrayTest.moreEqualNumbersInArray" configurationId="JUnit" />
+    <history-entry file="FairRationsTest_hackerrankTest - 2020.02.27 at 15h 02m 36s.xml">
+      <configuration name="FairRationsTest.hackerrankTest" configurationId="JUnit" />
     </history-entry>
   </component>
   <component name="TimeTrackingManager">
-    <option name="totallyTimeSpent" value="72471000" />
+    <option name="totallyTimeSpent" value="81587000" />
   </component>
   <component name="TodoView">
     <todo-panel id="selected-file">
@@ -521,12 +488,10 @@
     <MESSAGE value="electronic Shop @ Tests" />
     <MESSAGE value="Cut the Sticks @ Tests" />
     <MESSAGE value="Encryption @ Tests" />
-    <option name="LAST_COMMIT_MESSAGE" value="Encryption @ Tests" />
+    <MESSAGE value="Equalize the array @ Tests" />
+    <option name="LAST_COMMIT_MESSAGE" value="Equalize the array @ Tests" />
   </component>
   <component name="editorHistoryManager">
-    <entry file="file://$PROJECT_DIR$/pom.xml">
-      <provider selected="true" editor-type-id="text-editor" />
-    </entry>
     <entry file="file://$PROJECT_DIR$/.gitignore">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="170">
@@ -718,18 +683,6 @@
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/src/test/java/com/codecool/zsana/hackerrank/EncryptionTest.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="374">
-          <caret line="29" column="36" selection-start-line="29" selection-start-column="36" selection-end-line="29" selection-end-column="36" />
-          <folding>
-            <element signature="imports" expanded="true" />
-            <element signature="e#181#182#0" expanded="true" />
-            <element signature="e#251#252#0" expanded="true" />
-          </folding>
-        </state>
-      </provider>
-    </entry>
     <entry file="file://$PROJECT_DIR$/src/main/java/com/codecool/zsana/hackerrank/DayOfTheProgrammer.java">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="646">
@@ -799,20 +752,6 @@
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/src/main/java/com/codecool/zsana/hackerrank/FairRations.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="85">
-          <caret line="5" column="76" selection-start-line="5" selection-start-column="76" selection-end-line="5" selection-end-column="76" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/src/main/java/com/codecool/zsana/hackerrank/FindDigits.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="85">
-          <caret line="5" column="75" selection-start-line="5" selection-start-column="75" selection-end-line="5" selection-end-column="75" />
-        </state>
-      </provider>
-    </entry>
     <entry file="file://$PROJECT_DIR$/src/test/java/com/codecool/zsana/hackerrank/EqualizeTheArrayTest.java">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="417">
@@ -834,12 +773,127 @@
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/src/Conclusions">
+    <entry file="file://$PROJECT_DIR$/src/main/java/com/codecool/zsana/hackerrank/FindDigits.java">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="459">
-          <caret line="46" column="59" selection-start-line="46" selection-start-column="59" selection-end-line="46" selection-end-column="59" />
+        <state relative-caret-position="85">
+          <caret line="5" column="75" selection-start-line="5" selection-start-column="75" selection-end-line="5" selection-end-column="75" />
         </state>
       </provider>
     </entry>
+    <entry file="file://$PROJECT_DIR$/pom.xml">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="289">
+          <caret line="17" column="4" selection-start-line="17" selection-start-column="4" selection-end-line="17" selection-end-column="4" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/test/java/com/codecool/zsana/hackerrank/EncryptionTest.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="9">
+          <caret line="2" column="28" selection-start-line="2" selection-start-column="28" selection-end-line="2" selection-end-column="28" />
+          <folding>
+            <element signature="e#181#182#0" expanded="true" />
+            <element signature="e#251#252#0" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/main/java/com/codecool/zsana/hackerrank/FairRations.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state>
+          <caret column="38" selection-start-column="38" selection-end-column="38" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/test/java/com/codecool/zsana/hackerrank/FairRationsTest.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="740">
+          <caret line="47" selection-start-line="47" selection-end-line="47" />
+          <folding>
+            <element signature="imports" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/Conclusions">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="462">
+          <caret line="57" column="101" selection-start-line="57" selection-start-column="101" selection-end-line="57" selection-end-column="101" />
+        </state>
+      </provider>
+    </entry>
+  </component>
+  <component name="masterDetails">
+    <states>
+      <state key="ArtifactsStructureConfigurable.UI">
+        <settings>
+          <artifact-editor />
+          <splitter-proportions>
+            <option name="proportions">
+              <list>
+                <option value="0.2" />
+              </list>
+            </option>
+          </splitter-proportions>
+        </settings>
+      </state>
+      <state key="FacetStructureConfigurable.UI">
+        <settings>
+          <splitter-proportions>
+            <option name="proportions">
+              <list>
+                <option value="0.2" />
+              </list>
+            </option>
+          </splitter-proportions>
+        </settings>
+      </state>
+      <state key="GlobalLibrariesConfigurable.UI">
+        <settings>
+          <splitter-proportions>
+            <option name="proportions">
+              <list>
+                <option value="0.2" />
+              </list>
+            </option>
+          </splitter-proportions>
+        </settings>
+      </state>
+      <state key="JdkListConfigurable.UI">
+        <settings>
+          <splitter-proportions>
+            <option name="proportions">
+              <list>
+                <option value="0.2" />
+              </list>
+            </option>
+          </splitter-proportions>
+        </settings>
+      </state>
+      <state key="ModuleStructureConfigurable.UI">
+        <settings>
+          <last-edited>Hackerrank</last-edited>
+          <splitter-proportions>
+            <option name="proportions">
+              <list>
+                <option value="0.5796964" />
+                <option value="0.6" />
+              </list>
+            </option>
+          </splitter-proportions>
+        </settings>
+      </state>
+      <state key="ProjectLibrariesConfigurable.UI">
+        <settings>
+          <splitter-proportions>
+            <option name="proportions">
+              <list>
+                <option value="0.2" />
+              </list>
+            </option>
+          </splitter-proportions>
+        </settings>
+      </state>
+    </states>
   </component>
 </project>
