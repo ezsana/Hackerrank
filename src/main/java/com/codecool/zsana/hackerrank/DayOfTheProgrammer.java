@@ -1,7 +1,7 @@
 package com.codecool.zsana.hackerrank;
 
 // Easy 15 points
-public class DayOfTheProgrammer {
+class DayOfTheProgrammer {
 
     String url = "https://www.hackerrank.com/challenges/day-of-the-programmer/problem";
 
@@ -12,18 +12,20 @@ public class DayOfTheProgrammer {
             return "Please specify year between 1700 and 2700.";
         }
         int[] monthAndDay = getMonthAndDay();
-        if (year == 1918) {
-            return (monthAndDay[0] + 13) + ".0" + monthAndDay[1] + "." + year;
-        }
-        if (!isLeap(year)) {
-            return monthAndDay[0] + ".0" + monthAndDay[1] + "." + year;
-        } else if (isLeap(year)) {
-            return (monthAndDay[0]-1) + ".0" + monthAndDay[1] + "." + year;
+        if (monthAndDay.length != 0) {
+            if (year == 1918) {
+                return (monthAndDay[0] + 13) + ".0" + monthAndDay[1] + "." + year;
+            }
+            if (!isLeap(year)) {
+                return monthAndDay[0] + ".0" + monthAndDay[1] + "." + year;
+            } else if (isLeap(year)) {
+                return (monthAndDay[0]-1) + ".0" + monthAndDay[1] + "." + year;
+            }
         }
         return null;
     }
 
-    static int[] getMonthAndDay() {
+    private static int[] getMonthAndDay() {
         int[] daysInMonths = {31, 28, 31, 30, 31, 30, 31, 31, 30, 31, 30, 31};
        int dayOfProg = 256;
        for (int i = 0; i < daysInMonths.length; i++) {
@@ -35,18 +37,14 @@ public class DayOfTheProgrammer {
            }
            dayOfProg -= daysInMonths[i];
        }
-       return null;
+       return new int[] {};
     }
 
-    static boolean isLeap(int year) {
+    private static boolean isLeap(int year) {
         if (year < 1918) {
-            if (year % 4 == 0) {
-                return true;
-            }
+            return year % 4 == 0;
         } else if (year > 1918) {
-            if ((year % 4 == 0 && year % 100 != 0) || year % 400 == 0) {
-                return true;
-            }
+            return (year % 4 == 0 && year % 100 != 0) || year % 400 == 0;
         }
         return false;
     }

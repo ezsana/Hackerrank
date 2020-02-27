@@ -3,7 +3,7 @@ package com.codecool.zsana.hackerrank;
 import java.util.*;
 
 // Easy 25 points
-public class CutTheSticks {
+class CutTheSticks {
 
     String url = "https://www.hackerrank.com/challenges/cut-the-sticks/problem";
 
@@ -29,7 +29,7 @@ public class CutTheSticks {
         return listToArray(cuts);
     }
 
-    public static int smallest(List<Integer> list) {
+    private static int smallest(List<Integer> list) {
         int min = list.get(0);
         for (int a : list) {
             if (a < min) {
@@ -39,7 +39,7 @@ public class CutTheSticks {
         return min;
     }
 
-    public static List<Integer> arrayToList(int[] arr) {
+    private static List<Integer> arrayToList(int[] arr) {
         List<Integer> l = new ArrayList<Integer>();
         for (int a : arr) {
             l.add(a);
@@ -47,7 +47,7 @@ public class CutTheSticks {
         return l;
     }
 
-    public static int[] listToArray(List<Integer> l) {
+    private static int[] listToArray(List<Integer> l) {
         int[] arr = new int[l.size()];
         for (int i = 0; i < l.size(); i++) {
             arr[i] = l.get(i);
