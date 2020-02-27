@@ -56,3 +56,7 @@ Fair Rations: 25 points
    don't have to.
 =====>>>> big conclusion: find the first odd number and make it even by adding 1 to it (and then changes all the others)
 - it was very hard for me to understand exactly what the task was but eventually all tests passed! :)
+
+Find Digits:
+- pretty straightforward task, nothing special
+- only two testcases on Hackerrank;
