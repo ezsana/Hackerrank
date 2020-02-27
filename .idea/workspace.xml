@@ -1,11 +1,11 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <project version="4">
   <component name="ChangeListManager">
-    <list default="true" id="ad273933-47d7-45fc-b820-3e267a35a029" name="Default Changelist" comment="">
-      <change afterPath="$PROJECT_DIR$/src/test/java/com/codecool/zsana/hackerrank/EncryptionTest.java" afterDir="false" />
+    <list default="true" id="ad273933-47d7-45fc-b820-3e267a35a029" name="Default Changelist" comment="Points written in Conclusions.">
+      <change afterPath="$PROJECT_DIR$/src/test/java/com/codecool/zsana/hackerrank/EqualizeTheArrayTest.java" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/src/Conclusions" beforeDir="false" afterPath="$PROJECT_DIR$/src/Conclusions" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/main/java/com/codecool/zsana/hackerrank/Encryption.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/com/codecool/zsana/hackerrank/Encryption.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/java/com/codecool/zsana/hackerrank/EqualizeTheArray.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/com/codecool/zsana/hackerrank/EqualizeTheArray.java" afterDir="false" />
     </list>
     <ignored path="$PROJECT_DIR$/out/" />
     <ignored path="$PROJECT_DIR$/target/" />
@@ -19,35 +19,55 @@
     <option name="isMigrated" value="true" />
   </component>
   <component name="FileEditorManager">
-    <leaf SIDE_TABS_SIZE_LIMIT_KEY="300">
+    <leaf>
       <file pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/src/Conclusions">
+        <entry file="file://$PROJECT_DIR$/src/main/java/com/codecool/zsana/hackerrank/EqualizeTheArray.java">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="731">
-              <caret line="43" column="54" selection-start-line="43" selection-start-column="54" selection-end-line="43" selection-end-column="54" />
+            <state relative-caret-position="816">
+              <caret line="48" column="5" selection-start-line="48" selection-start-column="5" selection-end-line="48" selection-end-column="5" />
+              <folding>
+                <element signature="imports" expanded="true" />
+                <element signature="e#466#484#0" expanded="true" />
+              </folding>
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/src/test/java/com/codecool/zsana/hackerrank/EqualizeTheArrayTest.java">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="417">
+              <caret line="40" column="70" selection-start-line="40" selection-start-column="70" selection-end-line="40" selection-end-column="70" />
+              <folding>
+                <element signature="imports" expanded="true" />
+              </folding>
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/src/main/java/com/codecool/zsana/hackerrank/FairRations.java">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="85">
+              <caret line="5" column="76" selection-start-line="5" selection-start-column="76" selection-end-line="5" selection-end-column="76" />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/src/main/java/com/codecool/zsana/hackerrank/FindDigits.java">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="85">
+              <caret line="5" column="75" selection-start-line="5" selection-start-column="75" selection-end-line="5" selection-end-column="75" />
             </state>
           </provider>
         </entry>
       </file>
       <file pinned="false" current-in-tab="true">
-        <entry file="file://$PROJECT_DIR$/src/main/java/com/codecool/zsana/hackerrank/Encryption.java">
+        <entry file="file://$PROJECT_DIR$/src/Conclusions">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="391">
-              <caret line="23" column="44" lean-forward="true" selection-start-line="8" selection-start-column="8" selection-end-line="23" selection-end-column="44" />
-            </state>
-          </provider>
-        </entry>
-      </file>
-      <file pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/src/test/java/com/codecool/zsana/hackerrank/EncryptionTest.java">
-          <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="374">
-              <caret line="29" column="36" selection-start-line="29" selection-start-column="36" selection-end-line="29" selection-end-column="36" />
-              <folding>
-                <element signature="imports" expanded="true" />
-                <element signature="e#181#182#0" expanded="true" />
-                <element signature="e#251#252#0" expanded="true" />
-              </folding>
+            <state relative-caret-position="459">
+              <caret line="46" column="59" selection-start-line="46" selection-start-column="59" selection-end-line="46" selection-end-column="59" />
             </state>
           </provider>
         </entry>
@@ -72,7 +92,6 @@
         <option value="$PROJECT_DIR$/src/main/java/com/codecool/zsana/hackerrank/PickingNumbers.java" />
         <option value="$PROJECT_DIR$/src/main/java/com/codecool/zsana/hackerrank/UtopianTree.java" />
         <option value="$PROJECT_DIR$/src/main/java/com/codecool/zsana/hackerrank/FindDigits.java" />
-        <option value="$PROJECT_DIR$/src/main/java/com/codecool/zsana/hackerrank/EqualizeTheArray.java" />
         <option value="$PROJECT_DIR$/src/main/java/com/codecool/zsana/hackerrank/ACMICPCTeam.java" />
         <option value="$PROJECT_DIR$/src/main/java/com/codecool/zsana/hackerrank/TaumAndBday.java" />
         <option value="$PROJECT_DIR$/src/main/java/com/codecool/zsana/hackerrank/TheTimeInWords.java" />
@@ -101,9 +120,11 @@
         <option value="$PROJECT_DIR$/src/main/java/com/codecool/zsana/hackerrank/ElectronicShop.java" />
         <option value="$PROJECT_DIR$/src/test/java/com/codecool/zsana/hackerrank/CutTheSticksTest.java" />
         <option value="$PROJECT_DIR$/src/main/java/com/codecool/zsana/hackerrank/CutTheSticks.java" />
-        <option value="$PROJECT_DIR$/src/Conclusions" />
         <option value="$PROJECT_DIR$/src/test/java/com/codecool/zsana/hackerrank/EncryptionTest.java" />
         <option value="$PROJECT_DIR$/src/main/java/com/codecool/zsana/hackerrank/Encryption.java" />
+        <option value="$PROJECT_DIR$/src/test/java/com/codecool/zsana/hackerrank/EqualizeTheArrayTest.java" />
+        <option value="$PROJECT_DIR$/src/main/java/com/codecool/zsana/hackerrank/EqualizeTheArray.java" />
+        <option value="$PROJECT_DIR$/src/Conclusions" />
       </list>
     </option>
   </component>
@@ -189,7 +210,7 @@
     <property name="com.intellij.testIntegration.createTest.CreateTestDialog.defaultLibrarySuperClass.JUnit5" value="" />
     <property name="nodejs_interpreter_path.stuck_in_default_project" value="undefined stuck path" />
     <property name="nodejs_npm_path_reset_for_default_project" value="true" />
-    <property name="settings.editor.selected.configurable" value="configurable.group.appearance" />
+    <property name="settings.editor.selected.configurable" value="reference.projectsettings.compiler.javacompiler" />
   </component>
   <component name="RecentsManager">
     <key name="CreateTestDialog.RecentsKey">
@@ -211,9 +232,9 @@
       </list>
     </option>
   </component>
-  <component name="RunManager" selected="JUnit.EncryptionTest">
-    <configuration name="Encryption" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="com.codecool.zsana.hackerrank.Encryption" />
+  <component name="RunManager" selected="JUnit.EqualizeTheArrayTest.moreEqualNumbersInArray">
+    <configuration name="EqualizeTheArray" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="com.codecool.zsana.hackerrank.EqualizeTheArray" />
       <module name="Hackerrank" />
       <extension name="coverage">
         <pattern>
@@ -225,7 +246,7 @@
         <option name="Make" enabled="true" />
       </method>
     </configuration>
-    <configuration name="EncryptionTest" type="JUnit" factoryName="JUnit" temporary="true" nameIsGenerated="true">
+    <configuration name="EqualizeTheArrayTest.equalAndNotEqualNumbersInArray" type="JUnit" factoryName="JUnit" temporary="true" nameIsGenerated="true">
       <module name="Hackerrank" />
       <extension name="coverage">
         <pattern>
@@ -234,29 +255,14 @@
         </pattern>
       </extension>
       <option name="PACKAGE_NAME" value="com.codecool.zsana.hackerrank" />
-      <option name="MAIN_CLASS_NAME" value="com.codecool.zsana.hackerrank.EncryptionTest" />
-      <option name="TEST_OBJECT" value="class" />
-      <method v="2">
-        <option name="Make" enabled="true" />
-      </method>
-    </configuration>
-    <configuration name="EncryptionTest.lengthIsThree" type="JUnit" factoryName="JUnit" temporary="true" nameIsGenerated="true">
-      <module name="Hackerrank" />
-      <extension name="coverage">
-        <pattern>
-          <option name="PATTERN" value="com.codecool.zsana.hackerrank.*" />
-          <option name="ENABLED" value="true" />
-        </pattern>
-      </extension>
-      <option name="PACKAGE_NAME" value="com.codecool.zsana.hackerrank" />
-      <option name="MAIN_CLASS_NAME" value="com.codecool.zsana.hackerrank.EncryptionTest" />
-      <option name="METHOD_NAME" value="lengthIsThree" />
+      <option name="MAIN_CLASS_NAME" value="com.codecool.zsana.hackerrank.EqualizeTheArrayTest" />
+      <option name="METHOD_NAME" value="equalAndNotEqualNumbersInArray" />
       <option name="TEST_OBJECT" value="method" />
       <method v="2">
         <option name="Make" enabled="true" />
       </method>
     </configuration>
-    <configuration name="EncryptionTest.stringWithSpaces" type="JUnit" factoryName="JUnit" temporary="true" nameIsGenerated="true">
+    <configuration name="EqualizeTheArrayTest.moreEqualNumbersInArray" type="JUnit" factoryName="JUnit" temporary="true" nameIsGenerated="true">
       <module name="Hackerrank" />
       <extension name="coverage">
         <pattern>
@@ -265,14 +271,14 @@
         </pattern>
       </extension>
       <option name="PACKAGE_NAME" value="com.codecool.zsana.hackerrank" />
-      <option name="MAIN_CLASS_NAME" value="com.codecool.zsana.hackerrank.EncryptionTest" />
-      <option name="METHOD_NAME" value="stringWithSpaces" />
+      <option name="MAIN_CLASS_NAME" value="com.codecool.zsana.hackerrank.EqualizeTheArrayTest" />
+      <option name="METHOD_NAME" value="moreEqualNumbersInArray" />
       <option name="TEST_OBJECT" value="method" />
       <method v="2">
         <option name="Make" enabled="true" />
       </method>
     </configuration>
-    <configuration name="EncryptionTest.stringWithoutSpaces" type="JUnit" factoryName="JUnit" temporary="true" nameIsGenerated="true">
+    <configuration name="EqualizeTheArrayTest.noEqualNumbersInArray" type="JUnit" factoryName="JUnit" temporary="true" nameIsGenerated="true">
       <module name="Hackerrank" />
       <extension name="coverage">
         <pattern>
@@ -281,8 +287,24 @@
         </pattern>
       </extension>
       <option name="PACKAGE_NAME" value="com.codecool.zsana.hackerrank" />
-      <option name="MAIN_CLASS_NAME" value="com.codecool.zsana.hackerrank.EncryptionTest" />
-      <option name="METHOD_NAME" value="stringWithoutSpaces" />
+      <option name="MAIN_CLASS_NAME" value="com.codecool.zsana.hackerrank.EqualizeTheArrayTest" />
+      <option name="METHOD_NAME" value="noEqualNumbersInArray" />
+      <option name="TEST_OBJECT" value="method" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="EqualizeTheArrayTest.onlyEqualNumbersInArray" type="JUnit" factoryName="JUnit" temporary="true" nameIsGenerated="true">
+      <module name="Hackerrank" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="com.codecool.zsana.hackerrank.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <option name="PACKAGE_NAME" value="com.codecool.zsana.hackerrank" />
+      <option name="MAIN_CLASS_NAME" value="com.codecool.zsana.hackerrank.EqualizeTheArrayTest" />
+      <option name="METHOD_NAME" value="onlyEqualNumbersInArray" />
       <option name="TEST_OBJECT" value="method" />
       <method v="2">
         <option name="Make" enabled="true" />
@@ -290,11 +312,11 @@
     </configuration>
     <recent_temporary>
       <list>
-        <item itemvalue="JUnit.EncryptionTest" />
-        <item itemvalue="JUnit.EncryptionTest.stringWithSpaces" />
-        <item itemvalue="JUnit.EncryptionTest.stringWithoutSpaces" />
-        <item itemvalue="JUnit.EncryptionTest.lengthIsThree" />
-        <item itemvalue="Application.Encryption" />
+        <item itemvalue="JUnit.EqualizeTheArrayTest.moreEqualNumbersInArray" />
+        <item itemvalue="JUnit.EqualizeTheArrayTest.equalAndNotEqualNumbersInArray" />
+        <item itemvalue="JUnit.EqualizeTheArrayTest.noEqualNumbersInArray" />
+        <item itemvalue="Application.EqualizeTheArray" />
+        <item itemvalue="JUnit.EqualizeTheArrayTest.onlyEqualNumbersInArray" />
       </list>
     </recent_temporary>
   </component>
@@ -315,7 +337,8 @@
       <workItem from="1582616366128" duration="15017000" />
       <workItem from="1582637147783" duration="17259000" />
       <workItem from="1582700699399" duration="10415000" />
-      <workItem from="1582733536664" duration="1695000" />
+      <workItem from="1582733536664" duration="3776000" />
+      <workItem from="1582794722507" duration="3593000" />
     </task>
     <task id="LOCAL-00001" summary="BigSorting &amp; tests">
       <created>1582406087016</created>
@@ -366,43 +389,50 @@
       <option name="project" value="LOCAL" />
       <updated>1582707583975</updated>
     </task>
-    <option name="localTasksCounter" value="8" />
+    <task id="LOCAL-00008" summary="Encryption @ Tests">
+      <created>1582735489319</created>
+      <option name="number" value="00008" />
+      <option name="presentableId" value="LOCAL-00008" />
+      <option name="project" value="LOCAL" />
+      <updated>1582735489319</updated>
+    </task>
+    <option name="localTasksCounter" value="9" />
     <servers />
   </component>
   <component name="TestHistory">
-    <history-entry file="EncryptionTest_oneLetterWithSpaces - 2020.02.26 at 10h 51m 02s.xml">
-      <configuration name="EncryptionTest.oneLetterWithSpaces" configurationId="JUnit" />
+    <history-entry file="EqualizeTheArrayTest_emptyArray - 2020.02.27 at 10h 45m 30s.xml">
+      <configuration name="EqualizeTheArrayTest.emptyArray" configurationId="JUnit" />
     </history-entry>
-    <history-entry file="EncryptionTest_lengthIsOne - 2020.02.26 at 10h 51m 09s.xml">
-      <configuration name="EncryptionTest.lengthIsOne" configurationId="JUnit" />
+    <history-entry file="EqualizeTheArrayTest_emptyArray - 2020.02.27 at 10h 45m 34s.xml">
+      <configuration name="EqualizeTheArrayTest.emptyArray" configurationId="JUnit" />
     </history-entry>
-    <history-entry file="EncryptionTest_lengthIsThree - 2020.02.26 at 17h 18m 21s.xml">
-      <configuration name="EncryptionTest.lengthIsThree" configurationId="JUnit" />
+    <history-entry file="EqualizeTheArrayTest_emptyArray - 2020.02.27 at 10h 46m 02s.xml">
+      <configuration name="EqualizeTheArrayTest.emptyArray" configurationId="JUnit" />
     </history-entry>
-    <history-entry file="EncryptionTest_lengthIsThree - 2020.02.26 at 17h 18m 47s.xml">
-      <configuration name="EncryptionTest.lengthIsThree" configurationId="JUnit" />
+    <history-entry file="EqualizeTheArrayTest_emptyArray - 2020.02.27 at 10h 46m 26s.xml">
+      <configuration name="EqualizeTheArrayTest.emptyArray" configurationId="JUnit" />
     </history-entry>
-    <history-entry file="EncryptionTest_lengthIsThree - 2020.02.26 at 17h 19m 24s.xml">
-      <configuration name="EncryptionTest.lengthIsThree" configurationId="JUnit" />
+    <history-entry file="EqualizeTheArrayTest_oneElementArray - 2020.02.27 at 10h 46m 34s.xml">
+      <configuration name="EqualizeTheArrayTest.oneElementArray" configurationId="JUnit" />
     </history-entry>
-    <history-entry file="EncryptionTest_stringWithoutSpaces - 2020.02.26 at 17h 19m 40s.xml">
-      <configuration name="EncryptionTest.stringWithoutSpaces" configurationId="JUnit" />
+    <history-entry file="EqualizeTheArrayTest_onlyEqualNumbersInArray - 2020.02.27 at 10h 46m 39s.xml">
+      <configuration name="EqualizeTheArrayTest.onlyEqualNumbersInArray" configurationId="JUnit" />
     </history-entry>
-    <history-entry file="EncryptionTest_stringWithSpaces - 2020.02.26 at 17h 19m 47s.xml">
-      <configuration name="EncryptionTest.stringWithSpaces" configurationId="JUnit" />
+    <history-entry file="EqualizeTheArrayTest_noEqualNumbersInArray - 2020.02.27 at 11h 07m 29s.xml">
+      <configuration name="EqualizeTheArrayTest.noEqualNumbersInArray" configurationId="JUnit" />
     </history-entry>
-    <history-entry file="EncryptionTest_stringWithSpaces - 2020.02.26 at 17h 30m 11s.xml">
-      <configuration name="EncryptionTest.stringWithSpaces" configurationId="JUnit" />
+    <history-entry file="EqualizeTheArrayTest_noEqualNumbersInArray - 2020.02.27 at 11h 07m 50s.xml">
+      <configuration name="EqualizeTheArrayTest.noEqualNumbersInArray" configurationId="JUnit" />
     </history-entry>
-    <history-entry file="EncryptionTest_stringWithSpaces - 2020.02.26 at 17h 30m 16s.xml">
-      <configuration name="EncryptionTest.stringWithSpaces" configurationId="JUnit" />
+    <history-entry file="EqualizeTheArrayTest_equalAndNotEqualNumbersInArray - 2020.02.27 at 11h 07m 57s.xml">
+      <configuration name="EqualizeTheArrayTest.equalAndNotEqualNumbersInArray" configurationId="JUnit" />
     </history-entry>
-    <history-entry file="EncryptionTest - 2020.02.26 at 17h 30m 29s.xml">
-      <configuration name="EncryptionTest" configurationId="JUnit" />
+    <history-entry file="EqualizeTheArrayTest_moreEqualNumbersInArray - 2020.02.27 at 11h 08m 01s.xml">
+      <configuration name="EqualizeTheArrayTest.moreEqualNumbersInArray" configurationId="JUnit" />
     </history-entry>
   </component>
   <component name="TimeTrackingManager">
-    <option name="totallyTimeSpent" value="66797000" />
+    <option name="totallyTimeSpent" value="72471000" />
   </component>
   <component name="TodoView">
     <todo-panel id="selected-file">
@@ -417,7 +447,7 @@
     <frame x="67" y="27" width="1299" height="741" extended-state="6" />
     <editor active="true" />
     <layout>
-      <window_info content_ui="combo" id="Project" order="0" weight="0.16121309" />
+      <window_info content_ui="combo" id="Project" order="0" weight="0.21628092" />
       <window_info id="Structure" order="1" side_tool="true" weight="0.25" />
       <window_info id="Image Layers" order="2" />
       <window_info id="Designer" order="3" />
@@ -447,6 +477,37 @@
       <window_info anchor="right" id="Palette&#9;" order="7" />
       <window_info anchor="right" id="Database" order="8" />
     </layout>
+    <layout-to-restore>
+      <window_info active="true" content_ui="combo" id="Project" order="0" visible="true" weight="0.21628092" />
+      <window_info id="Structure" order="1" side_tool="true" weight="0.25" />
+      <window_info id="Image Layers" order="2" />
+      <window_info id="Designer" order="3" />
+      <window_info id="UI Designer" order="4" />
+      <window_info id="Capture Tool" order="5" />
+      <window_info id="Favorites" order="6" side_tool="true" />
+      <window_info anchor="bottom" id="Message" order="0" />
+      <window_info anchor="bottom" id="Find" order="1" />
+      <window_info anchor="bottom" id="Run" order="2" weight="0.4033058" />
+      <window_info anchor="bottom" id="Debug" order="3" weight="0.3966942" />
+      <window_info anchor="bottom" id="Cvs" order="4" weight="0.25" />
+      <window_info anchor="bottom" id="Inspection" order="5" weight="0.4" />
+      <window_info anchor="bottom" id="TODO" order="6" weight="0.3289256" />
+      <window_info anchor="bottom" id="Docker" order="7" show_stripe_button="false" />
+      <window_info anchor="bottom" id="Version Control" order="8" />
+      <window_info anchor="bottom" id="Database Changes" order="9" />
+      <window_info anchor="bottom" id="Terminal" order="10" weight="0.3289256" />
+      <window_info anchor="bottom" id="Event Log" order="11" side_tool="true" />
+      <window_info anchor="bottom" id="Messages" order="12" weight="0.3289256" />
+      <window_info anchor="right" id="Commander" internal_type="SLIDING" order="0" type="SLIDING" weight="0.4" />
+      <window_info anchor="right" id="Ant Build" order="1" weight="0.25" />
+      <window_info anchor="right" content_ui="combo" id="Hierarchy" order="2" weight="0.25" />
+      <window_info anchor="right" id="Palette" order="3" />
+      <window_info anchor="right" id="Theme Preview" order="4" />
+      <window_info anchor="right" id="Maven" order="5" />
+      <window_info anchor="right" id="Capture Analysis" order="6" />
+      <window_info anchor="right" id="Palette&#9;" order="7" />
+      <window_info anchor="right" id="Database" order="8" />
+    </layout-to-restore>
   </component>
   <component name="TypeScriptGeneratedFilesManager">
     <option name="version" value="1" />
@@ -459,7 +520,8 @@
     <MESSAGE value="Designer PDF Viewer @ Tests" />
     <MESSAGE value="electronic Shop @ Tests" />
     <MESSAGE value="Cut the Sticks @ Tests" />
-    <option name="LAST_COMMIT_MESSAGE" value="Cut the Sticks @ Tests" />
+    <MESSAGE value="Encryption @ Tests" />
+    <option name="LAST_COMMIT_MESSAGE" value="Encryption @ Tests" />
   </component>
   <component name="editorHistoryManager">
     <entry file="file://$PROJECT_DIR$/pom.xml">
@@ -579,89 +641,6 @@
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/src/main/java/com/codecool/zsana/hackerrank/BigSorting.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="782">
-          <caret line="46" column="5" selection-start-line="46" selection-start-column="5" selection-end-line="46" selection-end-column="5" />
-          <folding>
-            <element signature="imports" expanded="true" />
-          </folding>
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/src/main/java/com/codecool/zsana/hackerrank/CavityMap.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="221">
-          <caret line="15" column="28" selection-start-line="15" selection-start-column="28" selection-end-line="15" selection-end-column="28" />
-          <folding>
-            <element signature="imports" expanded="true" />
-          </folding>
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/src/main/java/com/codecool/zsana/hackerrank/ChocolateFeast.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="357">
-          <caret line="21" column="5" lean-forward="true" selection-start-line="21" selection-start-column="5" selection-end-line="21" selection-end-column="5" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/src/main/java/com/codecool/zsana/hackerrank/CircularArrayRotation.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="374">
-          <caret line="23" column="45" lean-forward="true" selection-start-line="23" selection-start-column="45" selection-end-line="23" selection-end-column="45" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/src/main/java/com/codecool/zsana/hackerrank/CutTheSticks.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="731">
-          <caret line="43" column="27" lean-forward="true" selection-start-line="43" selection-start-column="27" selection-end-line="43" selection-end-column="27" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/src/main/java/com/codecool/zsana/hackerrank/DayOfTheProgrammer.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="646">
-          <caret line="38" column="5" selection-start-line="38" selection-start-column="5" selection-end-line="38" selection-end-column="5" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/src/main/java/com/codecool/zsana/hackerrank/ElectronicShop.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="51">
-          <caret line="3" column="13" selection-start-line="3" selection-start-column="13" selection-end-line="3" selection-end-column="13" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/src/main/java/com/codecool/zsana/hackerrank/DesignerPDFViewer.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="323">
-          <caret line="19" column="35" lean-forward="true" selection-start-line="19" selection-start-column="35" selection-end-line="19" selection-end-column="35" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/src/main/java/com/codecool/zsana/hackerrank/FindDigits.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="85">
-          <caret line="5" column="75" selection-start-line="5" selection-start-column="75" selection-end-line="5" selection-end-column="75" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/src/main/java/com/codecool/zsana/hackerrank/FairRations.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="85">
-          <caret line="5" column="76" selection-start-line="5" selection-start-column="76" selection-end-line="5" selection-end-column="76" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/src/main/java/com/codecool/zsana/hackerrank/EqualizeTheArray.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="85">
-          <caret line="5" column="83" selection-start-line="5" selection-start-column="83" selection-end-line="5" selection-end-column="83" />
-        </state>
-      </provider>
-    </entry>
     <entry file="file://$PROJECT_DIR$/src/main/java/com/codecool/zsana/hackerrank/ManasaAndStones.java">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="85">
@@ -739,13 +718,6 @@
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/src/Conclusions">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="731">
-          <caret line="43" column="54" selection-start-line="43" selection-start-column="54" selection-end-line="43" selection-end-column="54" />
-        </state>
-      </provider>
-    </entry>
     <entry file="file://$PROJECT_DIR$/src/test/java/com/codecool/zsana/hackerrank/EncryptionTest.java">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="374">
@@ -758,10 +730,114 @@
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/src/main/java/com/codecool/zsana/hackerrank/Encryption.java">
+    <entry file="file://$PROJECT_DIR$/src/main/java/com/codecool/zsana/hackerrank/DayOfTheProgrammer.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="646">
+          <caret line="38" column="5" selection-start-line="38" selection-start-column="5" selection-end-line="38" selection-end-column="5" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/main/java/com/codecool/zsana/hackerrank/ChocolateFeast.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="357">
+          <caret line="21" column="5" lean-forward="true" selection-start-line="21" selection-start-column="5" selection-end-line="21" selection-end-column="5" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/main/java/com/codecool/zsana/hackerrank/CavityMap.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="221">
+          <caret line="15" column="28" selection-start-line="15" selection-start-column="28" selection-end-line="15" selection-end-column="28" />
+          <folding>
+            <element signature="imports" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/main/java/com/codecool/zsana/hackerrank/CircularArrayRotation.java">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="391">
-          <caret line="23" column="44" lean-forward="true" selection-start-line="8" selection-start-column="8" selection-end-line="23" selection-end-column="44" />
+          <caret line="23" column="45" lean-forward="true" selection-start-line="23" selection-start-column="45" selection-end-line="23" selection-end-column="45" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/main/java/com/codecool/zsana/hackerrank/DesignerPDFViewer.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="323">
+          <caret line="19" column="35" lean-forward="true" selection-start-line="19" selection-start-column="35" selection-end-line="19" selection-end-column="35" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/main/java/com/codecool/zsana/hackerrank/ElectronicShop.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="51">
+          <caret line="3" column="13" selection-start-line="3" selection-start-column="13" selection-end-line="3" selection-end-column="13" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/main/java/com/codecool/zsana/hackerrank/CutTheSticks.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="731">
+          <caret line="43" column="27" lean-forward="true" selection-start-line="43" selection-start-column="27" selection-end-line="43" selection-end-column="27" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/main/java/com/codecool/zsana/hackerrank/BigSorting.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="-170">
+          <caret line="8" selection-start-line="8" selection-end-line="8" />
+          <folding>
+            <element signature="imports" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/main/java/com/codecool/zsana/hackerrank/Encryption.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="187">
+          <caret line="11" column="9" selection-start-line="11" selection-start-column="9" selection-end-line="11" selection-end-column="9" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/main/java/com/codecool/zsana/hackerrank/FairRations.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="85">
+          <caret line="5" column="76" selection-start-line="5" selection-start-column="76" selection-end-line="5" selection-end-column="76" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/main/java/com/codecool/zsana/hackerrank/FindDigits.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="85">
+          <caret line="5" column="75" selection-start-line="5" selection-start-column="75" selection-end-line="5" selection-end-column="75" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/test/java/com/codecool/zsana/hackerrank/EqualizeTheArrayTest.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="417">
+          <caret line="40" column="70" selection-start-line="40" selection-start-column="70" selection-end-line="40" selection-end-column="70" />
+          <folding>
+            <element signature="imports" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/main/java/com/codecool/zsana/hackerrank/EqualizeTheArray.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="816">
+          <caret line="48" column="5" selection-start-line="48" selection-start-column="5" selection-end-line="48" selection-end-column="5" />
+          <folding>
+            <element signature="imports" expanded="true" />
+            <element signature="e#466#484#0" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/Conclusions">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="459">
+          <caret line="46" column="59" selection-start-line="46" selection-start-column="59" selection-end-line="46" selection-end-column="59" />
         </state>
       </provider>
     </entry>

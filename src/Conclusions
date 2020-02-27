@@ -3,42 +3,46 @@
 25 points: 9;
 30 points: 6;
 
-Day of the programmer:
+Day of the programmer: 15 points
 - it was difficult not to think as a developer but as a tester;
 - even with very simple unit tests you need to think properly through every possible test case and edge cases;
 - after all of my test cases passed, the code also passed the hackerrank test cases.
 
-Big sorting:
+Big sorting: 20 points
 - unclear acceptance criteria
 - my tests only tested integer but not BigInt => I needed to change them
 - working with BigInt is more complicated
 - time limit is a problem (my tests didn't cover that), I need to refactor the code
 - output was just the String[], not needed to print is out
 
-Chocolate Feast:
+Chocolate Feast: 25 points
 - concentrating on one test to pass at a time;
 - one test was wrong! Beware!!!
 - all tests passing except performance - time limits! => refactoring needed;
 
-Cavity Map:
+Cavity Map: 30 points
 - huge misunderstanding in requirements (parameters of method cavityMap) =>
   * method theoretically does the right thing but in reality not
 - changed all the tests => experience how bad it is if one misunderstands the requirements
 
-Circular Array Rotation:
+Circular Array Rotation: 20 points
 - only tests with time limit didn't pass
 
-Designer pdf:
+Designer pdf: 20 points
 - not too much testcase, not on Hackerrank either
 
-Electronic Shop:
+Electronic Shop: 15 points
 - nothing special, all tests (Hackerrank as well) passed;
 
-Cut The Sticks:
+Cut The Sticks: 25 points
 - sometimes test cases coming up when solving the challenge (moreThanOneLastElement);
 
-Encryption:
+Encryption: 30 points - medium
 - no answer in the requirements if len(s) = 3 after removing spaces => it's 1,7, but
     row is 1 and columns are two => impossible:
     aaa or aa a - neither satisfies the constraints;
     => last example: 8: same problem, got the solution
+
+Equalize The Array: 20 points
+- again thinking about the solution, not the test cases BUT
+- when I start to solve the task, I realize that there are more test cases;
