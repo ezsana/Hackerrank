@@ -6,17 +6,17 @@ import org.junit.jupiter.api.Test;
 class ChocolateFeastTest {
 
     @Test
-    public void lessMoneyThanChocolatePrice() {
+    void lessMoneyThanChocolatePrice() {
         Assertions.assertEquals(0, ChocolateFeast.chocolateFeast(1, 5, 2));
     }
 
     @Test
-    public void moreWrapperNeededThanBobbyHas() {
+    void moreWrapperNeededThanBobbyHas() {
         Assertions.assertEquals(2, ChocolateFeast.chocolateFeast(2, 1, 3));
     }
 
     @Test // Happy path
-    public void canTurnInWrapperToBars() {
+    void canTurnInWrapperToBars() {
         Assertions.assertEquals(3, ChocolateFeast.chocolateFeast(5, 2, 2));
         Assertions.assertEquals(9, ChocolateFeast.chocolateFeast(15, 3, 2));
         Assertions.assertEquals(6, ChocolateFeast.chocolateFeast(10, 2, 5));

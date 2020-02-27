@@ -2,10 +2,8 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="ad273933-47d7-45fc-b820-3e267a35a029" name="Default Changelist" comment="">
-      <change afterPath="$PROJECT_DIR$/src/test/java/com/codecool/zsana/hackerrank/FindDigitsTest.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/Conclusions" beforeDir="false" afterPath="$PROJECT_DIR$/src/Conclusions" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/main/java/com/codecool/zsana/hackerrank/FindDigits.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/com/codecool/zsana/hackerrank/FindDigits.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/java/com/codecool/zsana/hackerrank/BigSorting.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/com/codecool/zsana/hackerrank/BigSorting.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/test/java/com/codecool/zsana/hackerrank/BigSortingTest.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/test/java/com/codecool/zsana/hackerrank/BigSortingTest.java" afterDir="false" />
     </list>
     <ignored path="$PROJECT_DIR$/out/" />
     <ignored path="$PROJECT_DIR$/target/" />
@@ -21,33 +19,25 @@
   <component name="FileEditorManager">
     <leaf>
       <file pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/src/main/java/com/codecool/zsana/hackerrank/FindDigits.java">
+        <entry file="file://$PROJECT_DIR$/src/main/java/com/codecool/zsana/hackerrank/BigSorting.java">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="408">
-              <caret line="24" column="46" lean-forward="true" selection-start-line="24" selection-start-column="46" selection-end-line="24" selection-end-column="46" />
-            </state>
-          </provider>
-        </entry>
-      </file>
-      <file pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/src/test/java/com/codecool/zsana/hackerrank/FindDigitsTest.java">
-          <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="493">
-              <caret line="29" column="67" selection-start-line="29" selection-start-column="67" selection-end-line="29" selection-end-column="67" />
+            <state relative-caret-position="561">
+              <caret line="33" column="8" selection-start-line="33" selection-start-column="8" selection-end-line="33" selection-end-column="8" />
               <folding>
                 <element signature="imports" expanded="true" />
-                <element signature="e#189#190#0" expanded="true" />
-                <element signature="e#262#263#0" expanded="true" />
               </folding>
             </state>
           </provider>
         </entry>
       </file>
       <file pinned="false" current-in-tab="true">
-        <entry file="file://$PROJECT_DIR$/src/Conclusions">
+        <entry file="file://$PROJECT_DIR$/src/test/java/com/codecool/zsana/hackerrank/BigSortingTest.java">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="462">
-              <caret line="61" column="35" selection-start-line="61" selection-start-column="35" selection-end-line="61" selection-end-column="35" />
+            <state relative-caret-position="731">
+              <caret line="43" column="4" selection-start-line="43" selection-start-column="4" selection-end-line="43" selection-end-column="4" />
+              <folding>
+                <element signature="imports" expanded="true" />
+              </folding>
             </state>
           </provider>
         </entry>
@@ -83,8 +73,6 @@
         <option value="$PROJECT_DIR$/src/test/java/com/codecool/zsana/hackerrank/DayOfTheProgrammerTest.java" />
         <option value="$PROJECT_DIR$/src/main/java/com/codecool/zsana/hackerrank/DayOfTheProgrammer.java" />
         <option value="$PROJECT_DIR$/.gitignore" />
-        <option value="$PROJECT_DIR$/src/main/java/com/codecool/zsana/hackerrank/BigSorting.java" />
-        <option value="$PROJECT_DIR$/src/test/java/com/codecool/zsana/hackerrank/BigSortingTest.java" />
         <option value="$PROJECT_DIR$/src/test/java/com/codecool/zsana/hackerrank/ACMICPCTeamTest.java" />
         <option value="$PROJECT_DIR$/src/main/java/com/codecool/zsana/hackerrank/ChocolateFeast.java" />
         <option value="$PROJECT_DIR$/src/test/java/com/codecool/zsana/hackerrank/ChocolateFeastTest.java" />
@@ -105,9 +93,11 @@
         <option value="$PROJECT_DIR$/pom.xml" />
         <option value="$PROJECT_DIR$/src/test/java/com/codecool/zsana/hackerrank/FairRationsTest.java" />
         <option value="$PROJECT_DIR$/src/main/java/com/codecool/zsana/hackerrank/FairRations.java" />
-        <option value="$PROJECT_DIR$/src/main/java/com/codecool/zsana/hackerrank/FindDigits.java" />
         <option value="$PROJECT_DIR$/src/test/java/com/codecool/zsana/hackerrank/FindDigitsTest.java" />
         <option value="$PROJECT_DIR$/src/Conclusions" />
+        <option value="$PROJECT_DIR$/src/main/java/com/codecool/zsana/hackerrank/FindDigits.java" />
+        <option value="$PROJECT_DIR$/src/main/java/com/codecool/zsana/hackerrank/BigSorting.java" />
+        <option value="$PROJECT_DIR$/src/test/java/com/codecool/zsana/hackerrank/BigSortingTest.java" />
       </list>
     </option>
   </component>
@@ -141,6 +131,42 @@
               <item name="Hackerrank" type="462c0819:PsiDirectoryNode" />
               <item name="src" type="462c0819:PsiDirectoryNode" />
               <item name="main" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="hackerrank" type="b2602c69:ProjectViewProjectNode" />
+              <item name="Hackerrank" type="462c0819:PsiDirectoryNode" />
+              <item name="src" type="462c0819:PsiDirectoryNode" />
+              <item name="main" type="462c0819:PsiDirectoryNode" />
+              <item name="java" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="hackerrank" type="b2602c69:ProjectViewProjectNode" />
+              <item name="Hackerrank" type="462c0819:PsiDirectoryNode" />
+              <item name="src" type="462c0819:PsiDirectoryNode" />
+              <item name="main" type="462c0819:PsiDirectoryNode" />
+              <item name="java" type="462c0819:PsiDirectoryNode" />
+              <item name="hackerrank" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="hackerrank" type="b2602c69:ProjectViewProjectNode" />
+              <item name="Hackerrank" type="462c0819:PsiDirectoryNode" />
+              <item name="src" type="462c0819:PsiDirectoryNode" />
+              <item name="test" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="hackerrank" type="b2602c69:ProjectViewProjectNode" />
+              <item name="Hackerrank" type="462c0819:PsiDirectoryNode" />
+              <item name="src" type="462c0819:PsiDirectoryNode" />
+              <item name="test" type="462c0819:PsiDirectoryNode" />
+              <item name="java" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="hackerrank" type="b2602c69:ProjectViewProjectNode" />
+              <item name="Hackerrank" type="462c0819:PsiDirectoryNode" />
+              <item name="src" type="462c0819:PsiDirectoryNode" />
+              <item name="test" type="462c0819:PsiDirectoryNode" />
+              <item name="java" type="462c0819:PsiDirectoryNode" />
+              <item name="hackerrank" type="462c0819:PsiDirectoryNode" />
             </path>
           </expand>
           <select />
@@ -182,21 +208,8 @@
       </list>
     </option>
   </component>
-  <component name="RunManager" selected="JUnit.FindDigitsTest.noSameDigits">
-    <configuration name="FindDigits" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="com.codecool.zsana.hackerrank.FindDigits" />
-      <module name="Hackerrank" />
-      <extension name="coverage">
-        <pattern>
-          <option name="PATTERN" value="com.codecool.zsana.hackerrank.*" />
-          <option name="ENABLED" value="true" />
-        </pattern>
-      </extension>
-      <method v="2">
-        <option name="Make" enabled="true" />
-      </method>
-    </configuration>
-    <configuration name="FindDigitsTest.moreDigitsAreTheSame" type="JUnit" factoryName="JUnit" temporary="true" nameIsGenerated="true">
+  <component name="RunManager" selected="JUnit.CircularArrayRotationTest">
+    <configuration name="BigSortingTest" type="JUnit" factoryName="JUnit" temporary="true" nameIsGenerated="true">
       <module name="Hackerrank" />
       <extension name="coverage">
         <pattern>
@@ -205,14 +218,13 @@
         </pattern>
       </extension>
       <option name="PACKAGE_NAME" value="com.codecool.zsana.hackerrank" />
-      <option name="MAIN_CLASS_NAME" value="com.codecool.zsana.hackerrank.FindDigitsTest" />
-      <option name="METHOD_NAME" value="moreDigitsAreTheSame" />
-      <option name="TEST_OBJECT" value="method" />
+      <option name="MAIN_CLASS_NAME" value="com.codecool.zsana.hackerrank.BigSortingTest" />
+      <option name="TEST_OBJECT" value="class" />
       <method v="2">
         <option name="Make" enabled="true" />
       </method>
     </configuration>
-    <configuration name="FindDigitsTest.noSameDigits" type="JUnit" factoryName="JUnit" temporary="true" nameIsGenerated="true">
+    <configuration name="CavityMapTest" type="JUnit" factoryName="JUnit" temporary="true" nameIsGenerated="true">
       <module name="Hackerrank" />
       <extension name="coverage">
         <pattern>
@@ -221,14 +233,13 @@
         </pattern>
       </extension>
       <option name="PACKAGE_NAME" value="com.codecool.zsana.hackerrank" />
-      <option name="MAIN_CLASS_NAME" value="com.codecool.zsana.hackerrank.FindDigitsTest" />
-      <option name="METHOD_NAME" value="noSameDigits" />
-      <option name="TEST_OBJECT" value="method" />
+      <option name="MAIN_CLASS_NAME" value="com.codecool.zsana.hackerrank.CavityMapTest" />
+      <option name="TEST_OBJECT" value="class" />
       <method v="2">
         <option name="Make" enabled="true" />
       </method>
     </configuration>
-    <configuration name="FindDigitsTest.zeroAsParameter" type="JUnit" factoryName="JUnit" temporary="true" nameIsGenerated="true">
+    <configuration name="ChocolateFeastTest" type="JUnit" factoryName="JUnit" temporary="true" nameIsGenerated="true">
       <module name="Hackerrank" />
       <extension name="coverage">
         <pattern>
@@ -237,14 +248,25 @@
         </pattern>
       </extension>
       <option name="PACKAGE_NAME" value="com.codecool.zsana.hackerrank" />
-      <option name="MAIN_CLASS_NAME" value="com.codecool.zsana.hackerrank.FindDigitsTest" />
-      <option name="METHOD_NAME" value="zeroAsParameter" />
-      <option name="TEST_OBJECT" value="method" />
+      <option name="MAIN_CLASS_NAME" value="com.codecool.zsana.hackerrank.ChocolateFeastTest" />
+      <option name="TEST_OBJECT" value="class" />
       <method v="2">
         <option name="Make" enabled="true" />
       </method>
     </configuration>
-    <configuration name="FindDigitsTest.zeroInNumber" type="JUnit" factoryName="JUnit" temporary="true" nameIsGenerated="true">
+    <configuration name="ChocolateFeastTest,lessMoneyThanChocolatePrice and 2 more" type="JUnit" factoryName="JUnit" temporary="true" nameIsGenerated="true">
+      <module name="Hackerrank" />
+      <option name="TEST_OBJECT" value="pattern" />
+      <patterns>
+        <pattern testClass="com.codecool.zsana.hackerrank.ChocolateFeastTest,lessMoneyThanChocolatePrice" />
+        <pattern testClass="com.codecool.zsana.hackerrank.ChocolateFeastTest,moreWrapperNeededThanBobbyHas" />
+        <pattern testClass="com.codecool.zsana.hackerrank.ChocolateFeastTest,canTurnInWrapperToBars" />
+      </patterns>
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="CircularArrayRotationTest" type="JUnit" factoryName="JUnit" temporary="true" nameIsGenerated="true">
       <module name="Hackerrank" />
       <extension name="coverage">
         <pattern>
@@ -253,20 +275,19 @@
         </pattern>
       </extension>
       <option name="PACKAGE_NAME" value="com.codecool.zsana.hackerrank" />
-      <option name="MAIN_CLASS_NAME" value="com.codecool.zsana.hackerrank.FindDigitsTest" />
-      <option name="METHOD_NAME" value="zeroInNumber" />
-      <option name="TEST_OBJECT" value="method" />
+      <option name="MAIN_CLASS_NAME" value="com.codecool.zsana.hackerrank.CircularArrayRotationTest" />
+      <option name="TEST_OBJECT" value="class" />
       <method v="2">
         <option name="Make" enabled="true" />
       </method>
     </configuration>
     <recent_temporary>
       <list>
-        <item itemvalue="JUnit.FindDigitsTest.noSameDigits" />
-        <item itemvalue="JUnit.FindDigitsTest.moreDigitsAreTheSame" />
-        <item itemvalue="JUnit.FindDigitsTest.zeroInNumber" />
-        <item itemvalue="JUnit.FindDigitsTest.zeroAsParameter" />
-        <item itemvalue="Application.FindDigits" />
+        <item itemvalue="JUnit.CircularArrayRotationTest" />
+        <item itemvalue="JUnit.ChocolateFeastTest" />
+        <item itemvalue="JUnit.ChocolateFeastTest,lessMoneyThanChocolatePrice and 2 more" />
+        <item itemvalue="JUnit.CavityMapTest" />
+        <item itemvalue="JUnit.BigSortingTest" />
       </list>
     </recent_temporary>
   </component>
@@ -288,7 +309,7 @@
       <workItem from="1582637147783" duration="17259000" />
       <workItem from="1582700699399" duration="10415000" />
       <workItem from="1582733536664" duration="3776000" />
-      <workItem from="1582794722507" duration="16141000" />
+      <workItem from="1582794722507" duration="16437000" />
     </task>
     <task id="LOCAL-00001" summary="BigSorting &amp; tests">
       <created>1582406087016</created>
@@ -360,16 +381,17 @@
       <option name="project" value="LOCAL" />
       <updated>1582812446993</updated>
     </task>
-    <option name="localTasksCounter" value="11" />
+    <task id="LOCAL-00011" summary="Find digits @ Tests">
+      <created>1582833615261</created>
+      <option name="number" value="00011" />
+      <option name="presentableId" value="LOCAL-00011" />
+      <option name="project" value="LOCAL" />
+      <updated>1582833615261</updated>
+    </task>
+    <option name="localTasksCounter" value="12" />
     <servers />
   </component>
   <component name="TestHistory">
-    <history-entry file="FairRationsTest_sumOfNumbersIsEven - 2020.02.27 at 15h 00m 50s.xml">
-      <configuration name="FairRationsTest.sumOfNumbersIsEven" configurationId="JUnit" />
-    </history-entry>
-    <history-entry file="FairRationsTest_sumOfNumbersIsEven - 2020.02.27 at 15h 00m 54s.xml">
-      <configuration name="FairRationsTest.sumOfNumbersIsEven" configurationId="JUnit" />
-    </history-entry>
     <history-entry file="FairRationsTest_hackerrankTest - 2020.02.27 at 15h 02m 36s.xml">
       <configuration name="FairRationsTest.hackerrankTest" configurationId="JUnit" />
     </history-entry>
@@ -394,9 +416,15 @@
     <history-entry file="FindDigitsTest_noSameDigits - 2020.02.27 at 20h 57m 32s.xml">
       <configuration name="FindDigitsTest.noSameDigits" configurationId="JUnit" />
     </history-entry>
+    <history-entry file="BigSortingTest - 2020.02.27 at 21h 02m 11s.xml">
+      <configuration name="BigSortingTest" configurationId="JUnit" />
+    </history-entry>
+    <history-entry file="BigSortingTest - 2020.02.27 at 21h 02m 59s.xml">
+      <configuration name="BigSortingTest" configurationId="JUnit" />
+    </history-entry>
   </component>
   <component name="TimeTrackingManager">
-    <option name="totallyTimeSpent" value="85019000" />
+    <option name="totallyTimeSpent" value="85315000" />
   </component>
   <component name="TodoView">
     <todo-panel id="selected-file">
@@ -411,7 +439,7 @@
     <frame x="67" y="27" width="1299" height="741" extended-state="6" />
     <editor active="true" />
     <layout>
-      <window_info content_ui="combo" id="Project" order="0" weight="0.21628092" />
+      <window_info content_ui="combo" id="Project" order="0" visible="true" weight="0.21628092" />
       <window_info id="Structure" order="1" side_tool="true" weight="0.25" />
       <window_info id="Image Layers" order="2" />
       <window_info id="Designer" order="3" />
@@ -487,7 +515,8 @@
     <MESSAGE value="Encryption @ Tests" />
     <MESSAGE value="Equalize the array @ Tests" />
     <MESSAGE value="Fair rations @ Tests" />
-    <option name="LAST_COMMIT_MESSAGE" value="Fair rations @ Tests" />
+    <MESSAGE value="Find digits @ Tests" />
+    <option name="LAST_COMMIT_MESSAGE" value="Find digits @ Tests" />
   </component>
   <component name="editorHistoryManager">
     <entry file="file://$PROJECT_DIR$/.gitignore">
@@ -508,16 +537,6 @@
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="68">
           <caret line="4" column="22" selection-start-line="4" selection-start-column="22" selection-end-line="4" selection-end-column="22" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/src/test/java/com/codecool/zsana/hackerrank/BigSortingTest.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="-323">
-          <caret line="5" column="6" selection-start-line="5" selection-start-column="6" selection-end-line="5" selection-end-column="6" />
-          <folding>
-            <element signature="imports" expanded="true" />
-          </folding>
         </state>
       </provider>
     </entry>
@@ -594,13 +613,6 @@
           <folding>
             <element signature="imports" expanded="true" />
           </folding>
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/src/main/java/com/codecool/zsana/hackerrank/ACMICPCTeam.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="51">
-          <caret line="3" column="19" lean-forward="true" selection-start-line="3" selection-start-column="19" selection-end-line="3" selection-end-column="19" />
         </state>
       </provider>
     </entry>
@@ -733,16 +745,6 @@
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/src/main/java/com/codecool/zsana/hackerrank/BigSorting.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="-170">
-          <caret line="8" selection-start-line="8" selection-end-line="8" />
-          <folding>
-            <element signature="imports" expanded="true" />
-          </folding>
-        </state>
-      </provider>
-    </entry>
     <entry file="file://$PROJECT_DIR$/src/main/java/com/codecool/zsana/hackerrank/Encryption.java">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="187">
@@ -806,6 +808,13 @@
         </state>
       </provider>
     </entry>
+    <entry file="file://$PROJECT_DIR$/src/Conclusions">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="972">
+          <caret line="61" column="35" selection-start-line="61" selection-start-column="35" selection-end-line="61" selection-end-column="35" />
+        </state>
+      </provider>
+    </entry>
     <entry file="file://$PROJECT_DIR$/src/test/java/com/codecool/zsana/hackerrank/FindDigitsTest.java">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="493">
@@ -820,15 +829,35 @@
     </entry>
     <entry file="file://$PROJECT_DIR$/src/main/java/com/codecool/zsana/hackerrank/FindDigits.java">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="408">
-          <caret line="24" column="46" lean-forward="true" selection-start-line="24" selection-start-column="46" selection-end-line="24" selection-end-column="46" />
+        <state relative-caret-position="493">
+          <caret line="29" column="5" selection-start-line="29" selection-start-column="5" selection-end-line="29" selection-end-column="5" />
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/src/Conclusions">
+    <entry file="file://$PROJECT_DIR$/src/main/java/com/codecool/zsana/hackerrank/ACMICPCTeam.java">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="462">
-          <caret line="61" column="35" selection-start-line="61" selection-start-column="35" selection-end-line="61" selection-end-column="35" />
+        <state relative-caret-position="51">
+          <caret line="3" column="19" lean-forward="true" selection-start-line="3" selection-start-column="19" selection-end-line="3" selection-end-column="19" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/main/java/com/codecool/zsana/hackerrank/BigSorting.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="561">
+          <caret line="33" column="8" selection-start-line="33" selection-start-column="8" selection-end-line="33" selection-end-column="8" />
+          <folding>
+            <element signature="imports" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/test/java/com/codecool/zsana/hackerrank/BigSortingTest.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="731">
+          <caret line="43" column="4" selection-start-line="43" selection-start-column="4" selection-end-line="43" selection-end-column="4" />
+          <folding>
+            <element signature="imports" expanded="true" />
+          </folding>
         </state>
       </provider>
     </entry>

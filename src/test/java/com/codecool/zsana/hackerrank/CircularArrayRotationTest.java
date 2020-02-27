@@ -6,21 +6,21 @@ import org.junit.jupiter.api.Test;
 class CircularArrayRotationTest {
 
     @Test
-    public void emptyArray() {
+    void emptyArray() {
         int[] arr = new int[0];
         int[] indices = {0};
         Assertions.assertNull(CircularArrayRotation.circularArrayRotation(arr, 3, indices));
     }
 
     @Test
-    public void oneElementArray() {
+    void oneElementArray() {
         int[] arr = {1};
         int[] indices = {0};
         Assertions.assertArrayEquals(arr, CircularArrayRotation.circularArrayRotation(arr, 3, indices));
     }
 
     @Test
-    public void twoElementsArray() {
+    void twoElementsArray() {
         int[] arr = {1,2};
         int[] indices = {0,1};
         int[] result1 = {2,1};
@@ -30,7 +30,7 @@ class CircularArrayRotationTest {
     }
 
     @Test
-    public void threeElementsArray() {
+    void threeElementsArray() {
         int[] arr = {1,2,3};
         int[] indices = {1,2};
         int[] result1 = {1,2};
