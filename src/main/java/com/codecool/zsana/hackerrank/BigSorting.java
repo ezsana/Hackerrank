@@ -6,7 +6,7 @@ import java.util.Collections;
 import java.util.List;
 
 // Easy 20 points
-public class BigSorting {
+class BigSorting {
 
     String url = "https://www.hackerrank.com/challenges/big-sorting/problem";
 
@@ -23,22 +23,22 @@ public class BigSorting {
         }
         List<BigInteger> list = stringToBigIntList(unsorted);
         Collections.sort(list);
-        for (int i = 0; i < list.size(); i++) {
-            System.out.println(list.get(i));
+        for (BigInteger bigInteger : list) {
+            System.out.println(bigInteger);
         }
         return intToStringArray(list);
     }
 
-    static List<BigInteger> stringToBigIntList(String[] s) {
+    private static List<BigInteger> stringToBigIntList(String[] s) {
         List<BigInteger> numbers = new ArrayList<BigInteger>();
-        for (int i = 0; i < s.length; i++) {
-            BigInteger b = new BigInteger(s[i]);
+        for (String value : s) {
+            BigInteger b = new BigInteger(value);
             numbers.add(b);
         }
         return numbers;
     }
 
-    static String[] intToStringArray(List<BigInteger> l) {
+    private static String[] intToStringArray(List<BigInteger> l) {
         String[] s = new String[l.size()];
         for (int i = 0; i < l.size(); i++) {
             s[i] = String.valueOf(l.get(i));

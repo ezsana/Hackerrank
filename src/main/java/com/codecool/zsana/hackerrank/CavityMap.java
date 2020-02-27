@@ -5,14 +5,14 @@ import java.util.Arrays;
 import java.util.List;
 
 // Easy 30 points
-public class CavityMap {
+class CavityMap {
 
     String url = "https://www.hackerrank.com/challenges/cavity-map/problem";
 
     static String[] cavityMap(String[] grid) {
         int gridLength = grid.length;
-        for (int i = 0; i < gridLength; i++) {
-            if (grid[i].length() != gridLength) {
+        for (String s : grid) {
+            if (s.length() != gridLength) {
                 return null;
             }
         }
@@ -41,10 +41,10 @@ public class CavityMap {
         return newS;
     }
 
-    public static List<List<String>> numbersToDigits(String[] grid) {
+    private static List<List<String>> numbersToDigits(String[] grid) {
         List<List<String>> l = new ArrayList<List<String>>();
-        for (int i = 0; i < grid.length; i++) {
-            l.add(Arrays.asList(grid[i].split("")));
+        for (String s : grid) {
+            l.add(Arrays.asList(s.split("")));
         }
         return l;
     }
