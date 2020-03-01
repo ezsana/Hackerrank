@@ -1,7 +1,7 @@
 package com.codecool.zsana.hackerrank;
 
 // Easy 15 points
-public class ElectronicShop {
+class ElectronicShop {
 
     String url = "https://www.hackerrank.com/challenges/electronics-shop/problem";
 
@@ -10,10 +10,10 @@ public class ElectronicShop {
             return -1;
         }
         int maxPrice = -1;
-        for (int keyb : keyboards) {
+        for (int keyB : keyboards) {
             for (int dr : drives) {
-                if (keyb + dr <= b && maxPrice < keyb + dr) {
-                    maxPrice = keyb + dr;
+                if (keyB + dr <= b && maxPrice < keyB + dr) {
+                    maxPrice = keyB + dr;
                 }
             }
         }

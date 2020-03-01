@@ -6,7 +6,7 @@ import org.junit.jupiter.api.Test;
 class ElectronicShopTest {
 
     @Test
-    public void notEnoughMoney() {
+    void notEnoughMoney() {
         int[] keyboard = {3,4};
         int[] usb = {2,56,4};
         int money = 1;
@@ -14,7 +14,7 @@ class ElectronicShopTest {
     }
 
     @Test // Monica has to buy 2 items
-    public void onlyOneItemIsAvailable() {
+    void onlyOneItemIsAvailable() {
         int[] keyboard = {};
         int[] usb = {2,56,4};
         int money = 100;
@@ -22,7 +22,7 @@ class ElectronicShopTest {
     }
 
     @Test
-    public void hasJustEnoughMoney() {
+    void hasJustEnoughMoney() {
         int[] keyboard = {3,4};
         int[] usb = {2,56,4};
         int money = 60;
@@ -30,7 +30,7 @@ class ElectronicShopTest {
     }
 
     @Test
-    public void hasMoreThanEnoughMoney() {
+    void hasMoreThanEnoughMoney() {
         int[] keyboard = {3,4,10,12};
         int[] usb = {2,56,4};
         int money = 100;

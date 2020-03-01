@@ -3,7 +3,7 @@ package com.codecool.zsana.hackerrank;
 import java.util.Arrays;
 
 // Easy 20 points
-public class DesignerPDFViewer {
+class DesignerPDFViewer {
 
     String url = "https://www.hackerrank.com/challenges/designer-pdf-viewer/problem";
 
