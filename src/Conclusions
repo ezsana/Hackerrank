@@ -57,6 +57,16 @@ Fair Rations: 25 points
 =====>>>> big conclusion: find the first odd number and make it even by adding 1 to it (and then changes all the others)
 - it was very hard for me to understand exactly what the task was but eventually all tests passed! :)
 
-Find Digits:
+Find Digits: 25 points
 - pretty straightforward task, nothing special
 - only two testcases on Hackerrank;
+
+Flatland Space Stations: 25 points
+- requirements not clear again:
+  * n = number of cities
+  * m = 1-BASED index of city that has space station
+  * FIRST example is according to the above (n = 3, m = 1, first city has station)
+ <====> BUT
+  * next example: n = 5; m = [0,4] - now this is NOT 1-based index, city 0 and city 4 has stations
+  ==> The second case is valid.
+- solution should be more clean and shorter => needs refactoring
