@@ -1,7 +1,7 @@
 package com.codecool.zsana.hackerrank;
 
 // Easy 25 points
-public class FairRations {
+class FairRations {
 
     String url = "https://www.hackerrank.com/challenges/fair-rations/problem";
 
@@ -31,7 +31,7 @@ public class FairRations {
         return String.valueOf(breadCounter);
     }
 
-    public static boolean oddOrEvenOnly(int[] arr, int modulo) {
+    private static boolean oddOrEvenOnly(int[] arr, int modulo) {
         for (int i : arr) {
             if (i % 2 != modulo) {
                 return false;

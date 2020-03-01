@@ -1,9 +1,7 @@
 package com.codecool.zsana.hackerrank;
 
-import java.util.Arrays;
-
 // Easy 25 points
-public class FindDigits {
+class FindDigits {
 
     String url = "https://www.hackerrank.com/challenges/find-digits/problem";
 
@@ -15,12 +13,14 @@ public class FindDigits {
                 if (n % i == 0) {
                     countDividers++;
                 }
-            } catch (ArithmeticException ar) {}
+            } catch (ArithmeticException ar) {
+                System.out.println(ar.toString());
+            }
         }
         return countDividers;
     }
 
-    public static int[] getDigits(int number) {
+    private static int[] getDigits(int number) {
         String num = String.valueOf(number);
         int[] numbers = new int[num.length()];
         for (int i = 0; i < num.length(); i++) {

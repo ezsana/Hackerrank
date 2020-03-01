@@ -4,7 +4,7 @@ import java.util.HashMap;
 import java.util.Map;
 
 // Easy 20 points
-public class EqualizeTheArray {
+class EqualizeTheArray {
 
     String url = "https://www.hackerrank.com/challenges/equality-in-a-array/problem";
 
@@ -23,7 +23,7 @@ public class EqualizeTheArray {
         return toBeThrownOut;
     }
 
-    public static Map<Integer, Integer> arrayToMap(int[] arr) {
+    private static Map<Integer, Integer> arrayToMap(int[] arr) {
         Map<Integer, Integer> map = new HashMap<Integer, Integer>();
         for (int i : arr) {
             if(!map.containsKey(i)) {
@@ -36,7 +36,7 @@ public class EqualizeTheArray {
         return map;
     }
 
-    public static int getKeyOfTheLargestValue(Map<Integer, Integer> map) {
+    private static int getKeyOfTheLargestValue(Map<Integer, Integer> map) {
         int max = 0;
         int key = 0;
         for (int i : map.keySet()) {
