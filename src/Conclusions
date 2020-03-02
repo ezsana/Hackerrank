@@ -70,3 +70,7 @@ Flatland Space Stations: 25 points
   * next example: n = 5; m = [0,4] - now this is NOT 1-based index, city 0 and city 4 has stations
   ==> The second case is valid.
 - solution should be more clean and shorter => needs refactoring
+
+Happy Ladybugs: 30 points
+- At first I couldn't find the solution theory behind this so the tests were ad hoc but eventually I got it.
+- All tests passed.
