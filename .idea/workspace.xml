@@ -2,10 +2,10 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="ad273933-47d7-45fc-b820-3e267a35a029" name="Default Changelist" comment="">
-      <change afterPath="$PROJECT_DIR$/src/test/java/com/codecool/zsana/hackerrank/HappyLadybugsTest.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/test/java/com/codecool/zsana/hackerrank/LisasWorkbookTest.java" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/src/Conclusions" beforeDir="false" afterPath="$PROJECT_DIR$/src/Conclusions" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/main/java/com/codecool/zsana/hackerrank/HappyLadybugs.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/com/codecool/zsana/hackerrank/HappyLadybugs.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/java/com/codecool/zsana/hackerrank/LisasWorkbook.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/com/codecool/zsana/hackerrank/LisasWorkbook.java" afterDir="false" />
     </list>
     <ignored path="$PROJECT_DIR$/out/" />
     <ignored path="$PROJECT_DIR$/target/" />
@@ -19,33 +19,29 @@
     <option name="isMigrated" value="true" />
   </component>
   <component name="FileEditorManager">
-    <leaf>
-      <file pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/src/main/java/com/codecool/zsana/hackerrank/HappyLadybugs.java">
+    <leaf SIDE_TABS_SIZE_LIMIT_KEY="300">
+      <file pinned="false" current-in-tab="true">
+        <entry file="file://$PROJECT_DIR$/src/main/java/com/codecool/zsana/hackerrank/LisasWorkbook.java">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="340">
-              <caret line="20" column="18" selection-start-line="20" selection-start-column="18" selection-end-line="20" selection-end-column="18" />
-              <folding>
-                <element signature="imports" expanded="true" />
-                <element signature="e#396#416#0" expanded="true" />
-              </folding>
+            <state relative-caret-position="391">
+              <caret line="23" column="5" selection-start-line="23" selection-start-column="5" selection-end-line="23" selection-end-column="5" />
             </state>
           </provider>
         </entry>
       </file>
-      <file pinned="false" current-in-tab="true">
-        <entry file="file://$PROJECT_DIR$/src/test/java/com/codecool/zsana/hackerrank/HappyLadybugsTest.java">
+      <file pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/src/test/java/com/codecool/zsana/hackerrank/LisasWorkbookTest.java">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="969">
-              <caret line="57" column="10" selection-start-line="57" selection-start-column="10" selection-end-line="57" selection-end-column="10" />
+            <state relative-caret-position="493">
+              <caret line="29" column="118" selection-start-line="29" selection-start-column="118" selection-end-line="29" selection-end-column="118" />
               <folding>
                 <element signature="imports" expanded="true" />
-                <element signature="e#140#141#0" expanded="true" />
-                <element signature="e#169#170#0" expanded="true" />
-                <element signature="e#299#300#0" expanded="true" />
-                <element signature="e#377#378#0" expanded="true" />
-                <element signature="e#422#423#0" expanded="true" />
-                <element signature="e#500#501#0" expanded="true" />
+                <element signature="e#318#319#0" expanded="true" />
+                <element signature="e#409#410#0" expanded="true" />
+                <element signature="e#471#472#0" expanded="true" />
+                <element signature="e#562#563#0" expanded="true" />
+                <element signature="e#464#465#0" expanded="true" />
+                <element signature="e#555#556#0" expanded="true" />
               </folding>
             </state>
           </provider>
@@ -54,8 +50,8 @@
       <file pinned="false" current-in-tab="false">
         <entry file="file://$PROJECT_DIR$/src/Conclusions">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="527">
-              <caret line="74" column="71" selection-start-line="74" selection-start-column="71" selection-end-line="74" selection-end-column="71" />
+            <state relative-caret-position="476">
+              <caret line="78" column="85" lean-forward="true" selection-start-line="78" selection-start-column="85" selection-end-line="78" selection-end-column="85" />
             </state>
           </provider>
         </entry>
@@ -82,7 +78,6 @@
         <option value="$PROJECT_DIR$/src/main/java/com/codecool/zsana/hackerrank/ACMICPCTeam.java" />
         <option value="$PROJECT_DIR$/src/main/java/com/codecool/zsana/hackerrank/TaumAndBday.java" />
         <option value="$PROJECT_DIR$/src/main/java/com/codecool/zsana/hackerrank/TheTimeInWords.java" />
-        <option value="$PROJECT_DIR$/src/main/java/com/codecool/zsana/hackerrank/LisasWorkbook.java" />
         <option value="$PROJECT_DIR$/src/main/java/com/codecool/zsana/hackerrank/ManasaAndStones.java" />
         <option value="$PROJECT_DIR$/src/main/java/com/codecool/zsana/hackerrank/TheGridSearch.java" />
         <option value="$PROJECT_DIR$/src/main/java/com/codecool/zsana/hackerrank/StrangeCounter.java" />
@@ -115,9 +110,11 @@
         <option value="$PROJECT_DIR$/src/main/java/com/codecool/zsana/hackerrank/EqualizeTheArray.java" />
         <option value="$PROJECT_DIR$/src/main/java/com/codecool/zsana/hackerrank/FlatlandSpaceStations.java" />
         <option value="$PROJECT_DIR$/src/test/java/com/codecool/zsana/hackerrank/FlatlandSpaceStationsTest.java" />
-        <option value="$PROJECT_DIR$/src/Conclusions" />
-        <option value="$PROJECT_DIR$/src/test/java/com/codecool/zsana/hackerrank/HappyLadybugsTest.java" />
         <option value="$PROJECT_DIR$/src/main/java/com/codecool/zsana/hackerrank/HappyLadybugs.java" />
+        <option value="$PROJECT_DIR$/src/test/java/com/codecool/zsana/hackerrank/HappyLadybugsTest.java" />
+        <option value="$PROJECT_DIR$/src/test/java/com/codecool/zsana/hackerrank/LisasWorkbookTest.java" />
+        <option value="$PROJECT_DIR$/src/main/java/com/codecool/zsana/hackerrank/LisasWorkbook.java" />
+        <option value="$PROJECT_DIR$/src/Conclusions" />
       </list>
     </option>
   </component>
@@ -133,8 +130,6 @@
       <foldersAlwaysOnTop value="true" />
     </navigator>
     <panes>
-      <pane id="PackagesPane" />
-      <pane id="Scope" />
       <pane id="ProjectPane">
         <subPane>
           <expand>
@@ -193,6 +188,8 @@
           <select />
         </subPane>
       </pane>
+      <pane id="PackagesPane" />
+      <pane id="Scope" />
     </panes>
   </component>
   <component name="PropertiesComponent">
@@ -203,6 +200,7 @@
     <property name="com.intellij.testIntegration.createTest.CreateTestDialog.defaultLibrarySuperClass.JUnit5" value="" />
     <property name="nodejs_interpreter_path.stuck_in_default_project" value="undefined stuck path" />
     <property name="nodejs_npm_path_reset_for_default_project" value="true" />
+    <property name="nodejs_package_manager_path" value="npm" />
     <property name="project.structure.last.edited" value="Modules" />
     <property name="project.structure.proportion" value="0.15" />
     <property name="project.structure.side.proportion" value="0.5796964" />
@@ -228,8 +226,8 @@
       </list>
     </option>
   </component>
-  <component name="RunManager" selected="JUnit.HappyLadybugsTest.hackerTests">
-    <configuration name="HappyLadybugsTest" type="JUnit" factoryName="JUnit" temporary="true" nameIsGenerated="true">
+  <component name="RunManager" selected="JUnit.LisasWorkbookTest">
+    <configuration name="LisasWorkbookTest" type="JUnit" factoryName="JUnit" temporary="true" nameIsGenerated="true">
       <module name="Hackerrank" />
       <extension name="coverage">
         <pattern>
@@ -238,13 +236,13 @@
         </pattern>
       </extension>
       <option name="PACKAGE_NAME" value="com.codecool.zsana.hackerrank" />
-      <option name="MAIN_CLASS_NAME" value="com.codecool.zsana.hackerrank.HappyLadybugsTest" />
+      <option name="MAIN_CLASS_NAME" value="com.codecool.zsana.hackerrank.LisasWorkbookTest" />
       <option name="TEST_OBJECT" value="class" />
       <method v="2">
         <option name="Make" enabled="true" />
       </method>
     </configuration>
-    <configuration name="HappyLadybugsTest.allBugsInSameColour" type="JUnit" factoryName="JUnit" temporary="true" nameIsGenerated="true">
+    <configuration name="LisasWorkbookTest.hackerTest" type="JUnit" factoryName="JUnit" temporary="true" nameIsGenerated="true">
       <module name="Hackerrank" />
       <extension name="coverage">
         <pattern>
@@ -253,14 +251,14 @@
         </pattern>
       </extension>
       <option name="PACKAGE_NAME" value="com.codecool.zsana.hackerrank" />
-      <option name="MAIN_CLASS_NAME" value="com.codecool.zsana.hackerrank.HappyLadybugsTest" />
-      <option name="METHOD_NAME" value="allBugsInSameColour" />
+      <option name="MAIN_CLASS_NAME" value="com.codecool.zsana.hackerrank.LisasWorkbookTest" />
+      <option name="METHOD_NAME" value="hackerTest" />
       <option name="TEST_OBJECT" value="method" />
       <method v="2">
         <option name="Make" enabled="true" />
       </method>
     </configuration>
-    <configuration name="HappyLadybugsTest.hackerTests" type="JUnit" factoryName="JUnit" temporary="true" nameIsGenerated="true">
+    <configuration name="LisasWorkbookTest.hackerTest2" type="JUnit" factoryName="JUnit" temporary="true" nameIsGenerated="true">
       <module name="Hackerrank" />
       <extension name="coverage">
         <pattern>
@@ -269,14 +267,14 @@
         </pattern>
       </extension>
       <option name="PACKAGE_NAME" value="com.codecool.zsana.hackerrank" />
-      <option name="MAIN_CLASS_NAME" value="com.codecool.zsana.hackerrank.HappyLadybugsTest" />
-      <option name="METHOD_NAME" value="hackerTests" />
+      <option name="MAIN_CLASS_NAME" value="com.codecool.zsana.hackerrank.LisasWorkbookTest" />
+      <option name="METHOD_NAME" value="hackerTest2" />
       <option name="TEST_OBJECT" value="method" />
       <method v="2">
         <option name="Make" enabled="true" />
       </method>
     </configuration>
-    <configuration name="HappyLadybugsTest.happyBugs" type="JUnit" factoryName="JUnit" temporary="true" nameIsGenerated="true">
+    <configuration name="LisasWorkbookTest.onePagePerChapter" type="JUnit" factoryName="JUnit" temporary="true" nameIsGenerated="true">
       <module name="Hackerrank" />
       <extension name="coverage">
         <pattern>
@@ -285,14 +283,14 @@
         </pattern>
       </extension>
       <option name="PACKAGE_NAME" value="com.codecool.zsana.hackerrank" />
-      <option name="MAIN_CLASS_NAME" value="com.codecool.zsana.hackerrank.HappyLadybugsTest" />
-      <option name="METHOD_NAME" value="happyBugs" />
+      <option name="MAIN_CLASS_NAME" value="com.codecool.zsana.hackerrank.LisasWorkbookTest" />
+      <option name="METHOD_NAME" value="onePagePerChapter" />
       <option name="TEST_OBJECT" value="method" />
       <method v="2">
         <option name="Make" enabled="true" />
       </method>
     </configuration>
-    <configuration name="HappyLadybugsTest.underScoresOnly" type="JUnit" factoryName="JUnit" temporary="true" nameIsGenerated="true">
+    <configuration name="LisasWorkbookTest.oneProblemPerPage" type="JUnit" factoryName="JUnit" temporary="true" nameIsGenerated="true">
       <module name="Hackerrank" />
       <extension name="coverage">
         <pattern>
@@ -301,8 +299,8 @@
         </pattern>
       </extension>
       <option name="PACKAGE_NAME" value="com.codecool.zsana.hackerrank" />
-      <option name="MAIN_CLASS_NAME" value="com.codecool.zsana.hackerrank.HappyLadybugsTest" />
-      <option name="METHOD_NAME" value="underScoresOnly" />
+      <option name="MAIN_CLASS_NAME" value="com.codecool.zsana.hackerrank.LisasWorkbookTest" />
+      <option name="METHOD_NAME" value="oneProblemPerPage" />
       <option name="TEST_OBJECT" value="method" />
       <method v="2">
         <option name="Make" enabled="true" />
@@ -310,11 +308,11 @@
     </configuration>
     <recent_temporary>
       <list>
-        <item itemvalue="JUnit.HappyLadybugsTest.hackerTests" />
-        <item itemvalue="JUnit.HappyLadybugsTest" />
-        <item itemvalue="JUnit.HappyLadybugsTest.happyBugs" />
-        <item itemvalue="JUnit.HappyLadybugsTest.allBugsInSameColour" />
-        <item itemvalue="JUnit.HappyLadybugsTest.underScoresOnly" />
+        <item itemvalue="JUnit.LisasWorkbookTest" />
+        <item itemvalue="JUnit.LisasWorkbookTest.hackerTest2" />
+        <item itemvalue="JUnit.LisasWorkbookTest.hackerTest" />
+        <item itemvalue="JUnit.LisasWorkbookTest.oneProblemPerPage" />
+        <item itemvalue="JUnit.LisasWorkbookTest.onePagePerChapter" />
       </list>
     </recent_temporary>
   </component>
@@ -339,7 +337,9 @@
       <workItem from="1582794722507" duration="17124000" />
       <workItem from="1583046721966" duration="3939000" />
       <workItem from="1583084566294" duration="3180000" />
-      <workItem from="1583147628129" duration="4038000" />
+      <workItem from="1583147628129" duration="4404000" />
+      <workItem from="1583160041085" duration="261000" />
+      <workItem from="1583217946609" duration="11533000" />
     </task>
     <task id="LOCAL-00001" summary="BigSorting &amp; tests">
       <created>1582406087016</created>
@@ -453,43 +453,50 @@
       <option name="project" value="LOCAL" />
       <updated>1583087696092</updated>
     </task>
-    <option name="localTasksCounter" value="17" />
+    <task id="LOCAL-00017" summary="Happy Ladybugs &amp; tests.">
+      <created>1583151892869</created>
+      <option name="number" value="00017" />
+      <option name="presentableId" value="LOCAL-00017" />
+      <option name="project" value="LOCAL" />
+      <updated>1583151892869</updated>
+    </task>
+    <option name="localTasksCounter" value="18" />
     <servers />
   </component>
   <component name="TestHistory">
-    <history-entry file="FlatlandSpaceStationsTest_someCitiesHaveStations - 2020.03.01 at 19h 24m 27s.xml">
-      <configuration name="FlatlandSpaceStationsTest.someCitiesHaveStations" configurationId="JUnit" />
+    <history-entry file="LisasWorkbookTest_hackerTest - 2020.03.03 at 10h 13m 44s.xml">
+      <configuration name="LisasWorkbookTest.hackerTest" configurationId="JUnit" />
     </history-entry>
-    <history-entry file="FlatlandSpaceStationsTest - 2020.03.01 at 19h 30m 31s.xml">
-      <configuration name="FlatlandSpaceStationsTest" configurationId="JUnit" />
+    <history-entry file="LisasWorkbookTest_hackerTest - 2020.03.03 at 10h 17m 04s.xml">
+      <configuration name="LisasWorkbookTest.hackerTest" configurationId="JUnit" />
     </history-entry>
-    <history-entry file="FlatlandSpaceStationsTest_hackerrankTest - 2020.03.01 at 19h 31m 43s.xml">
-      <configuration name="FlatlandSpaceStationsTest.hackerrankTest" configurationId="JUnit" />
+    <history-entry file="LisasWorkbookTest - 2020.03.03 at 10h 17m 08s.xml">
+      <configuration name="LisasWorkbookTest" configurationId="JUnit" />
     </history-entry>
-    <history-entry file="HappyLadybugsTest - 2020.03.02 at 12h 40m 44s.xml">
-      <configuration name="HappyLadybugsTest" configurationId="JUnit" />
+    <history-entry file="LisasWorkbookTest_hackerTest2 - 2020.03.03 at 10h 21m 55s.xml">
+      <configuration name="LisasWorkbookTest.hackerTest2" configurationId="JUnit" />
     </history-entry>
-    <history-entry file="HappyLadybugsTest_hackerTests - 2020.03.02 at 12h 44m 22s.xml">
-      <configuration name="HappyLadybugsTest.hackerTests" configurationId="JUnit" />
+    <history-entry file="LisasWorkbookTest_hackerTest2 - 2020.03.03 at 10h 58m 26s.xml">
+      <configuration name="LisasWorkbookTest.hackerTest2" configurationId="JUnit" />
     </history-entry>
-    <history-entry file="HappyLadybugsTest_happyBugs - 2020.03.02 at 12h 47m 01s.xml">
-      <configuration name="HappyLadybugsTest.happyBugs" configurationId="JUnit" />
+    <history-entry file="LisasWorkbookTest_hackerTest2 - 2020.03.03 at 11h 00m 39s.xml">
+      <configuration name="LisasWorkbookTest.hackerTest2" configurationId="JUnit" />
     </history-entry>
-    <history-entry file="HappyLadybugsTest_emptyString - 2020.03.02 at 13h 02m 53s.xml">
-      <configuration name="HappyLadybugsTest.emptyString" configurationId="JUnit" />
+    <history-entry file="LisasWorkbookTest_hackerTest2 - 2020.03.03 at 11h 01m 42s.xml">
+      <configuration name="LisasWorkbookTest.hackerTest2" configurationId="JUnit" />
     </history-entry>
-    <history-entry file="HappyLadybugsTest_oneLetterString - 2020.03.02 at 13h 03m 50s.xml">
-      <configuration name="HappyLadybugsTest.oneLetterString" configurationId="JUnit" />
+    <history-entry file="LisasWorkbookTest_hackerTest2 - 2020.03.03 at 11h 06m 53s.xml">
+      <configuration name="LisasWorkbookTest.hackerTest2" configurationId="JUnit" />
     </history-entry>
-    <history-entry file="HappyLadybugsTest_notHappyBugs - 2020.03.02 at 13h 03m 57s.xml">
-      <configuration name="HappyLadybugsTest.notHappyBugs" configurationId="JUnit" />
+    <history-entry file="LisasWorkbookTest_hackerTest2 - 2020.03.03 at 11h 06m 57s.xml">
+      <configuration name="LisasWorkbookTest.hackerTest2" configurationId="JUnit" />
     </history-entry>
-    <history-entry file="HappyLadybugsTest_hackerTests - 2020.03.02 at 13h 04m 13s.xml">
-      <configuration name="HappyLadybugsTest.hackerTests" configurationId="JUnit" />
+    <history-entry file="LisasWorkbookTest - 2020.03.03 at 11h 07m 44s.xml">
+      <configuration name="LisasWorkbookTest" configurationId="JUnit" />
     </history-entry>
   </component>
   <component name="TimeTrackingManager">
-    <option name="totallyTimeSpent" value="97159000" />
+    <option name="totallyTimeSpent" value="109319000" />
   </component>
   <component name="TodoView">
     <todo-panel id="selected-file">
@@ -504,7 +511,7 @@
     <frame x="67" y="27" width="1299" height="741" extended-state="6" />
     <editor active="true" />
     <layout>
-      <window_info content_ui="combo" id="Project" order="0" weight="0.22745411" />
+      <window_info content_ui="combo" id="Project" order="0" weight="0.3104549" />
       <window_info id="Structure" order="1" side_tool="true" weight="0.25" />
       <window_info id="Image Layers" order="2" />
       <window_info id="Designer" order="3" />
@@ -514,7 +521,7 @@
       <window_info anchor="bottom" id="Message" order="0" />
       <window_info anchor="bottom" id="Find" order="1" />
       <window_info anchor="bottom" id="Run" order="2" weight="0.4033058" />
-      <window_info anchor="bottom" id="Debug" order="3" weight="0.3966942" />
+      <window_info anchor="bottom" id="Debug" order="3" weight="0.47603306" />
       <window_info anchor="bottom" id="Cvs" order="4" weight="0.25" />
       <window_info anchor="bottom" id="Inspection" order="5" weight="0.4" />
       <window_info anchor="bottom" id="TODO" order="6" weight="0.3289256" />
@@ -584,7 +591,8 @@
     <MESSAGE value="Code cleaning" />
     <MESSAGE value="Code cleaning." />
     <MESSAGE value="Flatland Space Station &amp; tests." />
-    <option name="LAST_COMMIT_MESSAGE" value="Flatland Space Station &amp; tests." />
+    <MESSAGE value="Happy Ladybugs &amp; tests." />
+    <option name="LAST_COMMIT_MESSAGE" value="Happy Ladybugs &amp; tests." />
   </component>
   <component name="editorHistoryManager">
     <entry file="file://$PROJECT_DIR$/.gitignore">
@@ -615,37 +623,10 @@
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/src/main/java/com/codecool/zsana/hackerrank/ACMICPCTeam.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="51">
-          <caret line="3" column="19" lean-forward="true" selection-start-line="3" selection-start-column="19" selection-end-line="3" selection-end-column="19" />
-        </state>
-      </provider>
-    </entry>
     <entry file="file://$PROJECT_DIR$/src/test/java/com/codecool/zsana/hackerrank/BigSortingTest.java">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="731">
           <caret line="43" column="4" selection-start-line="43" selection-start-column="4" selection-end-line="43" selection-end-column="4" />
-          <folding>
-            <element signature="imports" expanded="true" />
-          </folding>
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/src/main/java/com/codecool/zsana/hackerrank/BigSorting.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="561">
-          <caret line="33" column="8" selection-start-line="33" selection-start-column="8" selection-end-line="33" selection-end-column="8" />
-          <folding>
-            <element signature="imports" expanded="true" />
-          </folding>
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/src/main/java/com/codecool/zsana/hackerrank/CavityMap.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="621">
-          <caret line="45" column="9" selection-start-line="45" selection-start-column="9" selection-end-line="45" selection-end-column="9" />
           <folding>
             <element signature="imports" expanded="true" />
           </folding>
@@ -659,13 +640,6 @@
           <folding>
             <element signature="imports" expanded="true" />
           </folding>
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/src/main/java/com/codecool/zsana/hackerrank/ChocolateFeast.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="3">
-          <caret line="3" lean-forward="true" selection-start-line="3" selection-end-line="3" />
         </state>
       </provider>
     </entry>
@@ -763,26 +737,6 @@
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/src/test/java/com/codecool/zsana/hackerrank/ElectronicShopTest.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="425">
-          <caret line="25" column="31" lean-forward="true" selection-start-line="25" selection-start-column="31" selection-end-line="25" selection-end-column="31" />
-          <folding>
-            <element signature="imports" expanded="true" />
-          </folding>
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/src/test/java/com/codecool/zsana/hackerrank/EncryptionTest.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="493">
-          <caret line="39" column="4" selection-start-line="39" selection-start-column="4" selection-end-line="39" selection-end-column="4" />
-          <folding>
-            <element signature="imports" expanded="true" />
-          </folding>
-        </state>
-      </provider>
-    </entry>
     <entry file="file://$PROJECT_DIR$/src/main/java/com/codecool/zsana/hackerrank/FairRations.java">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="408">
@@ -810,26 +764,6 @@
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/src/test/java/com/codecool/zsana/hackerrank/EqualizeTheArrayTest.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="281">
-          <caret line="32" column="24" selection-start-line="32" selection-start-column="24" selection-end-line="32" selection-end-column="24" />
-          <folding>
-            <element signature="imports" expanded="true" />
-          </folding>
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/src/main/java/com/codecool/zsana/hackerrank/EqualizeTheArray.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="400">
-          <caret line="38" column="12" selection-start-line="38" selection-start-column="12" selection-end-line="38" selection-end-column="12" />
-          <folding>
-            <element signature="imports" expanded="true" />
-          </folding>
-        </state>
-      </provider>
-    </entry>
     <entry file="file://$PROJECT_DIR$/src/main/java/com/codecool/zsana/hackerrank/FindDigits.java">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="272">
@@ -851,13 +785,6 @@
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="510">
           <caret line="30" column="18" selection-start-line="30" selection-start-column="18" selection-end-line="30" selection-end-column="18" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/src/main/java/com/codecool/zsana/hackerrank/LisasWorkbook.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="85">
-          <caret line="5" column="77" selection-start-line="5" selection-start-column="77" selection-end-line="5" selection-end-column="77" />
         </state>
       </provider>
     </entry>
@@ -917,17 +844,10 @@
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/src/Conclusions">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="527">
-          <caret line="74" column="71" selection-start-line="74" selection-start-column="71" selection-end-line="74" selection-end-column="71" />
-        </state>
-      </provider>
-    </entry>
     <entry file="file://$PROJECT_DIR$/src/main/java/com/codecool/zsana/hackerrank/HappyLadybugs.java">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="340">
-          <caret line="20" column="18" selection-start-line="20" selection-start-column="18" selection-end-line="20" selection-end-column="18" />
+        <state relative-caret-position="255">
+          <caret line="15" column="37" lean-forward="true" selection-start-line="15" selection-start-column="37" selection-end-line="15" selection-end-column="37" />
           <folding>
             <element signature="imports" expanded="true" />
             <element signature="e#396#416#0" expanded="true" />
@@ -938,7 +858,7 @@
     <entry file="file://$PROJECT_DIR$/src/test/java/com/codecool/zsana/hackerrank/HappyLadybugsTest.java">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="969">
-          <caret line="57" column="10" selection-start-line="57" selection-start-column="10" selection-end-line="57" selection-end-column="10" />
+          <caret line="57" column="8" selection-start-line="57" selection-start-column="8" selection-end-line="57" selection-end-column="8" />
           <folding>
             <element signature="imports" expanded="true" />
             <element signature="e#140#141#0" expanded="true" />
@@ -948,6 +868,110 @@
             <element signature="e#422#423#0" expanded="true" />
             <element signature="e#500#501#0" expanded="true" />
           </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/main/java/com/codecool/zsana/hackerrank/ACMICPCTeam.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="51">
+          <caret line="3" column="19" lean-forward="true" selection-start-line="3" selection-start-column="19" selection-end-line="3" selection-end-column="19" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/main/java/com/codecool/zsana/hackerrank/BigSorting.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="561">
+          <caret line="33" column="8" selection-start-line="33" selection-start-column="8" selection-end-line="33" selection-end-column="8" />
+          <folding>
+            <element signature="imports" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/main/java/com/codecool/zsana/hackerrank/CavityMap.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="765">
+          <caret line="45" column="9" selection-start-line="45" selection-start-column="9" selection-end-line="45" selection-end-column="9" />
+          <folding>
+            <element signature="imports" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/main/java/com/codecool/zsana/hackerrank/ChocolateFeast.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="51">
+          <caret line="3" lean-forward="true" selection-start-line="3" selection-end-line="3" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/main/java/com/codecool/zsana/hackerrank/EqualizeTheArray.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="646">
+          <caret line="38" column="12" selection-start-line="38" selection-start-column="12" selection-end-line="38" selection-end-column="12" />
+          <folding>
+            <element signature="imports" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/test/java/com/codecool/zsana/hackerrank/EqualizeTheArrayTest.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="544">
+          <caret line="32" column="24" selection-start-line="32" selection-start-column="24" selection-end-line="32" selection-end-column="24" />
+          <folding>
+            <element signature="imports" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/test/java/com/codecool/zsana/hackerrank/ElectronicShopTest.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="425">
+          <caret line="25" column="31" lean-forward="true" selection-start-line="25" selection-start-column="31" selection-end-line="25" selection-end-column="31" />
+          <folding>
+            <element signature="imports" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/test/java/com/codecool/zsana/hackerrank/EncryptionTest.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="493">
+          <caret line="39" column="4" selection-start-line="39" selection-start-column="4" selection-end-line="39" selection-end-column="4" />
+          <folding>
+            <element signature="imports" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/Conclusions">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="476">
+          <caret line="78" column="85" lean-forward="true" selection-start-line="78" selection-start-column="85" selection-end-line="78" selection-end-column="85" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/test/java/com/codecool/zsana/hackerrank/LisasWorkbookTest.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="493">
+          <caret line="29" column="118" selection-start-line="29" selection-start-column="118" selection-end-line="29" selection-end-column="118" />
+          <folding>
+            <element signature="imports" expanded="true" />
+            <element signature="e#318#319#0" expanded="true" />
+            <element signature="e#409#410#0" expanded="true" />
+            <element signature="e#471#472#0" expanded="true" />
+            <element signature="e#562#563#0" expanded="true" />
+            <element signature="e#464#465#0" expanded="true" />
+            <element signature="e#555#556#0" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/main/java/com/codecool/zsana/hackerrank/LisasWorkbook.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="391">
+          <caret line="23" column="5" selection-start-line="23" selection-start-column="5" selection-end-line="23" selection-end-column="5" />
         </state>
       </provider>
     </entry>

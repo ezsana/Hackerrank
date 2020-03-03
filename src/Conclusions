@@ -74,3 +74,6 @@ Flatland Space Stations: 25 points
 Happy Ladybugs: 30 points
 - At first I couldn't find the solution theory behind this so the tests were ad hoc but eventually I got it.
 - All tests passed.
+
+Lisas Workbook: 25 points
+- Again test was wrong => took a quarter an hour to find out :( => checking all tests
