@@ -2,10 +2,10 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="ad273933-47d7-45fc-b820-3e267a35a029" name="Default Changelist" comment="">
-      <change afterPath="$PROJECT_DIR$/src/test/java/com/codecool/zsana/hackerrank/LisasWorkbookTest.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/test/java/com/codecool/zsana/hackerrank/ManasaAndStonesTest.java" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/src/Conclusions" beforeDir="false" afterPath="$PROJECT_DIR$/src/Conclusions" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/main/java/com/codecool/zsana/hackerrank/LisasWorkbook.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/com/codecool/zsana/hackerrank/LisasWorkbook.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/java/com/codecool/zsana/hackerrank/ManasaAndStones.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/com/codecool/zsana/hackerrank/ManasaAndStones.java" afterDir="false" />
     </list>
     <ignored path="$PROJECT_DIR$/out/" />
     <ignored path="$PROJECT_DIR$/target/" />
@@ -20,38 +20,37 @@
   </component>
   <component name="FileEditorManager">
     <leaf SIDE_TABS_SIZE_LIMIT_KEY="300">
-      <file pinned="false" current-in-tab="true">
-        <entry file="file://$PROJECT_DIR$/src/main/java/com/codecool/zsana/hackerrank/LisasWorkbook.java">
-          <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="391">
-              <caret line="23" column="5" selection-start-line="23" selection-start-column="5" selection-end-line="23" selection-end-column="5" />
-            </state>
-          </provider>
-        </entry>
-      </file>
       <file pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/src/test/java/com/codecool/zsana/hackerrank/LisasWorkbookTest.java">
+        <entry file="file://$PROJECT_DIR$/src/main/java/com/codecool/zsana/hackerrank/ManasaAndStones.java">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="493">
-              <caret line="29" column="118" selection-start-line="29" selection-start-column="118" selection-end-line="29" selection-end-column="118" />
+            <state relative-caret-position="315">
+              <caret line="34" lean-forward="true" selection-start-line="34" selection-end-line="34" />
               <folding>
-                <element signature="imports" expanded="true" />
-                <element signature="e#318#319#0" expanded="true" />
-                <element signature="e#409#410#0" expanded="true" />
-                <element signature="e#471#472#0" expanded="true" />
-                <element signature="e#562#563#0" expanded="true" />
-                <element signature="e#464#465#0" expanded="true" />
-                <element signature="e#555#556#0" expanded="true" />
+                <element signature="e#447#456#0" expanded="true" />
+                <element signature="e#624#633#0" expanded="true" />
+                <element signature="e#1007#1016#0" expanded="true" />
               </folding>
             </state>
           </provider>
         </entry>
       </file>
       <file pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/src/test/java/com/codecool/zsana/hackerrank/ManasaAndStonesTest.java">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="-76">
+              <caret line="11" column="22" selection-start-line="11" selection-start-column="22" selection-end-line="11" selection-end-column="22" />
+              <folding>
+                <element signature="imports" expanded="true" />
+              </folding>
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file pinned="false" current-in-tab="true">
         <entry file="file://$PROJECT_DIR$/src/Conclusions">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="476">
-              <caret line="78" column="85" lean-forward="true" selection-start-line="78" selection-start-column="85" selection-end-line="78" selection-end-column="85" />
+            <state relative-caret-position="513">
+              <caret line="81" column="69" selection-start-line="81" selection-start-column="69" selection-end-line="81" selection-end-column="69" />
             </state>
           </provider>
         </entry>
@@ -78,7 +77,6 @@
         <option value="$PROJECT_DIR$/src/main/java/com/codecool/zsana/hackerrank/ACMICPCTeam.java" />
         <option value="$PROJECT_DIR$/src/main/java/com/codecool/zsana/hackerrank/TaumAndBday.java" />
         <option value="$PROJECT_DIR$/src/main/java/com/codecool/zsana/hackerrank/TheTimeInWords.java" />
-        <option value="$PROJECT_DIR$/src/main/java/com/codecool/zsana/hackerrank/ManasaAndStones.java" />
         <option value="$PROJECT_DIR$/src/main/java/com/codecool/zsana/hackerrank/TheGridSearch.java" />
         <option value="$PROJECT_DIR$/src/main/java/com/codecool/zsana/hackerrank/StrangeCounter.java" />
         <option value="$PROJECT_DIR$/src/test/java/com/codecool/zsana/hackerrank/DayOfTheProgrammerTest.java" />
@@ -114,6 +112,8 @@
         <option value="$PROJECT_DIR$/src/test/java/com/codecool/zsana/hackerrank/HappyLadybugsTest.java" />
         <option value="$PROJECT_DIR$/src/test/java/com/codecool/zsana/hackerrank/LisasWorkbookTest.java" />
         <option value="$PROJECT_DIR$/src/main/java/com/codecool/zsana/hackerrank/LisasWorkbook.java" />
+        <option value="$PROJECT_DIR$/src/test/java/com/codecool/zsana/hackerrank/ManasaAndStonesTest.java" />
+        <option value="$PROJECT_DIR$/src/main/java/com/codecool/zsana/hackerrank/ManasaAndStones.java" />
         <option value="$PROJECT_DIR$/src/Conclusions" />
       </list>
     </option>
@@ -130,6 +130,7 @@
       <foldersAlwaysOnTop value="true" />
     </navigator>
     <panes>
+      <pane id="Scope" />
       <pane id="ProjectPane">
         <subPane>
           <expand>
@@ -189,7 +190,6 @@
         </subPane>
       </pane>
       <pane id="PackagesPane" />
-      <pane id="Scope" />
     </panes>
   </component>
   <component name="PropertiesComponent">
@@ -226,8 +226,8 @@
       </list>
     </option>
   </component>
-  <component name="RunManager" selected="JUnit.LisasWorkbookTest">
-    <configuration name="LisasWorkbookTest" type="JUnit" factoryName="JUnit" temporary="true" nameIsGenerated="true">
+  <component name="RunManager" selected="JUnit.ManasaAndStonesTest.distinctDifference2">
+    <configuration name="ManasaAndStonesTest" type="JUnit" factoryName="JUnit" temporary="true" nameIsGenerated="true">
       <module name="Hackerrank" />
       <extension name="coverage">
         <pattern>
@@ -236,13 +236,13 @@
         </pattern>
       </extension>
       <option name="PACKAGE_NAME" value="com.codecool.zsana.hackerrank" />
-      <option name="MAIN_CLASS_NAME" value="com.codecool.zsana.hackerrank.LisasWorkbookTest" />
+      <option name="MAIN_CLASS_NAME" value="com.codecool.zsana.hackerrank.ManasaAndStonesTest" />
       <option name="TEST_OBJECT" value="class" />
       <method v="2">
         <option name="Make" enabled="true" />
       </method>
     </configuration>
-    <configuration name="LisasWorkbookTest.hackerTest" type="JUnit" factoryName="JUnit" temporary="true" nameIsGenerated="true">
+    <configuration name="ManasaAndStonesTest.differenceZero" type="JUnit" factoryName="JUnit" temporary="true" nameIsGenerated="true">
       <module name="Hackerrank" />
       <extension name="coverage">
         <pattern>
@@ -251,14 +251,14 @@
         </pattern>
       </extension>
       <option name="PACKAGE_NAME" value="com.codecool.zsana.hackerrank" />
-      <option name="MAIN_CLASS_NAME" value="com.codecool.zsana.hackerrank.LisasWorkbookTest" />
-      <option name="METHOD_NAME" value="hackerTest" />
+      <option name="MAIN_CLASS_NAME" value="com.codecool.zsana.hackerrank.ManasaAndStonesTest" />
+      <option name="METHOD_NAME" value="differenceZero" />
       <option name="TEST_OBJECT" value="method" />
       <method v="2">
         <option name="Make" enabled="true" />
       </method>
     </configuration>
-    <configuration name="LisasWorkbookTest.hackerTest2" type="JUnit" factoryName="JUnit" temporary="true" nameIsGenerated="true">
+    <configuration name="ManasaAndStonesTest.distinctDifference1" type="JUnit" factoryName="JUnit" temporary="true" nameIsGenerated="true">
       <module name="Hackerrank" />
       <extension name="coverage">
         <pattern>
@@ -267,14 +267,14 @@
         </pattern>
       </extension>
       <option name="PACKAGE_NAME" value="com.codecool.zsana.hackerrank" />
-      <option name="MAIN_CLASS_NAME" value="com.codecool.zsana.hackerrank.LisasWorkbookTest" />
-      <option name="METHOD_NAME" value="hackerTest2" />
+      <option name="MAIN_CLASS_NAME" value="com.codecool.zsana.hackerrank.ManasaAndStonesTest" />
+      <option name="METHOD_NAME" value="distinctDifference1" />
       <option name="TEST_OBJECT" value="method" />
       <method v="2">
         <option name="Make" enabled="true" />
       </method>
     </configuration>
-    <configuration name="LisasWorkbookTest.onePagePerChapter" type="JUnit" factoryName="JUnit" temporary="true" nameIsGenerated="true">
+    <configuration name="ManasaAndStonesTest.distinctDifference2" type="JUnit" factoryName="JUnit" temporary="true" nameIsGenerated="true">
       <module name="Hackerrank" />
       <extension name="coverage">
         <pattern>
@@ -283,14 +283,14 @@
         </pattern>
       </extension>
       <option name="PACKAGE_NAME" value="com.codecool.zsana.hackerrank" />
-      <option name="MAIN_CLASS_NAME" value="com.codecool.zsana.hackerrank.LisasWorkbookTest" />
-      <option name="METHOD_NAME" value="onePagePerChapter" />
+      <option name="MAIN_CLASS_NAME" value="com.codecool.zsana.hackerrank.ManasaAndStonesTest" />
+      <option name="METHOD_NAME" value="distinctDifference2" />
       <option name="TEST_OBJECT" value="method" />
       <method v="2">
         <option name="Make" enabled="true" />
       </method>
     </configuration>
-    <configuration name="LisasWorkbookTest.oneProblemPerPage" type="JUnit" factoryName="JUnit" temporary="true" nameIsGenerated="true">
+    <configuration name="ManasaAndStonesTest.sameDifference" type="JUnit" factoryName="JUnit" temporary="true" nameIsGenerated="true">
       <module name="Hackerrank" />
       <extension name="coverage">
         <pattern>
@@ -299,8 +299,8 @@
         </pattern>
       </extension>
       <option name="PACKAGE_NAME" value="com.codecool.zsana.hackerrank" />
-      <option name="MAIN_CLASS_NAME" value="com.codecool.zsana.hackerrank.LisasWorkbookTest" />
-      <option name="METHOD_NAME" value="oneProblemPerPage" />
+      <option name="MAIN_CLASS_NAME" value="com.codecool.zsana.hackerrank.ManasaAndStonesTest" />
+      <option name="METHOD_NAME" value="sameDifference" />
       <option name="TEST_OBJECT" value="method" />
       <method v="2">
         <option name="Make" enabled="true" />
@@ -308,11 +308,11 @@
     </configuration>
     <recent_temporary>
       <list>
-        <item itemvalue="JUnit.LisasWorkbookTest" />
-        <item itemvalue="JUnit.LisasWorkbookTest.hackerTest2" />
-        <item itemvalue="JUnit.LisasWorkbookTest.hackerTest" />
-        <item itemvalue="JUnit.LisasWorkbookTest.oneProblemPerPage" />
-        <item itemvalue="JUnit.LisasWorkbookTest.onePagePerChapter" />
+        <item itemvalue="JUnit.ManasaAndStonesTest.distinctDifference2" />
+        <item itemvalue="JUnit.ManasaAndStonesTest.distinctDifference1" />
+        <item itemvalue="JUnit.ManasaAndStonesTest.differenceZero" />
+        <item itemvalue="JUnit.ManasaAndStonesTest.sameDifference" />
+        <item itemvalue="JUnit.ManasaAndStonesTest" />
       </list>
     </recent_temporary>
   </component>
@@ -339,7 +339,8 @@
       <workItem from="1583084566294" duration="3180000" />
       <workItem from="1583147628129" duration="4404000" />
       <workItem from="1583160041085" duration="261000" />
-      <workItem from="1583217946609" duration="11533000" />
+      <workItem from="1583217946609" duration="11563000" />
+      <workItem from="1583303840048" duration="5508000" />
     </task>
     <task id="LOCAL-00001" summary="BigSorting &amp; tests">
       <created>1582406087016</created>
@@ -460,43 +461,50 @@
       <option name="project" value="LOCAL" />
       <updated>1583151892869</updated>
     </task>
-    <option name="localTasksCounter" value="18" />
+    <task id="LOCAL-00018" summary="Lisa's workbook &amp; tests.">
+      <created>1583230275705</created>
+      <option name="number" value="00018" />
+      <option name="presentableId" value="LOCAL-00018" />
+      <option name="project" value="LOCAL" />
+      <updated>1583230275705</updated>
+    </task>
+    <option name="localTasksCounter" value="19" />
     <servers />
   </component>
   <component name="TestHistory">
-    <history-entry file="LisasWorkbookTest_hackerTest - 2020.03.03 at 10h 13m 44s.xml">
-      <configuration name="LisasWorkbookTest.hackerTest" configurationId="JUnit" />
+    <history-entry file="ManasaAndStonesTest - 2020.03.04 at 08h 11m 36s.xml">
+      <configuration name="ManasaAndStonesTest" configurationId="JUnit" />
     </history-entry>
-    <history-entry file="LisasWorkbookTest_hackerTest - 2020.03.03 at 10h 17m 04s.xml">
-      <configuration name="LisasWorkbookTest.hackerTest" configurationId="JUnit" />
+    <history-entry file="ManasaAndStonesTest_sameDifference - 2020.03.04 at 08h 13m 40s.xml">
+      <configuration name="ManasaAndStonesTest.sameDifference" configurationId="JUnit" />
     </history-entry>
-    <history-entry file="LisasWorkbookTest - 2020.03.03 at 10h 17m 08s.xml">
-      <configuration name="LisasWorkbookTest" configurationId="JUnit" />
+    <history-entry file="ManasaAndStonesTest_sameDifference - 2020.03.04 at 08h 14m 11s.xml">
+      <configuration name="ManasaAndStonesTest.sameDifference" configurationId="JUnit" />
     </history-entry>
-    <history-entry file="LisasWorkbookTest_hackerTest2 - 2020.03.03 at 10h 21m 55s.xml">
-      <configuration name="LisasWorkbookTest.hackerTest2" configurationId="JUnit" />
+    <history-entry file="ManasaAndStonesTest_sameDifference - 2020.03.04 at 08h 14m 30s.xml">
+      <configuration name="ManasaAndStonesTest.sameDifference" configurationId="JUnit" />
     </history-entry>
-    <history-entry file="LisasWorkbookTest_hackerTest2 - 2020.03.03 at 10h 58m 26s.xml">
-      <configuration name="LisasWorkbookTest.hackerTest2" configurationId="JUnit" />
+    <history-entry file="ManasaAndStonesTest_sameDifference - 2020.03.04 at 08h 14m 48s.xml">
+      <configuration name="ManasaAndStonesTest.sameDifference" configurationId="JUnit" />
     </history-entry>
-    <history-entry file="LisasWorkbookTest_hackerTest2 - 2020.03.03 at 11h 00m 39s.xml">
-      <configuration name="LisasWorkbookTest.hackerTest2" configurationId="JUnit" />
+    <history-entry file="ManasaAndStonesTest_differenceZero - 2020.03.04 at 08h 51m 27s.xml">
+      <configuration name="ManasaAndStonesTest.differenceZero" configurationId="JUnit" />
     </history-entry>
-    <history-entry file="LisasWorkbookTest_hackerTest2 - 2020.03.03 at 11h 01m 42s.xml">
-      <configuration name="LisasWorkbookTest.hackerTest2" configurationId="JUnit" />
+    <history-entry file="ManasaAndStonesTest_differenceZero - 2020.03.04 at 08h 58m 56s.xml">
+      <configuration name="ManasaAndStonesTest.differenceZero" configurationId="JUnit" />
     </history-entry>
-    <history-entry file="LisasWorkbookTest_hackerTest2 - 2020.03.03 at 11h 06m 53s.xml">
-      <configuration name="LisasWorkbookTest.hackerTest2" configurationId="JUnit" />
+    <history-entry file="ManasaAndStonesTest_differenceZero - 2020.03.04 at 09h 04m 22s.xml">
+      <configuration name="ManasaAndStonesTest.differenceZero" configurationId="JUnit" />
     </history-entry>
-    <history-entry file="LisasWorkbookTest_hackerTest2 - 2020.03.03 at 11h 06m 57s.xml">
-      <configuration name="LisasWorkbookTest.hackerTest2" configurationId="JUnit" />
+    <history-entry file="ManasaAndStonesTest_distinctDifference1 - 2020.03.04 at 09h 04m 29s.xml">
+      <configuration name="ManasaAndStonesTest.distinctDifference1" configurationId="JUnit" />
     </history-entry>
-    <history-entry file="LisasWorkbookTest - 2020.03.03 at 11h 07m 44s.xml">
-      <configuration name="LisasWorkbookTest" configurationId="JUnit" />
+    <history-entry file="ManasaAndStonesTest_distinctDifference2 - 2020.03.04 at 09h 04m 36s.xml">
+      <configuration name="ManasaAndStonesTest.distinctDifference2" configurationId="JUnit" />
     </history-entry>
   </component>
   <component name="TimeTrackingManager">
-    <option name="totallyTimeSpent" value="109319000" />
+    <option name="totallyTimeSpent" value="114857000" />
   </component>
   <component name="TodoView">
     <todo-panel id="selected-file">
@@ -592,7 +600,8 @@
     <MESSAGE value="Code cleaning." />
     <MESSAGE value="Flatland Space Station &amp; tests." />
     <MESSAGE value="Happy Ladybugs &amp; tests." />
-    <option name="LAST_COMMIT_MESSAGE" value="Happy Ladybugs &amp; tests." />
+    <MESSAGE value="Lisa's workbook &amp; tests." />
+    <option name="LAST_COMMIT_MESSAGE" value="Lisa's workbook &amp; tests." />
   </component>
   <component name="editorHistoryManager">
     <entry file="file://$PROJECT_DIR$/.gitignore">
@@ -788,13 +797,6 @@
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/src/main/java/com/codecool/zsana/hackerrank/ManasaAndStones.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="85">
-          <caret line="5" column="81" selection-start-line="5" selection-start-column="81" selection-end-line="5" selection-end-column="81" />
-        </state>
-      </provider>
-    </entry>
     <entry file="file://$PROJECT_DIR$/src/main/java/com/codecool/zsana/hackerrank/PickingNumbers.java">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="85">
@@ -945,33 +947,49 @@
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/src/Conclusions">
+    <entry file="file://$PROJECT_DIR$/src/main/java/com/codecool/zsana/hackerrank/LisasWorkbook.java">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="476">
-          <caret line="78" column="85" lean-forward="true" selection-start-line="78" selection-start-column="85" selection-end-line="78" selection-end-column="85" />
+        <state>
+          <caret selection-end-line="1" />
         </state>
       </provider>
     </entry>
     <entry file="file://$PROJECT_DIR$/src/test/java/com/codecool/zsana/hackerrank/LisasWorkbookTest.java">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="493">
+        <state relative-caret-position="374">
           <caret line="29" column="118" selection-start-line="29" selection-start-column="118" selection-end-line="29" selection-end-column="118" />
           <folding>
             <element signature="imports" expanded="true" />
-            <element signature="e#318#319#0" expanded="true" />
-            <element signature="e#409#410#0" expanded="true" />
-            <element signature="e#471#472#0" expanded="true" />
-            <element signature="e#562#563#0" expanded="true" />
-            <element signature="e#464#465#0" expanded="true" />
-            <element signature="e#555#556#0" expanded="true" />
           </folding>
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/src/main/java/com/codecool/zsana/hackerrank/LisasWorkbook.java">
+    <entry file="file://$PROJECT_DIR$/src/main/java/com/codecool/zsana/hackerrank/ManasaAndStones.java">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="391">
-          <caret line="23" column="5" selection-start-line="23" selection-start-column="5" selection-end-line="23" selection-end-column="5" />
+        <state relative-caret-position="315">
+          <caret line="34" lean-forward="true" selection-start-line="34" selection-end-line="34" />
+          <folding>
+            <element signature="e#447#456#0" expanded="true" />
+            <element signature="e#624#633#0" expanded="true" />
+            <element signature="e#1007#1016#0" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/test/java/com/codecool/zsana/hackerrank/ManasaAndStonesTest.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="-76">
+          <caret line="11" column="22" selection-start-line="11" selection-start-column="22" selection-end-line="11" selection-end-column="22" />
+          <folding>
+            <element signature="imports" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/Conclusions">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="513">
+          <caret line="81" column="69" selection-start-line="81" selection-start-column="69" selection-end-line="81" selection-end-column="69" />
         </state>
       </provider>
     </entry>
