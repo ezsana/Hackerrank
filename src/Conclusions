@@ -84,3 +84,6 @@ Manasa And Stones: 30 points
 Picking Numbers: 20 points
 - Straightforward task, nothing special
 - All tests passed for the first attempt - including Hackerrank tests
+
+Strange Counter: 30 points
+- Straightforward, but Hackerrank tests with time limits didn't pass
