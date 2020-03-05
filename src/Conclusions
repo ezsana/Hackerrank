@@ -87,3 +87,8 @@ Picking Numbers: 20 points
 
 Strange Counter: 30 points
 - Straightforward, but Hackerrank tests with time limits didn't pass
+
+Taum And B'day: 25 points
+- Was not clear what the z unit meant
+- Explanation of the task was a huge help
+- int --> long change in parameters
