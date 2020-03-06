@@ -13,7 +13,7 @@ Big sorting: 20 points
 - my tests only tested integer but not BigInt => I needed to change them
 - working with BigInt is more complicated
 - time limit is a problem (my tests didn't cover that), I need to refactor the code
-- output was just the String[], not needed to print is out
+- output was just the String[], not needed to print it out
 
 Chocolate Feast: 25 points
 - concentrating on one test to pass at a time;
