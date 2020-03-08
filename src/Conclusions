@@ -92,3 +92,11 @@ Taum And B'day: 25 points
 - Was not clear what the z unit meant
 - Explanation of the task was a huge help
 - int --> long change in parameters
+
+The Grid Search:
+- testcases coming up when solving tests
+- testcases from Hackerrank I didn't think of => to find the weakness of my solution
+- on e test failed, need to rewrite the solution
+
+The Time In Words:
+- straightforward task but lot of if-statements in the solution
