@@ -2,70 +2,9 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="ad273933-47d7-45fc-b820-3e267a35a029" name="Default Changelist" comment="">
-      <change afterPath="$PROJECT_DIR$/.idea/uiDesigner.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/com/codecool/zsana/hackerrank/second/Anagram.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/com/codecool/zsana/hackerrank/second/CorrectnessAndTheLoopInvariant.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/com/codecool/zsana/hackerrank/second/FindTheMedian.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/com/codecool/zsana/hackerrank/second/FunnyString.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/com/codecool/zsana/hackerrank/second/GameOfThronesOne.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/com/codecool/zsana/hackerrank/second/IceCreamParlor.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/com/codecool/zsana/hackerrank/second/InsertionSortPartTwo.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/com/codecool/zsana/hackerrank/second/IntroToTutorialChallenges.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/com/codecool/zsana/hackerrank/second/PalindromeIndex.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/com/codecool/zsana/hackerrank/second/RunningTimeOfAlgorithms.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/com/codecool/zsana/hackerrank/second/SmartNumber.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/com/codecool/zsana/hackerrank/second/StringConstruction.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/com/codecool/zsana/hackerrank/second/SumVsXor.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/com/codecool/zsana/hackerrank/second/XorStrings.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/test/java/com/codecool/zsana/hackerrank/second/AnagramTest.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/test/java/com/codecool/zsana/hackerrank/first/UtopianTreeTest.java" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/main/java/com/codecool/zsana/hackerrank/ACMICPCTeam.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/com/codecool/zsana/hackerrank/first/ACMICPCTeam.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/main/java/com/codecool/zsana/hackerrank/BigSorting.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/com/codecool/zsana/hackerrank/first/BigSorting.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/main/java/com/codecool/zsana/hackerrank/CavityMap.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/com/codecool/zsana/hackerrank/first/CavityMap.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/main/java/com/codecool/zsana/hackerrank/ChocolateFeast.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/com/codecool/zsana/hackerrank/first/ChocolateFeast.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/main/java/com/codecool/zsana/hackerrank/CircularArrayRotation.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/com/codecool/zsana/hackerrank/first/CircularArrayRotation.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/main/java/com/codecool/zsana/hackerrank/CutTheSticks.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/com/codecool/zsana/hackerrank/first/CutTheSticks.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/main/java/com/codecool/zsana/hackerrank/DayOfTheProgrammer.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/com/codecool/zsana/hackerrank/first/DayOfTheProgrammer.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/main/java/com/codecool/zsana/hackerrank/DesignerPDFViewer.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/com/codecool/zsana/hackerrank/first/DesignerPDFViewer.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/main/java/com/codecool/zsana/hackerrank/ElectronicShop.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/com/codecool/zsana/hackerrank/first/ElectronicShop.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/main/java/com/codecool/zsana/hackerrank/Encryption.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/com/codecool/zsana/hackerrank/first/Encryption.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/main/java/com/codecool/zsana/hackerrank/EqualizeTheArray.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/com/codecool/zsana/hackerrank/first/EqualizeTheArray.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/main/java/com/codecool/zsana/hackerrank/FairRations.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/com/codecool/zsana/hackerrank/first/FairRations.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/main/java/com/codecool/zsana/hackerrank/FindDigits.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/com/codecool/zsana/hackerrank/first/FindDigits.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/main/java/com/codecool/zsana/hackerrank/FlatlandSpaceStations.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/com/codecool/zsana/hackerrank/first/FlatlandSpaceStations.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/main/java/com/codecool/zsana/hackerrank/HappyLadybugs.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/com/codecool/zsana/hackerrank/first/HappyLadybugs.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/main/java/com/codecool/zsana/hackerrank/LisasWorkbook.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/com/codecool/zsana/hackerrank/first/LisasWorkbook.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/main/java/com/codecool/zsana/hackerrank/ManasaAndStones.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/com/codecool/zsana/hackerrank/first/ManasaAndStones.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/main/java/com/codecool/zsana/hackerrank/PickingNumbers.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/com/codecool/zsana/hackerrank/first/PickingNumbers.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/main/java/com/codecool/zsana/hackerrank/StrangeCounter.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/com/codecool/zsana/hackerrank/first/StrangeCounter.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/main/java/com/codecool/zsana/hackerrank/TaumAndBday.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/com/codecool/zsana/hackerrank/first/TaumAndBday.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/main/java/com/codecool/zsana/hackerrank/TheGridSearch.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/com/codecool/zsana/hackerrank/first/TheGridSearch.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/main/java/com/codecool/zsana/hackerrank/TheTimeInWords.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/com/codecool/zsana/hackerrank/first/TheTimeInWords.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/main/java/com/codecool/zsana/hackerrank/TimeConversion.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/com/codecool/zsana/hackerrank/first/TimeConversion.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/main/java/com/codecool/zsana/hackerrank/UtopianTree.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/com/codecool/zsana/hackerrank/first/UtopianTree.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/test/java/com/codecool/zsana/hackerrank/ACMICPCTeamTest.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/test/java/com/codecool/zsana/hackerrank/first/ACMICPCTeamTest.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/test/java/com/codecool/zsana/hackerrank/BigSortingTest.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/test/java/com/codecool/zsana/hackerrank/first/BigSortingTest.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/test/java/com/codecool/zsana/hackerrank/CavityMapTest.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/test/java/com/codecool/zsana/hackerrank/first/CavityMapTest.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/test/java/com/codecool/zsana/hackerrank/ChocolateFeastTest.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/test/java/com/codecool/zsana/hackerrank/first/ChocolateFeastTest.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/test/java/com/codecool/zsana/hackerrank/CircularArrayRotationTest.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/test/java/com/codecool/zsana/hackerrank/first/CircularArrayRotationTest.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/test/java/com/codecool/zsana/hackerrank/CutTheSticksTest.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/test/java/com/codecool/zsana/hackerrank/first/CutTheSticksTest.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/test/java/com/codecool/zsana/hackerrank/DayOfTheProgrammerTest.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/test/java/com/codecool/zsana/hackerrank/first/DayOfTheProgrammerTest.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/test/java/com/codecool/zsana/hackerrank/DesignerPDFViewerTest.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/test/java/com/codecool/zsana/hackerrank/first/DesignerPDFViewerTest.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/test/java/com/codecool/zsana/hackerrank/ElectronicShopTest.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/test/java/com/codecool/zsana/hackerrank/first/ElectronicShopTest.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/test/java/com/codecool/zsana/hackerrank/EncryptionTest.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/test/java/com/codecool/zsana/hackerrank/first/EncryptionTest.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/test/java/com/codecool/zsana/hackerrank/EqualizeTheArrayTest.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/test/java/com/codecool/zsana/hackerrank/first/EqualizeTheArrayTest.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/test/java/com/codecool/zsana/hackerrank/FairRationsTest.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/test/java/com/codecool/zsana/hackerrank/first/FairRationsTest.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/test/java/com/codecool/zsana/hackerrank/FindDigitsTest.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/test/java/com/codecool/zsana/hackerrank/first/FindDigitsTest.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/test/java/com/codecool/zsana/hackerrank/FlatlandSpaceStationsTest.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/test/java/com/codecool/zsana/hackerrank/first/FlatlandSpaceStationsTest.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/test/java/com/codecool/zsana/hackerrank/HappyLadybugsTest.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/test/java/com/codecool/zsana/hackerrank/first/HappyLadybugsTest.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/test/java/com/codecool/zsana/hackerrank/LisasWorkbookTest.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/test/java/com/codecool/zsana/hackerrank/first/LisasWorkbookTest.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/test/java/com/codecool/zsana/hackerrank/ManasaAndStonesTest.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/test/java/com/codecool/zsana/hackerrank/first/ManasaAndStonesTest.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/test/java/com/codecool/zsana/hackerrank/PickingNumbersTest.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/test/java/com/codecool/zsana/hackerrank/first/PickingNumbersTest.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/test/java/com/codecool/zsana/hackerrank/StrangeCounterTest.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/test/java/com/codecool/zsana/hackerrank/first/StrangeCounterTest.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/test/java/com/codecool/zsana/hackerrank/TaumAndBdayTest.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/test/java/com/codecool/zsana/hackerrank/first/TaumAndBdayTest.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/test/java/com/codecool/zsana/hackerrank/TheGridSearchTest.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/test/java/com/codecool/zsana/hackerrank/first/TheGridSearchTest.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/test/java/com/codecool/zsana/hackerrank/TheTimeInWordsTest.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/test/java/com/codecool/zsana/hackerrank/first/TheTimeInWordsTest.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/test/java/com/codecool/zsana/hackerrank/TimeConversionTest.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/test/java/com/codecool/zsana/hackerrank/first/TimeConversionTest.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/java/com/codecool/zsana/hackerrank/first/UtopianTree.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/com/codecool/zsana/hackerrank/first/UtopianTree.java" afterDir="false" />
     </list>
     <ignored path="$PROJECT_DIR$/out/" />
     <ignored path="$PROJECT_DIR$/target/" />
@@ -79,7 +18,29 @@
     <option name="isMigrated" value="true" />
   </component>
   <component name="FileEditorManager">
-    <leaf SIDE_TABS_SIZE_LIMIT_KEY="300" />
+    <leaf SIDE_TABS_SIZE_LIMIT_KEY="300">
+      <file pinned="false" current-in-tab="true">
+        <entry file="file://$PROJECT_DIR$/src/main/java/com/codecool/zsana/hackerrank/first/UtopianTree.java">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="289">
+              <caret line="17" column="5" selection-start-line="17" selection-start-column="5" selection-end-line="17" selection-end-column="5" />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/src/test/java/com/codecool/zsana/hackerrank/first/UtopianTreeTest.java">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="-14">
+              <caret line="16" column="33" selection-start-line="16" selection-start-column="33" selection-end-line="16" selection-end-column="33" />
+              <folding>
+                <element signature="imports" expanded="true" />
+              </folding>
+            </state>
+          </provider>
+        </entry>
+      </file>
+    </leaf>
   </component>
   <component name="FileTemplateManagerImpl">
     <option name="RECENT_TEMPLATES">
@@ -95,7 +56,6 @@
   <component name="IdeDocumentHistory">
     <option name="CHANGED_PATHS">
       <list>
-        <option value="$PROJECT_DIR$/src/test/java/com/codecool/zsana/hackerrank/StrangeCounterTest.java" />
         <option value="$PROJECT_DIR$/src/main/java/com/codecool/zsana/hackerrank/StrangeCounter.java" />
         <option value="$PROJECT_DIR$/src/test/java/com/codecool/zsana/hackerrank/TaumAndBdayTest.java" />
         <option value="$PROJECT_DIR$/src/main/java/com/codecool/zsana/hackerrank/TaumAndBday.java" />
@@ -107,7 +67,6 @@
         <option value="$PROJECT_DIR$/src/test/java/com/codecool/zsana/hackerrank/TimeConversionTest.java" />
         <option value="$PROJECT_DIR$/src/main/java/com/codecool/zsana/hackerrank/TimeConversion.java" />
         <option value="$PROJECT_DIR$/src/Conclusions" />
-        <option value="$PROJECT_DIR$/src/main/java/com/codecool/zsana/hackerrank/first/UtopianTree.java" />
         <option value="$PROJECT_DIR$/src/test/java/com/codecool/zsana/hackerrank/first/CavityMapTest.java" />
         <option value="$PROJECT_DIR$/src/test/java/com/codecool/zsana/hackerrank/first/ACMICPCTeamTest.java" />
         <option value="$PROJECT_DIR$/src/test/java/com/codecool/zsana/hackerrank/first/BigSortingTest.java" />
@@ -146,6 +105,8 @@
         <option value="$PROJECT_DIR$/src/test/java/com/codecool/zsana/hackerrank/first/TheGridSearchTest.java" />
         <option value="$PROJECT_DIR$/src/test/java/com/codecool/zsana/hackerrank/first/TheTimeInWordsTest.java" />
         <option value="$PROJECT_DIR$/src/test/java/com/codecool/zsana/hackerrank/first/TimeConversionTest.java" />
+        <option value="$PROJECT_DIR$/src/test/java/com/codecool/zsana/hackerrank/first/UtopianTreeTest.java" />
+        <option value="$PROJECT_DIR$/src/main/java/com/codecool/zsana/hackerrank/first/UtopianTree.java" />
       </list>
     </option>
   </component>
@@ -262,15 +223,6 @@
               <item name="hackerrank" type="462c0819:PsiDirectoryNode" />
               <item name="first" type="462c0819:PsiDirectoryNode" />
             </path>
-            <path>
-              <item name="hackerrank" type="b2602c69:ProjectViewProjectNode" />
-              <item name="Hackerrank" type="462c0819:PsiDirectoryNode" />
-              <item name="src" type="462c0819:PsiDirectoryNode" />
-              <item name="test" type="462c0819:PsiDirectoryNode" />
-              <item name="java" type="462c0819:PsiDirectoryNode" />
-              <item name="hackerrank" type="462c0819:PsiDirectoryNode" />
-              <item name="second" type="462c0819:PsiDirectoryNode" />
-            </path>
           </expand>
           <select />
         </subPane>
@@ -295,6 +247,7 @@
   </component>
   <component name="RecentsManager">
     <key name="CreateTestDialog.RecentsKey">
+      <recent name="com.codecool.zsana.hackerrank.first" />
       <recent name="com.codecool.zsana.hackerrank.second" />
       <recent name="com.codecool.zsana.hackerrank" />
     </key>
@@ -317,8 +270,9 @@
       </list>
     </option>
   </component>
-  <component name="RunManager" selected="JUnit.CavityMapTest">
-    <configuration name="CavityMapTest" type="JUnit" factoryName="JUnit" temporary="true" nameIsGenerated="true">
+  <component name="RunManager" selected="Application.UtopianTree">
+    <configuration name="UtopianTree" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="com.codecool.zsana.hackerrank.first.UtopianTree" />
       <module name="Hackerrank" />
       <extension name="coverage">
         <pattern>
@@ -326,14 +280,11 @@
           <option name="ENABLED" value="true" />
         </pattern>
       </extension>
-      <option name="PACKAGE_NAME" value="com.codecool.zsana.hackerrank.first" />
-      <option name="MAIN_CLASS_NAME" value="com.codecool.zsana.hackerrank.first.CavityMapTest" />
-      <option name="TEST_OBJECT" value="class" />
       <method v="2">
         <option name="Make" enabled="true" />
       </method>
     </configuration>
-    <configuration name="TheTimeInWordsTest" type="JUnit" factoryName="JUnit" temporary="true" nameIsGenerated="true">
+    <configuration name="UtopianTreeTest.evenNumberCycle" type="JUnit" factoryName="JUnit" temporary="true" nameIsGenerated="true">
       <module name="Hackerrank" />
       <extension name="coverage">
         <pattern>
@@ -342,29 +293,14 @@
         </pattern>
       </extension>
       <option name="PACKAGE_NAME" value="com.codecool.zsana.hackerrank.first" />
-      <option name="MAIN_CLASS_NAME" value="com.codecool.zsana.hackerrank.first.TheTimeInWordsTest" />
-      <option name="TEST_OBJECT" value="class" />
-      <method v="2">
-        <option name="Make" enabled="true" />
-      </method>
-    </configuration>
-    <configuration name="TheTimeInWordsTest.minutesTo" type="JUnit" factoryName="JUnit" temporary="true" nameIsGenerated="true">
-      <module name="Hackerrank" />
-      <extension name="coverage">
-        <pattern>
-          <option name="PATTERN" value="com.codecool.zsana.hackerrank.first.*" />
-          <option name="ENABLED" value="true" />
-        </pattern>
-      </extension>
-      <option name="PACKAGE_NAME" value="com.codecool.zsana.hackerrank.first" />
-      <option name="MAIN_CLASS_NAME" value="com.codecool.zsana.hackerrank.first.TheTimeInWordsTest" />
-      <option name="METHOD_NAME" value="minutesTo" />
+      <option name="MAIN_CLASS_NAME" value="com.codecool.zsana.hackerrank.first.UtopianTreeTest" />
+      <option name="METHOD_NAME" value="evenNumberCycle" />
       <option name="TEST_OBJECT" value="method" />
       <method v="2">
         <option name="Make" enabled="true" />
       </method>
     </configuration>
-    <configuration name="TheTimeInWordsTest.oneMinute" type="JUnit" factoryName="JUnit" temporary="true" nameIsGenerated="true">
+    <configuration name="UtopianTreeTest.oddNumberCycle" type="JUnit" factoryName="JUnit" temporary="true" nameIsGenerated="true">
       <module name="Hackerrank" />
       <extension name="coverage">
         <pattern>
@@ -373,14 +309,14 @@
         </pattern>
       </extension>
       <option name="PACKAGE_NAME" value="com.codecool.zsana.hackerrank.first" />
-      <option name="MAIN_CLASS_NAME" value="com.codecool.zsana.hackerrank.first.TheTimeInWordsTest" />
-      <option name="METHOD_NAME" value="oneMinute" />
+      <option name="MAIN_CLASS_NAME" value="com.codecool.zsana.hackerrank.first.UtopianTreeTest" />
+      <option name="METHOD_NAME" value="oddNumberCycle" />
       <option name="TEST_OBJECT" value="method" />
       <method v="2">
         <option name="Make" enabled="true" />
       </method>
     </configuration>
-    <configuration name="TimeConversionTest" type="JUnit" factoryName="JUnit" temporary="true" nameIsGenerated="true">
+    <configuration name="UtopianTreeTest.oneCycle" type="JUnit" factoryName="JUnit" temporary="true" nameIsGenerated="true">
       <module name="Hackerrank" />
       <extension name="coverage">
         <pattern>
@@ -389,19 +325,36 @@
         </pattern>
       </extension>
       <option name="PACKAGE_NAME" value="com.codecool.zsana.hackerrank.first" />
-      <option name="MAIN_CLASS_NAME" value="com.codecool.zsana.hackerrank.first.TimeConversionTest" />
-      <option name="TEST_OBJECT" value="class" />
+      <option name="MAIN_CLASS_NAME" value="com.codecool.zsana.hackerrank.first.UtopianTreeTest" />
+      <option name="METHOD_NAME" value="oneCycle" />
+      <option name="TEST_OBJECT" value="method" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="UtopianTreeTest.twoCycle" type="JUnit" factoryName="JUnit" temporary="true" nameIsGenerated="true">
+      <module name="Hackerrank" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="com.codecool.zsana.hackerrank.first.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <option name="PACKAGE_NAME" value="com.codecool.zsana.hackerrank.first" />
+      <option name="MAIN_CLASS_NAME" value="com.codecool.zsana.hackerrank.first.UtopianTreeTest" />
+      <option name="METHOD_NAME" value="twoCycle" />
+      <option name="TEST_OBJECT" value="method" />
       <method v="2">
         <option name="Make" enabled="true" />
       </method>
     </configuration>
     <recent_temporary>
       <list>
-        <item itemvalue="JUnit.CavityMapTest" />
-        <item itemvalue="JUnit.TimeConversionTest" />
-        <item itemvalue="JUnit.TheTimeInWordsTest.oneMinute" />
-        <item itemvalue="JUnit.TheTimeInWordsTest" />
-        <item itemvalue="JUnit.TheTimeInWordsTest.minutesTo" />
+        <item itemvalue="Application.UtopianTree" />
+        <item itemvalue="JUnit.UtopianTreeTest.oddNumberCycle" />
+        <item itemvalue="JUnit.UtopianTreeTest.evenNumberCycle" />
+        <item itemvalue="JUnit.UtopianTreeTest.twoCycle" />
+        <item itemvalue="JUnit.UtopianTreeTest.oneCycle" />
       </list>
     </recent_temporary>
   </component>
@@ -441,7 +394,8 @@
       <workItem from="1583591341608" duration="405000" />
       <workItem from="1583649005129" duration="3708000" />
       <workItem from="1583822518941" duration="1738000" />
-      <workItem from="1583869396172" duration="2681000" />
+      <workItem from="1583869396172" duration="3022000" />
+      <workItem from="1583912596663" duration="1259000" />
     </task>
     <task id="LOCAL-00001" summary="BigSorting &amp; tests">
       <created>1582406087016</created>
@@ -618,43 +572,50 @@
       <option name="project" value="LOCAL" />
       <updated>1583824238713</updated>
     </task>
-    <option name="localTasksCounter" value="26" />
+    <task id="LOCAL-00026" summary="Structure change, first and second package created. New hackerrank tasks added.">
+      <created>1583874702493</created>
+      <option name="number" value="00026" />
+      <option name="presentableId" value="LOCAL-00026" />
+      <option name="project" value="LOCAL" />
+      <updated>1583874702493</updated>
+    </task>
+    <option name="localTasksCounter" value="27" />
     <servers />
   </component>
   <component name="TestHistory">
-    <history-entry file="TheTimeInWordsTest_minutesTo - 2020.03.08 at 08h 08m 13s.xml">
-      <configuration name="TheTimeInWordsTest.minutesTo" configurationId="JUnit" />
-    </history-entry>
-    <history-entry file="TheTimeInWordsTest - 2020.03.08 at 08h 08m 20s.xml">
-      <configuration name="TheTimeInWordsTest" configurationId="JUnit" />
-    </history-entry>
-    <history-entry file="TheTimeInWordsTest - 2020.03.08 at 08h 10m 35s.xml">
-      <configuration name="TheTimeInWordsTest" configurationId="JUnit" />
-    </history-entry>
-    <history-entry file="TheTimeInWordsTest - 2020.03.08 at 08h 12m 44s.xml">
-      <configuration name="TheTimeInWordsTest" configurationId="JUnit" />
-    </history-entry>
-    <history-entry file="TheTimeInWordsTest_oneMinute - 2020.03.08 at 08h 18m 17s.xml">
-      <configuration name="TheTimeInWordsTest.oneMinute" configurationId="JUnit" />
-    </history-entry>
-    <history-entry file="TimeConversionTest - 2020.03.10 at 07h 53m 35s.xml">
-      <configuration name="TimeConversionTest" configurationId="JUnit" />
-    </history-entry>
-    <history-entry file="TimeConversionTest - 2020.03.10 at 08h 06m 27s.xml">
-      <configuration name="TimeConversionTest" configurationId="JUnit" />
-    </history-entry>
-    <history-entry file="TimeConversionTest - 2020.03.10 at 08h 06m 49s.xml">
-      <configuration name="TimeConversionTest" configurationId="JUnit" />
-    </history-entry>
-    <history-entry file="TimeConversionTest - 2020.03.10 at 08h 07m 35s.xml">
-      <configuration name="TimeConversionTest" configurationId="JUnit" />
-    </history-entry>
     <history-entry file="CavityMapTest - 2020.03.10 at 20h 47m 41s.xml">
       <configuration name="CavityMapTest" configurationId="JUnit" />
     </history-entry>
+    <history-entry file="UtopianTreeTest - 2020.03.11 at 08h 55m 33s.xml">
+      <configuration name="UtopianTreeTest" configurationId="JUnit" />
+    </history-entry>
+    <history-entry file="UtopianTreeTest - 2020.03.11 at 08h 57m 56s.xml">
+      <configuration name="UtopianTreeTest" configurationId="JUnit" />
+    </history-entry>
+    <history-entry file="UtopianTreeTest_zeroCycle - 2020.03.11 at 08h 59m 36s.xml">
+      <configuration name="UtopianTreeTest.zeroCycle" configurationId="JUnit" />
+    </history-entry>
+    <history-entry file="UtopianTreeTest_zeroCycle - 2020.03.11 at 08h 59m 48s.xml">
+      <configuration name="UtopianTreeTest.zeroCycle" configurationId="JUnit" />
+    </history-entry>
+    <history-entry file="UtopianTreeTest_zeroCycle - 2020.03.11 at 09h 00m 34s.xml">
+      <configuration name="UtopianTreeTest.zeroCycle" configurationId="JUnit" />
+    </history-entry>
+    <history-entry file="UtopianTreeTest_oneCycle - 2020.03.11 at 09h 00m 43s.xml">
+      <configuration name="UtopianTreeTest.oneCycle" configurationId="JUnit" />
+    </history-entry>
+    <history-entry file="UtopianTreeTest_twoCycle - 2020.03.11 at 09h 00m 49s.xml">
+      <configuration name="UtopianTreeTest.twoCycle" configurationId="JUnit" />
+    </history-entry>
+    <history-entry file="UtopianTreeTest_evenNumberCycle - 2020.03.11 at 09h 00m 54s.xml">
+      <configuration name="UtopianTreeTest.evenNumberCycle" configurationId="JUnit" />
+    </history-entry>
+    <history-entry file="UtopianTreeTest_oddNumberCycle - 2020.03.11 at 09h 01m 00s.xml">
+      <configuration name="UtopianTreeTest.oddNumberCycle" configurationId="JUnit" />
+    </history-entry>
   </component>
   <component name="TimeTrackingManager">
-    <option name="totallyTimeSpent" value="140698000" />
+    <option name="totallyTimeSpent" value="142298000" />
   </component>
   <component name="TodoView">
     <todo-panel id="selected-file">
@@ -667,8 +628,9 @@
   </component>
   <component name="ToolWindowManager">
     <frame x="67" y="27" width="1299" height="741" extended-state="6" />
+    <editor active="true" />
     <layout>
-      <window_info active="true" content_ui="combo" id="Project" order="0" visible="true" weight="0.26895452" />
+      <window_info content_ui="combo" id="Project" order="0" weight="0.26895452" />
       <window_info id="Structure" order="1" side_tool="true" weight="0.25" />
       <window_info id="Image Layers" order="2" />
       <window_info id="Designer" order="3" />
@@ -757,33 +719,10 @@
     <MESSAGE value="Typo in Conclusions." />
     <MESSAGE value="The Grid Search; The Time In Words &amp; testcases." />
     <MESSAGE value="Time Conversion &amp; testcases." />
-    <option name="LAST_COMMIT_MESSAGE" value="Time Conversion &amp; testcases." />
+    <MESSAGE value="Structure change, first and second package created. New hackerrank tasks added." />
+    <option name="LAST_COMMIT_MESSAGE" value="Structure change, first and second package created. New hackerrank tasks added." />
   </component>
   <component name="editorHistoryManager">
-    <entry file="file://$PROJECT_DIR$/src/main/java/com/codecool/zsana/hackerrank/first/StrangeCounter.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="51">
-          <caret line="3" selection-start-line="3" selection-end-line="3" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/src/main/java/com/codecool/zsana/hackerrank/first/TaumAndBday.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="258">
-          <caret line="18" selection-start-line="18" selection-end-line="18" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/src/main/java/com/codecool/zsana/hackerrank/first/CavityMap.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="153">
-          <caret line="9" column="49" selection-start-line="9" selection-start-column="49" selection-end-line="9" selection-end-column="49" />
-          <folding>
-            <element signature="imports" expanded="true" />
-          </folding>
-        </state>
-      </provider>
-    </entry>
     <entry file="file://$PROJECT_DIR$/src/main/java/com/codecool/zsana/hackerrank/first/BigSorting.java">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="119">
@@ -861,13 +800,6 @@
       <provider selected="true" editor-type-id="text-editor">
         <state>
           <caret column="44" selection-start-column="44" selection-end-column="44" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/src/main/java/com/codecool/zsana/hackerrank/first/UtopianTree.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="136">
-          <caret line="8" lean-forward="true" selection-start-line="8" selection-end-line="8" />
         </state>
       </provider>
     </entry>
@@ -1192,6 +1124,33 @@
           <folding>
             <element signature="imports" expanded="true" />
           </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/.idea/workspace.xml">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="-1428" />
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/.idea/uiDesigner.xml">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="-1640" />
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/test/java/com/codecool/zsana/hackerrank/first/UtopianTreeTest.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="-14">
+          <caret line="16" column="33" selection-start-line="16" selection-start-column="33" selection-end-line="16" selection-end-column="33" />
+          <folding>
+            <element signature="imports" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/main/java/com/codecool/zsana/hackerrank/first/UtopianTree.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="289">
+          <caret line="17" column="5" selection-start-line="17" selection-start-column="5" selection-end-line="17" selection-end-column="5" />
         </state>
       </provider>
     </entry>

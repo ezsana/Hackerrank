@@ -98,8 +98,11 @@ The Grid Search:
 - testcases from Hackerrank I didn't think of => to find the weakness of my solution
 - on e test failed, need to rewrite the solution
 
-The Time In Words:
+The Time In Words: 25 points (medium)
 - straightforward task but lot of if-statements in the solution
 
-Time Conversion:
+Time Conversion: 15 points
+- straightforward task
+
+Utopian Tree: 20 points
 - straightforward task
